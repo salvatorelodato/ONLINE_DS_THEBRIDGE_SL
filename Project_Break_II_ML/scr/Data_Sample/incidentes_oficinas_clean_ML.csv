@@ -1,0 +1,1188 @@
+id_incidente;fecha_incidente;hora_incidente;ciudad_oficina;agresion_verbal;agresion_fisica;llamada_fcs;dia_mes;aforo_alto;agresion_fisica_verbal
+RITM1043978;01/01/2022;8:40:00;Branch - C?iz;No;No;No;1;1;No
+RITM1043979;02/01/2022;8:39:00;Branch - Barcelona Meridiana;No;No;No;2;0;No
+RITM1043803;05/06/2022;11:15:00;Branch - Barcelona Meridiana;Si;Si;Si;3;0;Si
+RITM1043438;04/01/2022;18:07:00;Branch - C?iz;No;No;No;4;0;No
+RITM1042998;06/01/2022;10:02:00;Branch - Barcelona Meridiana;Si;No;No;6;0;Si
+RITM1042466;06/01/2022;13:50:00;Branch - Madrid Santa Engracia;Si;No;No;6;1;Si
+RITM1042373;09/01/2022;10:40:00;Branch - Madrid O Donnell;No;No;No;9;1;No
+RITM1042359;09/01/2022;8:49:00;Branch - Barcelona Meridiana;Si;No;No;9;1;Si
+RITM1042062;10/01/2022;12:17:00;Branch - Madrid Santa Engracia;No;No;No;6;0;No
+RITM1041979;12/01/2022;9:21:00;Branch - Madrid Santa Engracia;No;No;No;12;0;No
+RITM1041855;13/01/2022;15:55:00;Branch - Madrid Costa Rica;No;No;No;13;0;No
+RITM1041287;13/01/2022;16:39:00;Branch - Valencia;No;No;No;13;1;No
+RITM1040645;14/01/2022;10:33:00;Branch - C?iz;No;No;No;14;0;No
+RITM1040279;14/01/2022;9:37:00;Branch - Alicante;No;No;No;14;0;No
+RITM1039672;20/01/2022;16:14:00;Branch - Madrid Santa Engracia;No;Si;Si;20;1;Si
+RITM1038275;23/01/2022;16:00:00;Branch - Madrid Santa Engracia;No;No;No;23;1;No
+RITM1037951;25/01/2022;14:14:00;Branch - Barcelona Meridiana;No;No;No;25;1;No
+RITM1037664;27/01/2022;17:28:00;Branch - Valencia;No;No;No;27;0;No
+RITM1037206;27/01/2022;14:03:00;Branch - C?iz;No;No;No;27;1;No
+RITM1036984;25/01/2022;9:00:00;Branch - C?iz;Si;No;No;27;0;Si
+RITM1036923;25/01/2022;14:24:00;Branch - Alicante;Si;No;No;27;1;Si
+RITM1036315;28/01/2022;17:08:00;Branch - C?iz;No;No;No;28;0;No
+RITM1036244;28/01/2022;13:51:00;Branch - Madrid Santa Engracia;Si;No;No;28;0;Si
+RITM1036147;30/01/2022;8:51:00;Branch - Barcelona Meridiana;No;Si;Si;4;1;Si
+RITM1035654;31/01/2022;15:43:00;Branch - Barcelona Meridiana;No;No;No;31;0;No
+RITM1035174;31/01/2022;17:25:00;Branch - C?iz;Si;No;No;31;0;No
+RITM1035133;01/02/2022;14:00:00;Branch - Madrid O Donnell;Si;No;No;1;1;No
+RITM1034924;03/02/2022;9:17:00;Branch - C?iz;No;No;No;3;1;No
+RITM1034560;03/02/2022;13:36:00;Branch - Madrid Santa Engracia;No;No;No;3;1;No
+RITM1033214;03/02/2022;14:04:00;Branch - Barcelona Meridiana;Si;No;No;3;0;Si
+RITM1032087;04/02/2022;17:33:00;Branch - Madrid Costa Rica;No;No;No;4;0;No
+RITM1031666;05/02/2022;14:00:00;Branch - Madrid Costa Rica;No;No;No;17;0;No
+RITM1031622;10/02/2022;9:18:00;Branch - Madrid Costa Rica;Si;No;No;6;1;Si
+RITM1031341;09/02/2022;13:44:00;Branch - Barcelona Meridiana;No;No;No;9;1;No
+RITM1030653;10/02/2022;8:59:00;Branch - C?iz;Si;No;No;10;0;Si
+RITM1030650;10/02/2022;17:15:00;Branch - C?iz;Si;No;No;10;1;Si
+RITM1030584;10/02/2022;13:57:00;Branch - Alicante;No;No;No;10;0;No
+RITM1030222;10/02/2022;13:47:00;Branch - Alicante;No;No;No;10;1;No
+RITM1029629;13/02/2022;8:57:00;Branch - Barcelona Meridiana;No;No;No;13;1;No
+RITM1029382;14/02/2022;13:46:00;Branch - Barcelona Meridiana;No;No;No;14;1;No
+RITM1029349;05/02/2022;13:48:00;Branch - Valencia;Si;No;No;15;0;Si
+RITM1029309;15/02/2022;9:20:00;Branch - Alicante;No;No;No;15;0;No
+RITM1029301;16/02/2022;13:43:00;Branch - Alicante;No;No;No;16;0;No
+RITM1028595;16/02/2022;14:08:00;Branch - Alicante;No;No;No;16;0;No
+RITM1028433;18/02/2022;14:14:00;Branch - C?iz;No;No;No;18;0;No
+RITM1026232;19/02/2022;9:14:00;Branch - Barcelona Meridiana;No;No;No;19;0;No
+RITM1026110;21/02/2022;13:41:00;Branch - Madrid Costa Rica;Si;No;No;21;1;Si
+RITM1026023;22/02/2022;15:48:00;Branch - Madrid Santa Engracia;No;No;No;22;0;No
+RITM1025689;23/02/2022;13:59:00;Branch - Barcelona Meridiana;No;Si;Si;23;0;Si
+RITM1025346;24/02/2022;9:34:00;Branch - Alicante;No;No;No;24;0;No
+RITM1025222;26/02/2022;13:40:00;Branch - Madrid Santa Engracia;Si;No;No;26;1;Si
+RITM1025154;27/02/2022;14:04:00;Branch - Madrid O Donnell;No;No;No;27;1;No
+RITM1024250;28/02/2022;13:57:00;Branch - Madrid Costa Rica;No;No;No;28;1;No
+RITM1023970;01/03/2022;14:27:00;Branch - Valencia;No;No;No;14;1;No
+RITM1023626;01/03/2022;14:02:00;Branch - Barcelona Meridiana;No;No;No;12;0;No
+RITM1022026;01/03/2022;9:00:00;Branch - Alicante;Si;No;No;1;0;Si
+RITM1021869;02/03/2022;13:40:00;Branch - Barcelona Meridiana;No;No;No;2;0;No
+RITM1021704;02/03/2022;9:07:00;Branch - C?iz;No;No;No;2;0;No
+RITM1021439;03/03/2022;13:40:00;Branch - Barcelona Meridiana;No;No;No;3;1;No
+RITM1021011;04/03/2022;9:36:00;Branch - Madrid O Donnell;Si;No;No;4;0;Si
+RITM1020814;06/03/2022;8:40:00;Branch - Barcelona Meridiana;Si;No;No;6;0;Si
+RITM1020342;06/03/2022;8:53:00;Branch - Barcelona Meridiana;No;No;No;6;0;No
+RITM1020156;06/03/2022;9:34:00;Branch - Barcelona Meridiana;Si;No;No;6;0;Si
+RITM1020139;10/03/2022;9:27:00;Branch - Barcelona Meridiana;No;No;No;8;0;No
+RITM1019823;12/03/2022;14:20:00;Branch - Madrid O Donnell;No;No;No;12;1;No
+RITM1019540;13/03/2022;8:48:00;Branch - Madrid Santa Engracia;Si;No;No;13;1;Si
+RITM1019488;15/03/2022;13:51:00;Branch - C?iz;Si;No;No;15;0;Si
+RITM1019199;15/03/2022;15:30:00;Branch - Valencia;Si;No;No;15;0;Si
+RITM1019127;17/03/2022;13:56:00;Branch - Madrid Santa Engracia;No;No;No;17;1;No
+RITM1019126;17/03/2022;13:23:00;Branch - Barcelona Meridiana;No;No;No;17;0;No
+RITM1018422;18/03/2022;13:44:00;Branch - C?iz;Si;No;No;18;0;Si
+RITM1018349;20/03/2022;9:33:00;Branch - Barcelona Meridiana;No;No;No;20;1;No
+RITM1018337;23/03/2022;13:25:00;Branch - Barcelona Meridiana;Si;No;No;23;1;Si
+RITM1017904;24/03/2022;13:41:00;Branch - Barcelona Meridiana;Si;No;No;14;0;Si
+RITM1017547;26/03/2022;14:11:00;Branch - Alicante;Si;No;No;26;0;Si
+RITM1016934;26/03/2022;9:18:00;Branch - Madrid O Donnell;No;No;No;26;0;No
+RITM1016678;26/03/2022;13:56:00;Branch - Madrid Costa Rica;Si;No;No;26;0;Si
+RITM1016305;27/03/2022;17:13:00;Branch - C?iz;No;No;No;10;1;No
+RITM1015901;27/03/2022;14:16:00;Branch - C?iz;No;No;No;27;1;No
+RITM1015848;28/03/2022;9:10:00;Branch - C?iz;No;No;No;28;1;No
+RITM1015565;29/03/2022;14:10:00;Branch - Madrid Costa Rica;No;No;No;29;0;No
+RITM1014379;29/03/2022;14:13:00;Branch - Barcelona Meridiana;No;No;No;29;0;No
+RITM1014364;30/03/2022;9:26:00;Branch - Madrid Costa Rica;No;No;No;30;1;No
+RITM1014167;30/03/2022;13:57:00;Branch - C?iz;No;No;No;30;1;No
+RITM1013457;30/03/2022;9:26:00;Branch - C?iz;No;Si;Si;30;1;Si
+RITM1013437;01/04/2022;9:14:00;Branch - Barcelona Meridiana;No;No;No;1;0;No
+RITM1013435;03/04/2022;8:48:00;Branch - C?iz;Si;No;No;3;0;Si
+RITM1013087;03/04/2022;13:58:00;Branch - Barcelona Meridiana;No;Si;Si;3;1;Si
+RITM1012744;05/04/2022;13:31:00;Branch - Madrid Costa Rica;No;No;No;5;1;No
+RITM1012739;06/04/2022;9:15:00;Branch - C?iz;No;No;No;6;1;No
+RITM1012738;09/04/2022;14:16:00;Branch - Madrid Santa Engracia;Si;No;No;9;0;Si
+RITM1012683;10/04/2022;14:19:00;Branch - Valencia;No;No;No;10;1;No
+RITM1012528;13/04/2022;17:09:00;Branch - C?iz;Si;No;No;13;1;Si
+RITM1012365;14/04/2022;14:13:00;Branch - C?iz;Si;No;No;14;0;Si
+RITM1012318;27/04/2022;9:00:00;Branch - Valencia;Si;Si;Si;27;1;Si
+RITM1012305;10/05/2022;13:33:00;Branch - Alicante;No;No;No;10;0;No
+RITM1011262;20/05/2022;13:57:00;Branch - C?iz;Si;No;No;20;0;Si
+RITM1011067;27/05/2022;13:29:00;Branch - Barcelona Meridiana;No;No;No;27;1;No
+RITM1010825;02/06/2022;9:25:00;Branch - Alicante;No;No;No;2;0;No
+RITM1010824;03/06/2022;13:50:00;Branch - Alicante;No;No;No;3;0;No
+RITM1010699;26/06/2022;9:38:00;Branch - Madrid Costa Rica;No;No;No;26;0;No
+RITM1010394;01/07/2022;13:59:00;Branch - C?iz;Si;No;No;1;0;Si
+RITM1010128;03/07/2022;9:04:00;Branch - C?iz;No;Si;Si;3;0;Si
+RITM1009650;07/07/2022;15:54:00;Branch - Barcelona Meridiana;No;No;No;7;1;No
+RITM1008664;12/07/2022;17:43:00;Branch - Alicante;Si;No;No;12;1;Si
+RITM1007704;13/07/2022;14:22:00;Branch - Alicante;No;No;No;13;0;No
+RITM1007511;15/07/2022;8:57:00;Branch - C?iz;Si;Si;Si;15;1;Si
+RITM1007443;16/07/2022;14:03:00;Branch - Barcelona Meridiana;No;No;No;16;0;No
+RITM1007289;17/07/2022;9:29:00;Branch - C?iz;No;No;No;17;0;No
+RITM1006334;28/07/2022;13:25:00;Branch - Barcelona Meridiana;No;No;No;28;0;No
+RITM1006053;01/08/2022;9:00:00;Branch - Barcelona Meridiana;No;No;No;1;1;No
+RITM1005852;16/08/2022;14:05:00;Branch - Barcelona Meridiana;No;No;No;16;0;No
+RITM1005394;18/09/2022;9:02:00;Branch - Barcelona Meridiana;No;No;No;18;0;No
+RITM1005390;21/09/2022;8:55:00;Branch - Madrid Santa Engracia;No;No;No;21;1;No
+RITM1004940;24/09/2022;16:01:00;Branch - Barcelona Meridiana;No;No;No;24;0;No
+RITM1004734;07/10/2022;14:02:00;Branch - Madrid Costa Rica;Si;No;No;7;1;Si
+RITM1004711;11/10/2022;9:10:00;Branch - Barcelona Meridiana;Si;No;No;11;0;Si
+RITM1004700;13/10/2022;13:31:00;Branch - Madrid Costa Rica;No;No;No;13;0;No
+RITM1004644;14/11/2022;8:56:00;Branch - C?iz;Si;No;No;14;1;Si
+RITM1004618;02/12/2022;17:19:00;Branch - Madrid Costa Rica;No;No;No;2;0;No
+RITM1004339;14/12/2022;14:10:00;Branch - Madrid Costa Rica;No;No;No;14;0;No
+RITM1004216;01/01/2023;9:11:00;Branch - C?iz;Si;No;No;1;0;Si
+RITM1004103;01/01/2023;14:20:00;Branch - C?iz;No;No;No;1;0;No
+RITM1004101;02/01/2023;9:02:00;Branch - Valencia;No;No;No;2;0;No
+RITM1003988;04/01/2023;9:32:00;Branch - Barcelona Meridiana;No;No;No;4;0;No
+RITM1003939;06/01/2023;14:14:00;Branch - C?iz;No;No;No;17;0;No
+RITM1003581;06/01/2023;9:10:00;Branch - C?iz;No;No;No;6;0;No
+RITM1003121;08/01/2023;14:17:00;Branch - Barcelona Meridiana;Si;No;No;8;1;Si
+RITM1003110;09/01/2023;17:19:00;Branch - Alicante;No;Si;Si;9;1;Si
+RITM1002901;10/01/2023;14:10:00;Branch - Barcelona Meridiana;No;No;No;10;1;No
+RITM1002682;11/01/2023;9:03:00;Branch - C?iz;No;No;No;11;0;No
+RITM1001933;11/01/2023;13:48:00;Branch - Madrid Costa Rica;No;No;No;11;1;No
+RITM1001532;12/01/2023;13:45:00;Branch - C?iz;Si;No;No;12;1;Si
+RITM1001483;12/01/2023;9:12:00;Branch - Valencia;Si;No;No;12;0;Si
+RITM1001034;25/01/2023;9:11:00;Branch - Madrid Santa Engracia;Si;No;No;13;0;Si
+RITM1001033;17/01/2023;9:05:00;Branch - Barcelona Meridiana;Si;No;No;17;1;Si
+RITM1000517;05/01/2023;13:35:00;Branch - Barcelona Meridiana;Si;No;No;18;0;Si
+RITM1000259;18/01/2023;9:32:00;Branch - C?iz;No;No;No;18;0;No
+RITM1000087;20/01/2023;9:25:00;Branch - Alicante;No;No;No;20;1;No
+RITM1000067;21/01/2023;8:49:00;Branch - Barcelona Meridiana;Si;No;No;21;1;Si
+RITM0999740;22/01/2023;13:58:00;Branch - Barcelona Meridiana;Si;No;No;22;0;Si
+RITM0999405;23/01/2023;9:30:00;Branch - Alicante;Si;No;No;23;0;Si
+RITM0999370;24/01/2023;13:37:00;Branch - Barcelona Meridiana;No;Si;Si;14;1;Si
+RITM0999351;25/01/2023;9:12:00;Branch - C?iz;No;No;No;25;1;No
+RITM0999344;25/01/2023;9:17:00;Branch - Valencia;Si;No;No;15;0;Si
+RITM0999250;25/01/2023;9:24:00;Branch - C?iz;No;No;No;25;1;No
+RITM0998990;25/01/2023;14:22:00;Branch - Madrid Costa Rica;Si;No;No;25;1;Si
+RITM0998590;27/01/2023;17:44:00;Branch - Valencia;Si;No;No;27;1;Si
+RITM0998466;27/01/2023;14:02:00;Branch - Barcelona Meridiana;No;No;No;27;1;No
+RITM0998458;28/01/2023;8:45:00;Branch - C?iz;Si;No;No;28;1;Si
+RITM0998324;28/01/2023;13:33:00;Branch - C?iz;No;No;No;28;1;No
+RITM0997495;29/01/2023;9:12:00;Branch - Madrid Costa Rica;No;No;No;29;0;No
+RITM0996925;29/01/2023;13:50:00;Branch - Barcelona Meridiana;No;No;No;29;1;No
+RITM0996539;29/01/2023;9:07:00;Branch - C?iz;Si;No;No;29;0;Si
+RITM0996481;30/01/2023;14:21:00;Branch - C?iz;Si;No;No;10;0;Si
+RITM0996138;03/02/2023;13:55:00;Branch - C?iz;No;No;No;3;1;No
+RITM0996136;03/02/2023;9:10:00;Branch - Barcelona Meridiana;No;No;No;3;0;No
+RITM0995816;03/02/2023;14:02:00;Branch - C?iz;No;No;No;3;1;No
+RITM0995802;04/02/2023;13:30:00;Branch - Alicante;Si;No;No;4;1;Si
+RITM0995456;04/02/2023;9:28:00;Branch - Madrid Santa Engracia;No;Si;Si;4;1;Si
+RITM0994439;05/02/2023;9:24:00;Branch - Madrid O Donnell;No;No;No;5;1;No
+RITM0994376;06/02/2023;14:02:00;Branch - Barcelona Meridiana;No;No;No;16;0;No
+RITM0994217;07/02/2023;9:33:00;Branch - C?iz;No;No;No;7;1;No
+RITM0994003;10/02/2023;17:32:00;Branch - C?iz;Si;No;No;10;0;Si
+RITM0993999;10/02/2023;13:57:00;Branch - Madrid Costa Rica;No;No;No;10;1;No
+RITM0993944;10/02/2023;8:55:00;Branch - Barcelona Meridiana;No;No;No;10;0;No
+RITM0993930;05/02/2023;13:53:00;Branch - C?iz;Si;No;No;11;0;Si
+RITM0993928;11/02/2023;13:41:00;Branch - C?iz;Si;No;No;11;0;Si
+RITM0993756;12/02/2023;9:24:00;Branch - Madrid O Donnell;Si;No;No;12;1;Si
+RITM0993610;12/02/2023;13:54:00;Branch - Barcelona Meridiana;Si;No;No;12;1;Si
+RITM0993608;16/02/2023;9:14:00;Branch - Alicante;Si;No;No;16;1;Si
+RITM0993136;16/02/2023;13:36:00;Branch - C?iz;No;No;No;16;0;No
+RITM0993133;17/02/2023;9:26:00;Branch - Barcelona Meridiana;No;No;No;17;0;No
+RITM0993016;20/02/2023;17:20:00;Branch - Madrid Costa Rica;No;No;No;20;0;No
+RITM0992805;20/02/2023;14:11:00;Branch - Barcelona Meridiana;Si;No;No;20;0;Si
+RITM0992578;20/02/2023;8:46:00;Branch - Barcelona Meridiana;No;No;No;20;1;No
+RITM0992160;22/02/2023;14:01:00;Branch - Barcelona Meridiana;No;No;No;22;0;No
+RITM0992009;23/02/2023;8:32:00;Branch - Madrid Costa Rica;Si;No;No;23;1;Si
+RITM0991047;24/02/2023;14:13:00;Branch - C?iz;No;No;No;24;0;No
+RITM0990274;24/02/2023;9:03:00;Branch - Valencia;Si;No;No;24;1;Si
+RITM0989927;24/02/2023;13:53:00;Branch - Barcelona Meridiana;No;No;No;24;0;No
+RITM0989714;27/02/2023;9:26:00;Branch - Barcelona Meridiana;Si;No;No;27;0;Si
+RITM0989414;28/02/2023;8:37:00;Branch - Madrid Costa Rica;No;No;No;28;0;No
+RITM0989413;02/03/2023;9:29:00;Branch - C?iz;No;No;No;2;1;No
+RITM0989412;02/03/2023;9:17:00;Branch - Barcelona Meridiana;No;No;No;2;0;No
+RITM0989410;03/03/2023;17:19:00;Branch - Valencia;No;No;No;3;0;No
+RITM0989118;04/03/2023;14:05:00;Branch - Alicante;No;No;No;4;0;No
+RITM0989040;04/03/2023;9:11:00;Branch - C?iz;Si;No;No;4;0;Si
+RITM0988853;06/03/2023;13:45:00;Branch - C?iz;No;No;No;6;1;No
+RITM0988803;08/03/2023;14:11:00;Branch - Valencia;No;No;No;8;0;No
+RITM0988593;10/03/2023;13:32:00;Branch - C?iz;No;No;No;10;0;No
+RITM0988081;10/03/2023;9:32:00;Branch - Madrid O Donnell;No;No;No;10;1;No
+RITM0988040;14/03/2023;14:02:00;Branch - C?iz;No;No;No;14;0;No
+RITM0987064;16/03/2023;9:02:00;Branch - Barcelona Meridiana;No;No;No;16;0;No
+RITM0985847;16/03/2023;15:51:00;Branch - Barcelona Meridiana;No;No;No;16;1;No
+RITM0984954;16/03/2023;17:24:00;Branch - Barcelona Meridiana;No;No;No;16;0;No
+RITM0984860;16/03/2023;9:15:00;Branch - Alicante;Si;No;No;16;0;Si
+RITM0984858;19/03/2023;15:56:00;Branch - C?iz;No;No;No;19;0;No
+RITM0984856;19/03/2023;13:49:00;Branch - C?iz;No;No;No;19;0;No
+RITM0984748;21/03/2023;14:10:00;Branch - Madrid Santa Engracia;Si;No;No;21;1;Si
+RITM0984258;22/03/2023;9:18:00;Branch - C?iz;No;No;No;22;1;No
+RITM0984207;22/03/2023;13:32:00;Branch - Madrid O Donnell;No;No;No;22;0;No
+RITM0983563;24/03/2023;14:05:00;Branch - Barcelona Meridiana;No;No;No;10;1;No
+RITM0983053;24/03/2023;13:27:00;Branch - Madrid O Donnell;No;No;No;24;1;No
+RITM0982453;26/03/2023;9:10:00;Branch - Barcelona Meridiana;Si;No;No;17;0;Si
+RITM0982212;26/03/2023;16:00:00;Branch - C?iz;Si;No;No;31;0;Si
+RITM0982029;27/03/2023;14:21:00;Branch - Madrid Costa Rica;No;No;No;27;1;No
+RITM0981236;29/03/2023;14:21:00;Branch - C?iz;No;No;No;29;0;No
+RITM0980152;30/03/2023;8:58:00;Branch - Barcelona Meridiana;Si;No;No;30;1;Si
+RITM0979918;31/03/2023;13:43:00;Branch - Barcelona Meridiana;No;No;No;31;1;No
+RITM0977756;01/04/2023;14:01:00;Branch - C?iz;No;No;No;1;1;No
+RITM0977677;02/04/2023;9:25:00;Branch - Barcelona Meridiana;No;No;No;2;0;No
+RITM0977595;03/04/2023;14:05:00;Branch - C?iz;Si;No;No;3;1;Si
+RITM0977351;04/04/2023;9:06:00;Branch - C?iz;No;No;No;4;0;No
+RITM0976224;05/04/2023;9:00:00;Branch - Barcelona Meridiana;No;No;No;5;1;No
+RITM0976127;06/04/2023;14:16:00;Branch - Madrid Santa Engracia;No;No;No;6;0;No
+RITM0976096;06/04/2023;17:32:00;Branch - Barcelona Meridiana;Si;No;No;6;1;Si
+RITM0975304;06/04/2023;13:48:00;Branch - C?iz;No;No;No;6;0;No
+RITM0973964;06/04/2023;8:53:00;Branch - Barcelona Meridiana;No;No;No;6;1;No
+RITM0971756;08/04/2023;9:07:00;Branch - Alicante;No;Si;Si;8;1;Si
+RITM0971658;09/04/2023;9:04:00;Branch - C?iz;No;Si;Si;9;1;Si
+RITM0971187;09/04/2023;13:57:00;Branch - Valencia;No;No;No;9;1;No
+RITM0970995;09/04/2023;9:29:00;Branch - Madrid Santa Engracia;No;No;No;9;0;No
+RITM0968664;12/04/2023;9:00:00;Branch - Barcelona Meridiana;No;No;No;12;1;No
+RITM0967810;13/04/2023;13:44:00;Branch - Alicante;No;No;No;13;0;No
+RITM0967050;14/04/2023;14:13:00;Branch - Barcelona Meridiana;No;No;No;14;0;No
+RITM0966811;17/04/2023;9:10:00;Branch - Valencia;No;No;No;17;0;No
+RITM0965913;18/04/2023;13:39:00;Branch - Madrid Costa Rica;No;No;No;18;1;No
+RITM0965186;21/04/2023;14:05:00;Branch - Madrid Costa Rica;No;No;No;21;0;No
+RITM0965184;21/04/2023;9:03:00;Branch - Barcelona Meridiana;Si;No;No;21;1;Si
+RITM0965178;23/04/2023;13:38:00;Branch - Madrid Santa Engracia;Si;No;No;23;0;Si
+RITM0964250;23/04/2023;14:15:00;Branch - Barcelona Meridiana;No;No;No;23;0;No
+RITM0964212;24/04/2023;13:39:00;Branch - Madrid Costa Rica;Si;No;No;24;0;Si
+RITM0964210;25/04/2023;14:09:00;Branch - C?iz;No;No;No;25;0;No
+RITM0963665;27/04/2023;9:25:00;Branch - Barcelona Meridiana;No;No;No;27;0;No
+RITM0963644;28/04/2023;9:27:00;Branch - Barcelona Meridiana;No;No;No;28;0;No
+RITM0963600;28/04/2023;14:12:00;Branch - C?iz;No;No;No;28;1;No
+RITM0963263;30/04/2023;9:20:00;Branch - Alicante;No;Si;Si;30;1;Si
+RITM0961442;02/05/2023;14:10:00;Branch - Barcelona Meridiana;Si;No;No;2;1;Si
+RITM0960533;02/05/2023;17:20:00;Branch - Barcelona Meridiana;No;No;No;2;1;No
+RITM0958685;03/05/2022;13:56:00;Branch - Madrid Santa Engracia;No;No;No;3;0;No
+RITM0956462;05/05/2022;8:42:00;Branch - Barcelona Meridiana;No;No;No;15;0;No
+RITM0956327;06/05/2022;13:48:00;Branch - Madrid Costa Rica;Si;No;No;6;1;Si
+RITM0956068;06/05/2022;13:59:00;Branch - Valencia;No;No;No;6;0;No
+RITM0955837;08/05/2023;9:02:00;Branch - Barcelona Meridiana;No;No;No;8;1;No
+RITM0955383;08/05/2022;13:16:00;Branch - Valencia;Si;No;No;8;1;Si
+RITM0954931;08/05/2022;9:01:00;Branch - Barcelona Meridiana;No;No;No;8;0;No
+RITM0953663;10/05/2023;8:44:00;Branch - Barcelona Meridiana;No;No;No;10;0;No
+RITM0953597;11/05/2023;13:28:00;Branch - C?iz;No;No;No;11;1;No
+RITM0953261;11/05/2023;9:02:00;Branch - Madrid Costa Rica;Si;No;No;11;1;Si
+RITM0952937;12/05/2023;9:08:00;Branch - Madrid Santa Engracia;No;No;No;12;0;No
+RITM0952482;13/05/2023;17:42:00;Branch - C?iz;No;No;No;13;1;No
+RITM0952047;14/05/2023;13:56:00;Branch - Barcelona Meridiana;No;No;No;14;1;No
+RITM0951884;18/05/2023;8:50:00;Branch - Madrid Santa Engracia;Si;No;No;18;0;Si
+RITM0951631;25/05/2023;13:50:00;Branch - Barcelona Meridiana;Si;Si;Si;19;1;Si
+RITM0951486;21/05/2023;13:37:00;Branch - Madrid Costa Rica;Si;No;No;21;0;Si
+RITM0949883;10/05/2023;14:02:00;Branch - Barcelona Meridiana;No;Si;Si;23;0;Si
+RITM0949844;24/05/2023;9:28:00;Branch - Madrid O Donnell;Si;No;No;24;0;Si
+RITM0949023;24/05/2023;9:07:00;Branch - Madrid Santa Engracia;No;No;No;24;1;No
+RITM0948074;24/05/2023;13:41:00;Branch - Valencia;No;No;No;24;0;No
+RITM0947622;25/05/2023;13:29:00;Branch - Barcelona Meridiana;No;No;No;25;1;No
+RITM0947584;25/05/2022;9:09:00;Branch - Madrid Costa Rica;No;No;No;25;1;No
+RITM0947095;27/05/2022;9:07:00;Branch - C?iz;No;No;No;27;0;No
+RITM0946409;28/05/2022;17:15:00;Branch - C?iz;No;No;No;28;1;No
+RITM0944844;29/05/2022;13:43:00;Branch - C?iz;No;No;No;29;1;No
+RITM0944766;30/05/2022;8:58:00;Branch - C?iz;No;No;No;30;0;No
+RITM0944004;31/05/2022;13:59:00;Branch - Valencia;No;No;No;31;0;No
+RITM0943840;31/05/2023;15:46:00;Branch - Barcelona Meridiana;No;No;No;31;0;No
+RITM0941841;01/06/2023;14:12:00;Branch - Barcelona Meridiana;Si;No;No;15;0;Si
+RITM0941581;01/06/2023;9:15:00;Branch - C?iz;Si;No;No;1;0;Si
+RITM0941010;03/06/2023;13:24:00;Branch - Madrid Santa Engracia;Si;No;No;3;1;Si
+RITM0940909;04/06/2023;14:14:00;Branch - Madrid Costa Rica;No;No;No;4;0;No
+RITM0940713;05/06/2023;9:17:00;Branch - Alicante;Si;No;No;5;1;Si
+RITM0940634;06/06/2023;8:54:00;Branch - Barcelona Meridiana;No;No;No;6;0;No
+RITM0940473;06/06/2023;9:34:00;Branch - Barcelona Meridiana;Si;No;No;6;0;Si
+RITM0940470;07/06/2023;14:24:00;Branch - C?iz;No;No;No;7;0;No
+RITM0939586;07/06/2023;14:25:00;Branch - Madrid Santa Engracia;No;No;No;7;0;No
+RITM0939184;09/06/2023;14:19:00;Branch - Alicante;Si;No;No;9;0;Si
+RITM0938265;09/06/2023;17:35:00;Branch - Madrid Costa Rica;Si;No;No;9;0;Si
+RITM0938098;10/06/2023;13:54:00;Branch - Barcelona Meridiana;No;No;No;10;0;No
+RITM0938064;11/06/2023;8:53:00;Branch - C?iz;No;No;No;11;1;No
+RITM0937824;11/06/2023;13:50:00;Branch - Alicante;No;No;No;11;0;No
+RITM0937291;14/06/2023;9:03:00;Branch - Valencia;No;No;No;14;1;No
+RITM0937191;16/06/2023;9:06:00;Branch - C?iz;No;No;No;16;1;No
+RITM0937088;19/06/2023;13:48:00;Branch - C?iz;No;No;No;19;1;No
+RITM0936550;21/06/2023;9:21:00;Branch - Barcelona Meridiana;Si;No;No;21;1;Si
+RITM0936461;21/06/2023;9:04:00;Branch - Madrid Costa Rica;No;No;No;21;0;No
+RITM0936460;22/06/2023;16:06:00;Branch - Barcelona Meridiana;No;No;No;22;0;No
+RITM0936238;22/06/2023;14:30:00;Branch - Barcelona Meridiana;No;No;No;22;1;No
+RITM0935389;23/06/2023;8:55:00;Branch - Madrid Santa Engracia;Si;No;No;23;0;Si
+RITM0935277;26/06/2023;14:10:00;Branch - Barcelona Meridiana;Si;No;No;17;0;Si
+RITM0934905;26/06/2023;9:05:00;Branch - Barcelona Meridiana;No;No;No;16;0;No
+RITM0934787;26/06/2023;13:34:00;Branch - Barcelona Meridiana;Si;No;No;26;0;Si
+RITM0934701;26/06/2023;8:58:00;Branch - C?iz;Si;No;No;26;0;Si
+RITM0934696;30/06/2023;14:11:00;Branch - Madrid Costa Rica;No;No;No;30;1;No
+RITM0930835;03/07/2023;15:56:00;Branch - Madrid Costa Rica;No;Si;Si;3;0;Si
+RITM0930524;05/07/2023;14:04:00;Branch - Barcelona Meridiana;Si;No;No;17;1;Si
+RITM0928538;06/07/2023;14:04:00;Branch - Barcelona Meridiana;No;No;No;6;0;No
+RITM0928023;06/07/2023;8:50:00;Branch - C?iz;No;No;No;6;0;No
+RITM0927801;10/07/2023;8:58:00;Branch - Madrid O Donnell;Si;No;No;7;0;Si
+RITM0926387;09/07/2023;13:54:00;Branch - Barcelona Meridiana;No;No;No;9;0;No
+RITM0925974;09/07/2023;9:22:00;Branch - Barcelona Meridiana;No;No;No;9;0;No
+RITM0924735;10/07/2023;9:08:00;Branch - C?iz;Si;No;No;10;1;No
+RITM0924362;11/07/2023;14:14:00;Branch - Madrid Santa Engracia;Si;No;No;11;1;Si
+RITM0923841;13/07/2023;8:59:00;Branch - Barcelona Meridiana;No;No;No;13;1;No
+RITM0923833;13/07/2023;16:11:00;Branch - C?iz;Si;No;No;13;0;Si
+RITM0923183;17/07/2023;17:33:00;Branch - Barcelona Meridiana;Si;No;No;17;0;Si
+RITM0921643;19/07/2023;14:00:00;Branch - Valencia;No;No;No;19;0;No
+RITM0920437;20/07/2023;8:42:00;Branch - Madrid Santa Engracia;Si;No;No;20;1;Si
+RITM0920307;20/07/2023;14:02:00;Branch - C?iz;Si;No;No;20;1;Si
+RITM0919637;20/07/2023;14:14:00;Branch - C?iz;Si;No;No;20;1;Si
+RITM0916582;21/07/2023;8:57:00;Branch - Madrid Santa Engracia;Si;No;No;21;1;Si
+RITM0916378;21/07/2023;9:37:00;Branch - Madrid Costa Rica;No;No;No;21;0;No
+RITM0916344;22/07/2023;9:01:00;Branch - C?iz;Si;No;No;22;1;Si
+RITM0916284;22/07/2023;14:05:00;Branch - Alicante;No;No;No;22;1;No
+RITM0915927;23/07/2023;14:02:00;Branch - Barcelona Meridiana;Si;No;No;21;0;Si
+RITM0914590;24/07/2023;9:17:00;Branch - Madrid Costa Rica;No;No;No;24;1;No
+RITM0911648;25/07/2023;14:11:00;Branch - Madrid O Donnell;Si;No;No;25;1;Si
+RITM0910599;26/07/2023;17:27:00;Branch - Barcelona Meridiana;Si;Si;Si;26;1;Si
+RITM0909115;26/07/2023;14:21:00;Branch - Madrid Costa Rica;No;No;No;26;0;No
+RITM0908464;27/07/2023;9:04:00;Branch - Madrid Santa Engracia;No;No;No;27;0;No
+RITM0906979;30/07/2023;13:59:00;Branch - Barcelona Meridiana;No;Si;Si;30;0;Si
+RITM0904430;02/08/2023;13:23:00;Branch - Alicante;Si;No;No;2;1;Si
+RITM0903794;03/08/2023;9:01:00;Branch - Barcelona Meridiana;Si;No;No;3;0;Si
+RITM0903215;04/08/2023;13:35:00;Branch - Valencia;No;Si;Si;16;1;Si
+RITM0902414;04/08/2023;8:52:00;Branch - Valencia;No;No;No;4;1;No
+RITM0901824;04/08/2023;13:54:00;Branch - Valencia;No;No;No;4;0;No
+RITM0901250;05/08/2023;14:16:00;Branch - C?iz;No;No;No;5;1;No
+RITM0901013;05/08/2023;9:03:00;Branch - Barcelona Meridiana;No;No;No;5;1;No
+RITM0900836;05/08/2023;14:20:00;Branch - Madrid O Donnell;No;No;No;5;1;No
+RITM0899802;06/08/2023;8:45:00;Branch - C?iz;No;No;No;6;1;No
+RITM0898745;06/08/2023;13:37:00;Branch - C?iz;Si;No;No;6;0;Si
+RITM0898282;08/08/2023;8:41:00;Branch - C?iz;No;Si;Si;8;1;Si
+RITM0898221;13/08/2023;13:44:00;Branch - Madrid Santa Engracia;No;No;No;13;0;No
+RITM0898156;14/08/2023;9:33:00;Branch - C?iz;No;No;No;14;0;No
+RITM0898149;17/08/2023;8:41:00;Branch - Valencia;No;No;No;17;0;No
+RITM0897876;18/08/2023;13:49:00;Branch - Alicante;No;No;No;18;1;No
+RITM0897389;19/08/2023;9:08:00;Branch - Barcelona Meridiana;No;No;No;19;1;No
+RITM0897184;19/08/2023;13:34:00;Branch - Barcelona Meridiana;No;No;No;19;0;No
+RITM0896804;19/08/2023;14:01:00;Branch - C?iz;Si;No;No;19;0;Si
+RITM0896732;21/08/2023;9:28:00;Branch - Alicante;Si;No;No;21;0;Si
+RITM0896730;21/08/2023;14:25:00;Branch - C?iz;No;No;No;21;0;No
+RITM0896541;23/08/2023;17:24:00;Branch - Barcelona Meridiana;No;No;No;23;1;No
+RITM0896135;24/08/2023;14:18:00;Branch - C?iz;No;Si;Si;24;1;Si
+RITM0894654;24/08/2023;9:00:00;Branch - Valencia;Si;No;No;24;0;Si
+RITM0893928;25/08/2023;13:43:00;Branch - Barcelona Meridiana;Si;No;No;25;1;Si
+RITM0893917;27/08/2023;8:49:00;Branch - Madrid Costa Rica;Si;No;No;27;0;Si
+RITM0891490;31/08/2023;14:01:00;Branch - C?iz;No;No;No;31;1;No
+RITM0891483;31/08/2023;9:30:00;Branch - Madrid O Donnell;No;No;No;31;0;No
+RITM0891480;01/09/2023;13:39:00;Branch - C?iz;No;No;No;1;0;No
+RITM0890861;03/09/2023;9:31:00;Branch - Madrid O Donnell;Si;No;No;3;0;Si
+RITM0890602;04/09/2023;8:51:00;Branch - Valencia;No;No;No;4;0;No
+RITM0889943;04/09/2023;13:30:00;Branch - C?iz;No;No;No;4;1;No
+RITM0888810;06/09/2023;9:25:00;Branch - C?iz;Si;No;No;6;0;Si
+RITM0888800;06/09/2023;13:54:00;Branch - Valencia;Si;No;No;6;0;Si
+RITM0888591;07/09/2023;8:54:00;Branch - Madrid Costa Rica;No;No;No;7;0;No
+RITM0888536;10/09/2023;16:00:00;Branch - C?iz;No;No;No;10;0;No
+RITM0887491;10/09/2023;14:17:00;Branch - C?iz;Si;No;No;10;0;Si
+RITM0887490;11/09/2023;17:41:00;Branch - Valencia;Si;No;No;11;0;Si
+RITM0886589;11/09/2023;14:21:00;Branch - Barcelona Meridiana;Si;No;No;11;1;Si
+RITM0886424;13/09/2023;8:54:00;Branch - Barcelona Meridiana;No;No;No;13;1;No
+RITM0886333;15/09/2023;14:08:00;Branch - Alicante;No;Si;Si;15;0;Si
+RITM0886078;16/09/2023;17:22:00;Branch - Alicante;Si;No;No;16;1;Si
+RITM0885973;16/09/2023;13:53:00;Branch - Barcelona Meridiana;Si;No;No;16;0;Si
+RITM0885706;18/09/2023;13:27:00;Branch - Madrid Santa Engracia;No;No;No;18;0;No
+RITM0885175;25/09/2023;14:15:00;Branch - Alicante;Si;No;No;25;1;Si
+RITM0884817;25/09/2023;9:01:00;Branch - Madrid Santa Engracia;No;No;No;25;1;No
+RITM0884120;26/09/2023;13:40:00;Branch - C?iz;No;No;No;26;1;No
+RITM0884093;27/09/2023;13:59:00;Branch - C?iz;No;No;No;27;1;No
+RITM0883555;27/09/2023;9:11:00;Branch - Madrid O Donnell;No;No;No;27;1;No
+RITM0883230;02/10/2023;14:04:00;Branch - C?iz;No;No;No;2;1;No
+RITM0883137;04/10/2023;8:52:00;Branch - Valencia;No;No;No;4;1;No
+RITM0882884;04/10/2023;13:33:00;Branch - C?iz;No;No;No;4;0;No
+RITM0882543;06/10/2023;14:01:00;Branch - Madrid O Donnell;No;No;No;6;0;No
+RITM0881999;07/10/2023;9:23:00;Branch - Barcelona Meridiana;No;No;No;7;1;No
+RITM0881783;08/10/2023;9:26:00;Branch - Valencia;No;Si;Si;8;0;Si
+RITM0880682;12/10/2023;13:47:00;Branch - Barcelona Meridiana;No;No;No;12;0;No
+RITM0880680;12/10/2023;14:01:00;Branch - Alicante;No;No;No;12;0;No
+RITM0880469;12/10/2023;9:15:00;Branch - Barcelona Meridiana;Si;No;No;12;0;Si
+RITM0879925;16/10/2023;16:19:00;Branch - Barcelona Meridiana;Si;No;No;16;1;Si
+RITM0879924;16/10/2023;14:28:00;Branch - Barcelona Meridiana;No;No;No;16;1;No
+RITM0879543;21/10/2023;17:26:00;Branch - Madrid Costa Rica;No;No;No;21;1;No
+RITM0878603;23/10/2023;14:00:00;Branch - C?iz;No;No;No;23;1;No
+RITM0877847;23/10/2023;9:00:00;Branch - Barcelona Meridiana;No;No;No;23;0;No
+RITM0877729;29/10/2023;13:52:00;Branch - C?iz;No;No;No;29;0;No
+RITM0877713;29/10/2023;14:20:00;Branch - Madrid Costa Rica;Si;Si;Si;29;0;Si
+RITM0877615;30/10/2023;9:11:00;Branch - Barcelona Meridiana;Si;No;No;30;1;Si
+RITM0876905;01/11/2023;13:24:00;Branch - Valencia;No;No;No;1;1;No
+RITM0876783;09/11/2023;13:52:00;Branch - Barcelona Meridiana;No;No;No;9;0;No
+RITM0876580;09/11/2023;13:40:00;Branch - Valencia;No;No;No;9;0;No
+RITM0876471;10/11/2023;14:20:00;Branch - C?iz;Si;No;No;10;1;Si
+RITM0876341;11/11/2023;9:15:00;Branch - Barcelona Meridiana;Si;No;No;11;0;Si
+RITM0876255;12/11/2023;14:09:00;Branch - C?iz;Si;No;No;12;0;Si
+RITM0875918;16/11/2023;8:53:00;Branch - Alicante;No;No;No;16;1;No
+RITM0875681;17/11/2023;14:16:00;Branch - C?iz;Si;No;No;17;0;Si
+RITM0875601;20/11/2023;13:44:00;Branch - Alicante;No;No;No;20;0;No
+RITM0875313;22/11/2023;9:01:00;Branch - Barcelona Meridiana;No;No;No;22;0;No
+RITM0874653;23/11/2023;8:57:00;Branch - Barcelona Meridiana;No;No;No;23;1;No
+RITM0874610;25/11/2023;9:11:00;Branch - C?iz;Si;No;No;24;0;Si
+RITM0874511;25/11/2023;13:35:00;Branch - C?iz;No;No;No;25;1;No
+RITM0874316;26/11/2023;9:31:00;Branch - Madrid Santa Engracia;No;No;No;26;0;No
+RITM0874085;26/11/2023;17:28:00;Branch - Madrid Costa Rica;Si;No;No;26;0;Si
+RITM0873649;30/11/2023;9:12:00;Branch - Valencia;No;No;No;30;1;No
+RITM0872993;03/12/2023;13:26:00;Branch - Barcelona Meridiana;No;No;No;3;0;No
+RITM0872817;04/12/2023;9:22:00;Branch - Madrid Santa Engracia;No;No;No;4;1;No
+RITM0872812;04/12/2023;9:01:00;Branch - Barcelona Meridiana;No;No;No;4;0;No
+RITM0872728;05/12/2023;14:05:00;Branch - Madrid Santa Engracia;Si;No;No;5;1;Si
+RITM0872594;05/12/2023;13:52:00;Branch - C?iz;Si;Si;Si;5;1;Si
+RITM0871757;07/12/2023;14:17:00;Branch - C?iz;Si;No;No;7;0;Si
+RITM0870834;08/12/2023;9:31:00;Branch - C?iz;No;Si;Si;8;1;Si
+RITM0870402;08/12/2023;14:13:00;Branch - Barcelona Meridiana;No;Si;Si;8;1;Si
+RITM0869613;10/12/2023;17:39:00;Branch - Madrid Santa Engracia;No;No;No;10;0;No
+RITM0869591;12/12/2023;13:51:00;Branch - Alicante;Si;No;No;12;1;Si
+RITM0869587;12/12/2023;9:02:00;Branch - C?iz;Si;No;No;12;1;Si
+RITM0869468;16/12/2023;13:38:00;Branch - C?iz;No;No;No;16;1;No
+RITM0869455;22/12/2023;13:49:00;Branch - Alicante;No;No;No;22;0;No
+RITM0869424;23/12/2023;9:27:00;Branch - Valencia;No;No;No;23;0;No
+RITM0869339;24/12/2023;13:53:00;Branch - Madrid Santa Engracia;Si;No;No;24;0;Si
+RITM0869263;26/12/2023;9:23:00;Branch - Alicante;Si;No;No;26;0;Si
+RITM0868780;29/12/2023;9:33:00;Branch - Barcelona Meridiana;No;No;No;29;0;No
+RITM0868756;29/12/2023;9:18:00;Branch - Barcelona Meridiana;No;No;No;29;0;No
+RITM0868556;31/12/2023;14:26:00;Branch - Barcelona Meridiana;Si;No;No;16;1;Si
+RITM0867009;31/12/2023;14:21:00;Branch - C?iz;No;No;No;31;0;No
+RITM0866816;31/12/2023;9:11:00;Branch - C?iz;No;No;No;12;1;No
+RITM0866447;31/12/2023;14:02:00;Branch - C?iz;Si;Si;Si;31;0;Si
+RITM0866440;05/01/2024;14:08:00;Branch - Madrid Santa Engracia;No;No;No;15;0;No
+RITM0865578;05/01/2024;9:06:00;Branch - Madrid O Donnell;No;Si;Si;5;1;Si
+RITM0865516;06/01/2024;13:30:00;Branch - Barcelona Meridiana;Si;No;No;6;0;Si
+RITM0863711;08/01/2024;9:02:00;Branch - Madrid O Donnell;No;No;No;8;0;No
+RITM0862360;09/01/2024;9:06:00;Branch - C?iz;No;No;No;9;0;No
+RITM0861537;11/01/2024;14:12:00;Branch - C?iz;Si;No;No;11;1;Si
+RITM0860540;14/01/2024;13:55:00;Branch - Madrid Santa Engracia;Si;No;No;14;1;Si
+RITM0857295;20/01/2024;17:11:00;Branch - C?iz;No;No;No;20;0;No
+RITM0856204;20/01/2024;13:44:00;Branch - C?iz;Si;Si;Si;20;0;Si
+RITM0855836;21/01/2024;8:48:00;Branch - Barcelona Meridiana;Si;No;No;21;0;Si
+RITM0855111;21/01/2024;8:55:00;Branch - Barcelona Meridiana;Si;No;No;21;0;Si
+RITM0854837;22/01/2024;14:02:00;Branch - Barcelona Meridiana;No;No;No;22;0;No
+RITM0854741;23/01/2024;9:25:00;Branch - Madrid Costa Rica;No;No;No;23;0;No
+RITM0853211;24/01/2024;13:48:00;Branch - Barcelona Meridiana;Si;No;No;24;1;Si
+RITM0853205;25/01/2024;14:05:00;Branch - C?iz;No;No;No;25;1;No
+RITM0851851;25/01/2024;15:49:00;Branch - Alicante;No;No;No;15;0;No
+RITM0851008;26/01/2024;14:11:00;Branch - Valencia;Si;No;No;26;0;Si
+RITM0851005;27/01/2024;14:17:00;Branch - Madrid Costa Rica;Si;No;No;27;0;Si
+RITM0847829;28/01/2024;8:59:00;Branch - Valencia;No;No;No;28;0;No
+RITM0847338;29/01/2024;8:39:00;Branch - Alicante;No;Si;Si;9;1;Si
+RITM0846474;31/01/2024;13:46:00;Branch - Madrid O Donnell;Si;No;No;31;1;Si
+RITM0845431;31/01/2024;9:20:00;Branch - C?iz;No;No;No;31;0;No
+RITM0845431;31/01/2024;13:37:00;Branch - Alicante;Si;No;No;31;0;Si
+RITM0845431;31/01/2024;13:50:00;Branch - C?iz;Si;No;No;31;0;Si
+RITM0845431;01/02/2024;12:54:00;Branch - Barcelona Meridiana;No;No;No;1;0;No
+RITM0843988;01/02/2024;15:43:00;Branch - Madrid Santa Engracia;Si;Si;Si;1;1;Si
+RITM0841357;02/02/2024;15:19:00;Branch - C?iz;No;No;No;2;0;No
+RITM0839625;02/02/2024;17:45:00;Branch - C?iz;No;No;No;2;0;No
+RITM0837727;02/02/2024;9:51:00;Branch - C?iz;No;No;No;2;1;No
+RITM0828489;04/02/2024;9:10:00;Branch - Madrid Santa Engracia;Si;No;No;4;0;Si
+RITM0827268;05/02/2024;9:54:00;Branch - Barcelona Meridiana;Si;No;No;9;1;Si
+RITM0826839;05/02/2024;17:59:00;Branch - C?iz;No;No;No;5;1;No
+RITM0826166;05/02/2024;12:53:00;Branch - C?iz;No;No;No;5;1;No
+RITM0825591;05/02/2024;15:54:00;Branch - Barcelona Meridiana;No;No;No;5;1;No
+RITM0825189;05/02/2024;8:34:00;Branch - Valencia;No;No;No;5;1;No
+RITM0825038;06/02/2024;13:17:00;Branch - Madrid Costa Rica;No;No;No;6;1;No
+RITM0824965;06/02/2024;13:40:00;Branch - Barcelona Meridiana;Si;No;No;6;1;Si
+RITM0824650;07/02/2024;14:29:00;Branch - Barcelona Meridiana;No;No;No;7;1;No
+RITM0824646;08/02/2024;13:59:00;Branch - Madrid O Donnell;No;No;No;8;0;No
+RITM0824569;08/02/2024;16:59:00;Branch - C?iz;Si;No;No;8;1;Si
+RITM0821812;10/02/2024;10:38:00;Branch - Madrid Costa Rica;Si;No;No;10;1;Si
+RITM0821533;11/02/2024;8:36:00;Branch - Alicante;Si;No;No;11;0;Si
+RITM0820706;17/02/2024;17:42:00;Branch - Barcelona Meridiana;No;No;No;17;0;No
+RITM0820668;22/02/2024;15:57:00;Branch - C?iz;No;No;No;22;1;No
+RITM0820659;22/02/2024;16:43:00;Branch - Madrid Santa Engracia;No;No;No;22;0;No
+RITM0820641;23/02/2024;14:34:00;Branch - C?iz;No;No;No;23;0;No
+RITM0819385;24/02/2024;9:39:00;Branch - C?iz;Si;No;No;24;1;Si
+RITM0819380;24/02/2024;12:54:00;Branch - C?iz;No;No;No;24;0;No
+RITM0819020;25/02/2024;12:48:00;Branch - Barcelona Meridiana;Si;No;No;12;1;Si
+RITM0818839;26/02/2024;15:35:00;Branch - Barcelona Meridiana;No;No;No;26;1;No
+RITM0817448;29/02/2024;11:32:00;Branch - C?iz;No;No;No;29;0;No
+RITM0817445;01/03/2024;14:59:00;Branch - Madrid Costa Rica;Si;No;No;13;1;Si
+RITM0817361;04/03/2024;14:59:00;Branch - Madrid Costa Rica;No;No;No;4;0;No
+RITM0817326;07/03/2024;8:59:00;Branch - Alicante;No;No;No;7;0;No
+RITM0817299;10/03/2024;11:43:00;Branch - Barcelona Meridiana;Si;No;No;10;1;Si
+RITM0815958;10/03/2024;8:36:00;Branch - Madrid Santa Engracia;No;No;No;10;1;No
+RITM0815609;13/03/2024;15:45:00;Branch - Barcelona Meridiana;Si;No;No;13;1;Si
+RITM0814549;17/03/2024;17:10:00;Branch - Barcelona Meridiana;No;No;No;17;1;No
+RITM0814422;17/03/2024;15:32:00;Branch - Barcelona Meridiana;No;No;No;17;0;No
+RITM0814302;17/03/2024;17:00:00;Branch - Barcelona Meridiana;No;No;No;17;1;No
+RITM0812174;18/03/2024;17:40:00;Branch - Barcelona Meridiana;No;No;No;18;0;No
+RITM0810531;19/03/2024;9:40:00;Branch - Alicante;No;No;No;19;1;No
+RITM0806806;20/03/2024;9:51:00;Branch - Barcelona Meridiana;Si;No;No;20;0;Si
+RITM0805897;20/03/2024;12:24:00;Branch - Alicante;Si;No;No;20;0;Si
+RITM0804753;23/03/2024;10:37:00;Branch - Madrid Santa Engracia;No;No;No;10;0;No
+RITM0803346;24/03/2024;9:55:00;Branch - Valencia;No;No;No;24;1;No
+RITM0802621;25/03/2024;16:22:00;Branch - Barcelona Meridiana;No;No;No;25;1;No
+RITM0802023;27/03/2024;9:32:00;Branch - Madrid Costa Rica;No;No;No;27;0;No
+RITM0801530;28/03/2024;16:17:00;Branch - Madrid Costa Rica;No;No;No;28;1;No
+RITM0799546;28/03/2024;17:22:00;Branch - C?iz;Si;No;No;28;0;Si
+RITM0799458;10/03/2024;10:28:00;Branch - Alicante;Si;No;No;28;1;Si
+RITM0797949;30/03/2024;15:30:00;Branch - Barcelona Meridiana;No;No;No;30;1;No
+RITM0797805;31/03/2024;8:40:00;Branch - Barcelona Meridiana;Si;No;No;31;1;Si
+RITM0797708;05/03/2024;12:13:00;Branch - Barcelona Meridiana;Si;No;Si;31;0;Si
+RITM0797701;01/04/2024;8:32:00;Branch - Barcelona Meridiana;No;No;No;1;0;No
+RITM0796613;01/04/2024;8:47:00;Branch - Madrid Santa Engracia;No;No;No;1;1;No
+RITM0796097;04/04/2024;13:51:00;Branch - Madrid Santa Engracia;No;No;No;4;0;No
+RITM0794656;04/04/2024;15:17:00;Branch - Barcelona Meridiana;Si;No;No;4;1;Si
+RITM0794637;05/04/2024;12:39:00;Branch - Madrid Costa Rica;No;No;No;15;1;No
+RITM0794567;05/04/2024;14:45:00;Branch - Alicante;Si;No;No;5;0;Si
+RITM0792243;08/04/2024;11:48:00;Branch - C?iz;No;No;No;8;0;No
+RITM0788477;08/04/2024;16:10:00;Branch - Barcelona Meridiana;No;No;No;8;1;No
+RITM0788476;10/04/2024;8:49:00;Branch - Barcelona Meridiana;No;Si;Si;10;0;Si
+RITM0787297;11/04/2024;11:20:00;Branch - Barcelona Meridiana;Si;No;No;11;0;Si
+RITM0785430;12/04/2024;13:28:00;Branch - C?iz;No;No;No;12;0;No
+RITM0785099;15/04/2024;11:43:00;Branch - Barcelona Meridiana;Si;No;No;15;1;Si
+RITM0784391;15/04/2024;12:42:00;Branch - Valencia;No;No;No;15;1;No
+RITM0781381;15/04/2024;13:41:00;Branch - C?iz;No;Si;Si;15;0;Si
+RITM0780124;17/04/2024;13:36:00;Branch - Madrid Santa Engracia;No;No;No;17;1;No
+RITM0780116;18/04/2024;11:24:00;Branch - Barcelona Meridiana;No;No;No;18;1;No
+RITM0777573;18/04/2024;14:37:00;Branch - Barcelona Meridiana;No;No;No;18;0;No
+RITM0777168;19/04/2024;13:10:00;Branch - C?iz;No;No;No;19;0;No
+RITM0777073;20/04/2024;11:37:00;Branch - C?iz;Si;No;No;20;1;Si
+RITM0776886;20/04/2024;8:26:00;Branch - Valencia;Si;No;No;20;1;Si
+RITM0963979;20/04/2024;14:26:00;Branch - C?iz;No;No;No;20;0;No
+RITM0964166;21/04/2024;12:55:00;Branch - Barcelona Meridiana;Si;No;No;21;1;Si
+RITM0965139;22/04/2024;17:35:00;Branch - Madrid Santa Engracia;No;No;No;22;1;No
+RITM0965367;24/04/2024;13:57:00;Branch - Barcelona Meridiana;Si;No;No;13;1;Si
+RITM0964094;25/04/2024;15:22:00;Branch - Alicante;Si;No;No;19;1;Si
+RITM0964960;26/04/2024;9:29:00;Branch - C?iz;Si;No;No;26;0;Si
+RITM0963161;29/04/2024;9:36:00;Branch - C?iz;No;No;No;29;0;No
+RITM0964383;29/04/2024;15:24:00;Branch - C?iz;No;No;No;29;0;No
+RITM0965111;02/05/2024;8:41:00;Branch - Madrid Costa Rica;Si;No;No;2;1;Si
+RITM0963518;02/05/2024;15:40:00;Branch - Valencia;Si;No;No;2;1;Si
+RITM0964341;03/05/2024;15:50:00;Branch - Madrid O Donnell;No;No;No;3;1;No
+RITM0963130;03/05/2024;16:20:00;Branch - Madrid O Donnell;No;No;No;3;1;No
+RITM0965592;04/05/2024;11:22:00;Branch - Barcelona Meridiana;No;No;No;4;1;No
+RITM0965947;05/05/2024;17:38:00;Branch - C?iz;No;No;No;5;0;No
+RITM0965165;06/05/2024;8:48:00;Branch - C?iz;No;No;No;6;1;No
+RITM0963002;07/05/2024;17:42:00;Branch - Barcelona Meridiana;No;No;No;7;0;No
+RITM0965104;08/05/2024;12:54:00;Branch - Madrid Costa Rica;Si;No;No;8;1;Si
+RITM0964278;11/05/2024;17:34:00;Branch - Barcelona Meridiana;No;No;No;11;0;No
+RITM0965296;11/05/2024;17:56:00;Branch - Alicante;No;No;No;11;0;No
+RITM0964158;13/05/2024;17:31:00;Branch - C?iz;No;No;No;13;0;No
+RITM0964211;14/05/2024;11:34:00;Branch - Alicante;Si;No;No;14;1;Si
+RITM0964901;16/05/2024;15:35:00;Branch - C?iz;No;No;No;16;0;No
+RITM0965056;17/05/2024;11:32:00;Branch - Valencia;No;No;No;17;1;No
+RITM0965700;30/05/2024;14:35:00;Branch - Madrid O Donnell;Si;No;No;17;0;Si
+RITM0963773;17/05/2024;14:15:00;Branch - Valencia;No;No;No;17;0;No
+RITM0964904;18/05/2024;10:42:00;Branch - C?iz;Si;No;No;18;0;Si
+RITM0965277;19/05/2024;11:52:00;Branch - C?iz;No;No;No;19;0;No
+RITM0965465;23/05/2024;17:30:00;Branch - Alicante;Si;No;No;23;0;Si
+RITM0965734;24/05/2022;11:10:00;Branch - Madrid Costa Rica;No;No;No;24;0;No
+RITM0964812;25/05/2022;11:33:00;Branch - Valencia;Si;No;No;25;0;Si
+RITM0965434;25/05/2022;11:57:00;Branch - C?iz;No;No;No;25;1;No
+RITM0964342;25/05/2022;12:40:00;Branch - C?iz;No;No;No;25;1;No
+RITM0964459;26/05/2022;17:46:00;Branch - C?iz;Si;No;No;26;1;Si
+RITM0965306;27/05/2024;8:35:00;Branch - C?iz;Si;No;No;27;0;Si
+RITM0963507;27/05/2024;17:20:00;Branch - C?iz;No;No;No;27;1;No
+RITM0965503;28/05/2024;10:28:00;Branch - Valencia;Si;No;No;28;1;Si
+RITM0965655;30/05/2022;8:42:00;Branch - Alicante;Si;No;No;30;0;Si
+RITM0965396;30/05/2024;11:22:00;Branch - Madrid Costa Rica;Si;No;No;30;0;Si
+RITM0964828;31/05/2024;13:55:00;Branch - Alicante;No;No;No;31;0;No
+RITM0965708;01/06/2022;9:48:00;Branch - Madrid Santa Engracia;Si;No;No;1;0;Si
+RITM0964505;01/06/2022;8:41:00;Branch - Valencia;Si;No;No;1;1;Si
+RITM0965743;04/06/2024;16:51:00;Branch - Barcelona Meridiana;No;No;No;4;0;No
+RITM0964189;04/06/2024;16:34:00;Branch - Alicante;No;No;No;4;0;No
+RITM0963684;05/06/2024;15:59:00;Branch - Madrid Santa Engracia;No;Si;Si;5;1;Si
+RITM0963398;05/06/2024;16:38:00;Branch - Madrid Costa Rica;No;No;No;5;1;No
+RITM0963530;05/06/2024;12:43:00;Branch - Valencia;No;No;No;5;1;No
+RITM0965964;07/06/2024;17:31:00;Branch - Madrid Costa Rica;Si;No;No;7;0;Si
+RITM0965922;07/06/2024;12:51:00;Branch - C?iz;Si;No;No;7;1;Si
+RITM0963196;08/06/2024;13:13:00;Branch - Valencia;No;No;No;8;1;No
+RITM0964922;08/06/2024;11:40:00;Branch - C?iz;Si;No;No;8;0;Si
+RITM0963679;09/06/2024;15:52:00;Branch - Valencia;No;No;No;9;0;No
+RITM0965862;09/06/2024;9:41:00;Branch - Madrid Santa Engracia;Si;No;No;9;0;Si
+RITM0964079;10/06/2022;10:42:00;Branch - C?iz;No;No;No;3;1;No
+RITM0965073;10/06/2024;17:46:00;Branch - Alicante;No;No;No;9;1;No
+RITM0964878;15/06/2024;17:38:00;Branch - Madrid Santa Engracia;No;No;No;15;0;No
+RITM0965720;16/06/2024;10:42:00;Branch - Barcelona Meridiana;No;No;No;16;1;No
+RITM0964439;17/06/2024;16:53:00;Branch - Madrid Costa Rica;No;No;No;17;1;No
+RITM0964761;20/06/2022;11:50:00;Branch - C?iz;No;No;No;20;1;No
+RITM0963376;20/06/2022;15:49:00;Branch - C?iz;Si;No;No;20;0;Si
+RITM0964118;23/06/2022;17:54:00;Branch - C?iz;Si;Si;Si;23;1;Si
+RITM0965858;24/06/2024;8:38:00;Branch - Barcelona Meridiana;Si;No;No;24;1;Si
+RITM0965653;25/06/2022;8:43:00;Branch - C?iz;Si;No;No;25;0;Si
+RITM0963201;25/06/2024;17:10:00;Branch - Madrid Costa Rica;No;No;No;25;1;No
+RITM0965909;25/06/2024;17:48:00;Branch - Barcelona Meridiana;No;No;No;21;1;No
+RITM0964995;26/06/2024;17:00:00;Branch - C?iz;Si;No;No;26;0;Si
+RITM0964017;29/06/2024;10:48:00;Branch - C?iz;Si;No;No;29;0;Si
+RITM0963854;29/06/2024;17:15:00;Branch - Alicante;Si;No;No;29;0;Si
+RITM0965689;30/06/2024;14:32:00;Branch - C?iz;Si;No;No;30;1;Si
+RITM0964368;01/07/2024;14:34:00;Branch - Barcelona Meridiana;Si;No;No;1;0;Si
+RITM0963276;03/07/2024;16:27:00;Branch - Madrid Costa Rica;No;No;No;4;0;No
+RITM0964216;03/07/2024;9:48:00;Branch - Barcelona Meridiana;Si;No;No;3;1;Si
+RITM0964867;03/07/2024;15:33:00;Branch - C?iz;Si;No;No;3;1;Si
+RITM0963610;04/07/2024;15:55:00;Branch - Valencia;No;No;No;4;0;No
+RITM0963748;05/07/2024;10:52:00;Branch - Barcelona Meridiana;Si;No;No;17;0;Si
+RITM0965311;05/07/2024;9:30:00;Branch - Madrid Costa Rica;No;No;No;5;0;No
+RITM0965691;05/07/2024;16:36:00;Branch - Barcelona Meridiana;No;No;No;16;1;No
+RITM0965555;07/07/2024;14:17:00;Branch - Barcelona Meridiana;No;No;No;7;1;No
+RITM0965128;09/07/2024;17:59:00;Branch - Madrid Santa Engracia;Si;No;No;9;1;Si
+RITM0965039;10/07/2024;10:41:00;Branch - Valencia;Si;No;No;6;0;Si
+RITM0964483;10/07/2024;11:55:00;Branch - C?iz;No;No;No;10;1;No
+RITM0965841;12/07/2024;10:59:00;Branch - Valencia;No;No;No;12;0;No
+RITM0963897;13/07/2024;9:54:00;Branch - Alicante;No;No;No;13;0;No
+RITM0963832;14/07/2024;16:40:00;Branch - Alicante;No;No;No;14;0;No
+RITM0963863;14/07/2024;9:33:00;Branch - Madrid Santa Engracia;No;No;No;14;1;No
+RITM0963202;16/07/2024;9:37:00;Branch - C?iz;No;No;No;16;1;No
+RITM0964139;18/07/2024;17:52:00;Branch - Barcelona Meridiana;No;No;No;18;1;No
+RITM0963624;19/07/2024;16:05:00;Branch - Barcelona Meridiana;No;No;No;19;0;No
+RITM0963689;19/07/2024;15:40:00;Branch - C?iz;Si;No;No;19;0;Si
+RITM0965843;20/07/2024;11:31:00;Branch - C?iz;Si;No;No;20;1;Si
+RITM0964144;22/07/2024;8:34:00;Branch - C?iz;Si;No;No;22;0;Si
+RITM0964651;22/07/2024;14:43:00;Branch - C?iz;No;No;No;22;0;No
+RITM0963333;22/07/2024;17:19:00;Branch - Barcelona Meridiana;No;No;No;22;0;No
+RITM0963713;10/07/2024;9:32:00;Branch - C?iz;Si;No;No;23;1;Si
+RITM0963093;23/07/2024;8:56:00;Branch - C?iz;No;No;No;23;1;No
+RITM0964850;25/07/2024;16:35:00;Branch - Barcelona Meridiana;Si;No;No;17;0;Si
+RITM0965755;25/07/2024;8:50:00;Branch - Barcelona Meridiana;No;No;No;15;0;No
+RITM0963972;27/07/2024;12:50:00;Branch - Barcelona Meridiana;No;No;No;27;1;No
+RITM0965122;27/07/2024;15:39:00;Branch - Barcelona Meridiana;No;No;No;27;0;No
+RITM0963929;28/07/2024;15:34:00;Branch - C?iz;Si;No;No;28;1;Si
+RITM0965908;28/07/2024;8:33:00;Branch - C?iz;No;No;No;28;1;No
+RITM0963378;28/07/2024;8:51:00;Branch - C?iz;Si;No;No;28;1;Si
+RITM0963207;30/07/2024;9:46:00;Branch - Barcelona Meridiana;No;No;No;30;0;No
+RITM0963294;31/07/2024;8:17:00;Branch - Madrid O Donnell;No;Si;Si;31;1;Si
+RITM0963601;31/07/2024;11:19:00;Branch - Madrid Costa Rica;No;No;No;31;0;No
+RITM0963212;01/08/2024;12:32:00;Branch - Barcelona Meridiana;No;No;No;1;0;No
+RITM0964898;01/08/2024;9:22:00;Branch - Alicante;Si;No;No;1;0;Si
+RITM0963410;03/08/2024;16:51:00;Branch - C?iz;No;No;No;3;1;No
+RITM0965672;05/08/2024;13:36:00;Branch - C?iz;Si;No;No;14;1;No
+RITM0964183;05/08/2024;15:54:00;Branch - Barcelona Meridiana;No;No;No;17;0;No
+RITM0965492;07/08/2024;8:36:00;Branch - Barcelona Meridiana;Si;No;No;7;0;Si
+RITM0963191;09/08/2024;14:30:00;Branch - Madrid Costa Rica;No;No;No;9;1;No
+RITM0963637;10/08/2024;12:42:00;Branch - Barcelona Meridiana;Si;No;No;10;0;Si
+RITM0964968;10/08/2024;12:10:00;Branch - Madrid Costa Rica;No;No;No;10;1;No
+RITM0965372;10/08/2024;11:26:00;Branch - Valencia;No;No;No;10;0;No
+RITM0965052;14/08/2024;10:56:00;Branch - C?iz;No;No;No;14;0;No
+RITM0965042;14/08/2024;9:47:00;Branch - Madrid O Donnell;Si;No;No;14;1;Si
+RITM0965507;15/08/2024;11:36:00;Branch - Barcelona Meridiana;No;No;No;15;0;No
+RITM0964083;18/08/2024;14:31:00;Branch - Madrid Costa Rica;No;No;No;18;0;No
+RITM0965704;20/08/2024;9:24:00;Branch - C?iz;No;No;No;20;1;No
+RITM0965411;23/08/2024;12:32:00;Branch - Barcelona Meridiana;Si;No;No;23;1;Si
+RITM0963245;23/08/2024;14:41:00;Branch - C?iz;Si;Si;Si;23;1;Si
+RITM0965994;26/08/2024;10:47:00;Branch - C?iz;No;No;No;26;1;No
+RITM0965686;26/08/2024;11:17:00;Branch - Barcelona Meridiana;No;No;No;26;0;No
+RITM0963805;27/08/2024;13:34:00;Branch - Barcelona Meridiana;No;No;No;27;1;No
+RITM0963253;29/08/2024;8:34:00;Branch - Alicante;No;No;No;12;0;No
+RITM0965719;29/08/2024;15:56:00;Branch - Valencia;Si;No;No;29;0;Si
+RITM0964375;30/08/2024;12:42:00;Branch - Barcelona Meridiana;No;No;No;15;1;No
+RITM0965583;31/08/2024;14:15:00;Branch - Madrid O Donnell;No;No;No;31;0;No
+RITM0965504;01/09/2024;14:05:00;Branch - Barcelona Meridiana;No;No;No;1;1;No
+RITM0963248;04/09/2024;14:13:00;Branch - C?iz;Si;No;Si;4;0;Si
+RITM0964602;04/09/2024;17:39:00;Branch - Barcelona Meridiana;Si;No;No;4;1;Si
+RITM0965663;04/09/2024;12:32:00;Branch - Madrid Costa Rica;No;No;No;4;1;No
+RITM0964771;05/09/2024;16:22:00;Branch - Madrid Costa Rica;Si;No;No;7;1;Si
+RITM0963956;08/09/2024;17:46:00;Branch - Alicante;No;No;No;8;1;No
+RITM0963587;14/09/2024;16:37:00;Branch - Alicante;No;No;No;14;1;No
+RITM0964027;15/09/2024;10:50:00;Branch - Barcelona Meridiana;No;No;No;15;0;No
+RITM0965300;15/09/2024;13:57:00;Branch - Madrid O Donnell;Si;No;No;15;0;Si
+RITM0963216;15/09/2024;8:58:00;Branch - Barcelona Meridiana;Si;No;No;15;0;Si
+RITM0964741;16/09/2024;12:27:00;Branch - Madrid O Donnell;No;Si;Si;16;0;Si
+RITM0963113;17/09/2024;8:38:00;Branch - Alicante;Si;No;No;17;0;Si
+RITM0964219;19/09/2024;8:31:00;Branch - Barcelona Meridiana;Si;No;Si;19;1;Si
+RITM0963592;19/09/2024;15:30:00;Branch - Madrid O Donnell;Si;No;Si;19;1;Si
+RITM0963221;22/09/2024;14:20:00;Branch - Barcelona Meridiana;Si;No;No;22;1;Si
+RITM0964422;23/09/2024;8:45:00;Branch - Alicante;No;No;No;23;0;No
+RITM0965362;24/09/2024;11:43:00;Branch - Madrid O Donnell;No;No;No;24;0;No
+RITM0964830;25/09/2024;12:57:00;Branch - Madrid Santa Engracia;No;No;No;1;0;No
+RITM0964831;25/09/2024;11:58:00;Branch - Valencia;No;No;No;25;1;No
+RITM0963271;25/09/2024;9:53:00;Branch - Madrid Santa Engracia;No;No;No;25;0;No
+RITM0963043;25/09/2024;11:29:00;Branch - Madrid Santa Engracia;No;Si;Si;25;1;Si
+RITM0963273;25/09/2024;11:33:00;Branch - Madrid Santa Engracia;No;No;No;25;1;No
+RITM0964676;25/09/2024;12:05:00;Branch - Madrid Santa Engracia;Si;No;No;25;1;Si
+RITM0964395;27/09/2024;15:05:00;Branch - Barcelona Meridiana;Si;Si;Si;27;1;Si
+RITM0963852;28/09/2024;13:33:00;Branch - C?iz;No;No;No;18;0;No
+RITM0964067;29/09/2024;17:05:00;Branch - C?iz;Si;No;No;14;1;Si
+RITM0965452;30/09/2024;8:19:00;Branch - C?iz;No;No;No;30;1;No
+RITM0963268;01/10/2024;16:36:00;Branch - Valencia;No;Si;Si;1;1;Si
+RITM0963746;01/10/2024;14:35:00;Branch - Barcelona Meridiana;Si;No;No;1;1;Si
+RITM0963148;02/10/2024;11:26:00;Branch - Madrid Costa Rica;No;No;No;2;1;No
+RITM0963365;03/10/2024;15:50:00;Branch - C?iz;No;No;No;3;0;No
+RITM0964837;04/10/2024;13:36:00;Branch - Valencia;Si;No;No;4;1;Si
+RITM0963661;05/10/2024;14:34:00;Branch - Alicante;No;No;No;15;1;No
+RITM0964337;07/10/2024;9:27:00;Branch - C?iz;No;No;No;7;1;No
+RITM0963157;07/10/2024;9:44:00;Branch - Barcelona Meridiana;No;No;No;7;1;No
+RITM0965882;08/10/2024;16:40:00;Branch - Barcelona Meridiana;No;No;No;8;0;No
+RITM0965020;09/10/2024;17:48:00;Branch - Barcelona Meridiana;No;No;No;9;0;No
+RITM0964679;10/10/2024;14:27:00;Branch - Madrid O Donnell;No;No;No;6;0;No
+RITM0965762;10/10/2024;13:50:00;Branch - Madrid Costa Rica;No;No;No;10;0;No
+RITM0964713;14/10/2024;9:46:00;Branch - Alicante;Si;No;No;14;1;Si
+RITM0965278;15/10/2024;12:47:00;Branch - Barcelona Meridiana;Si;No;No;15;1;Si
+RITM0965049;17/10/2024;11:50:00;Branch - Vigo;Si;No;No;17;0;Si
+RITM0965490;18/10/2024;13:49:00;Branch - Santander;No;No;No;18;1;No
+RITM0963616;19/10/2024;16:47:00;Branch - C?iz;No;No;No;19;0;No
+RITM0965035;20/10/2024;11:43:00;Branch - C?iz;Si;No;No;20;1;Si
+RITM0965505;21/10/2024;16:20:00;Branch - Madrid Costa Rica;No;No;No;21;0;No
+RITM0965101;22/10/2024;11:10:00;Branch - Valencia;Si;No;No;22;0;Si
+RITM0963183;23/10/2024;12:52:00;Branch - Barcelona Meridiana;Si;No;No;23;1;Si
+RITM0964212;23/10/2024;8:53:00;Branch - Madrid Costa Rica;No;No;No;23;0;No
+RITM0963087;24/10/2024;8:56:00;Branch - Barcelona Meridiana;No;No;No;24;0;No
+RITM0963794;25/10/2024;14:38:00;Branch - Valencia;No;No;No;25;1;No
+RITM0964718;25/10/2024;10:53:00;Branch - Gij?;Si;No;No;25;1;Si
+RITM0965473;25/10/2024;17:52:00;Branch - Alicante;No;No;No;25;1;No
+RITM0963264;26/10/2024;9:33:00;Branch - Alicante;No;No;No;26;1;No
+RITM0965002;27/10/2024;8:41:00;Branch - Santander;Si;No;No;27;1;Si
+RITM0965839;27/10/2024;14:00:00;Branch - Murcia;No;No;No;27;1;No
+RITM0964970;27/10/2024;17:53:00;Branch - Sevilla;No;No;No;27;0;No
+RITM0965803;28/10/2024;8:29:00;Branch - Madrid Santa Engracia;No;No;No;28;1;No
+RITM0964213;29/10/2024;13:36:00;Branch - Valencia;Si;No;No;17;1;Si
+RITM0965953;29/10/2024;9:38:00;Branch - Valencia;No;No;No;29;1;No
+RITM0963718;31/10/2024;14:38:00;Branch - Madrid Costa Rica;No;No;No;31;0;No
+RITM0963317;02/11/2024;9:10:00;Branch - Madrid Costa Rica;No;No;No;2;0;No
+RITM0964132;02/11/2024;17:57:00;Branch - Valencia;No;No;No;2;1;No
+RITM0964062;05/11/2024;8:56:00;Branch - Barcelona Meridiana;Si;No;No;14;1;Si
+RITM0964763;06/11/2024;9:58:00;Branch - Zaragoza;No;No;No;6;1;No
+RITM0963092;06/11/2024;17:43:00;Branch - Zaragoza;Si;No;No;6;1;Si
+RITM0965019;06/11/2024;16:13:00;Branch - Barcelona Meridiana;Si;No;No;6;0;Si
+RITM0964322;07/11/2024;15:42:00;Branch - Santander;No;No;No;7;0;No
+RITM0965176;12/11/2024;10:59:00;Branch - Barcelona Meridiana;Si;Si;Si;12;0;Si
+RITM0963039;12/11/2024;17:56:00;Branch - Madrid O Donnell;Si;No;No;12;1;Si
+RITM0963818;12/11/2024;11:36:00;Branch - Valencia;No;No;No;12;0;No
+RITM0965160;13/11/2024;17:31:00;Branch - Madrid O Donnell;No;No;No;13;1;No
+RITM0963842;14/11/2024;13:38:00;Branch - Barcelona Meridiana;No;No;No;14;1;No
+RITM0963567;15/11/2024;16:57:00;Branch - Santander;Si;No;No;15;1;Si
+RITM0965103;15/11/2024;9:39:00;Branch - Majadahonda;No;No;No;15;1;No
+RITM0964514;15/11/2024;9:46:00;Branch - Vigo;No;No;No;15;0;No
+RITM0964734;16/11/2024;11:33:00;Branch - Barcelona Meridiana;No;No;No;16;1;No
+RITM0965516;17/11/2024;12:15:00;Branch - Valencia;Si;No;No;17;0;Si
+RITM0963855;18/11/2024;16:10:00;Branch - Barcelona Meridiana;No;No;No;18;0;No
+RITM0963783;19/11/2024;15:59:00;Branch - C?iz;No;No;No;19;0;No
+RITM0963046;19/11/2024;13:19:00;Branch - Vigo;Si;No;No;19;0;Si
+RITM0963731;20/11/2024;13:42:00;Branch - Madrid M?toles;Si;No;No;20;0;Si
+RITM0963394;20/11/2024;17:50:00;Branch - C?iz;No;No;No;20;1;No
+RITM0963099;21/11/2024;11:17:00;Branch - Madrid Costa Rica;Si;No;No;21;0;Si
+RITM0964715;22/11/2024;16:49:00;Branch - C?iz;No;No;No;22;0;No
+RITM0964310;23/11/2024;15:39:00;Branch - Valencia;No;No;No;23;1;No
+RITM0963525;27/11/2024;9:31:00;Branch - Valencia;No;No;No;27;0;No
+RITM0964059;28/11/2024;8:45:00;Branch - Valencia;Si;No;No;28;1;Si
+RITM0965860;29/11/2024;8:49:00;Branch - Bilbao;No;No;No;29;1;No
+RITM0965615;29/11/2024;8:22:00;Branch - C?iz;No;No;No;29;1;No
+RITM0964115;29/11/2024;13:53:00;Branch - C?iz;Si;No;No;29;1;Si
+RITM0964780;30/11/2024;16:40:00;Branch - Sevilla;No;No;No;30;0;No
+RITM0963364;30/11/2024;14:38:00;Branch - Bilbao;No;No;No;4;1;No
+RITM0964446;30/11/2024;11:13:00;Branch - Bilbao;No;No;No;30;1;No
+RITM0963989;30/11/2024;17:45:00;Branch - C?iz;Si;No;No;30;0;No
+RITM0965842;01/12/2024;15:46:00;Branch - Zaragoza;No;No;No;14;1;No
+RITM0963455;02/12/2024;10:38:00;Branch - C?iz;No;Si;Si;2;0;Si
+RITM0964876;03/12/2024;16:19:00;Branch - Valencia;No;No;No;3;0;No
+RITM0964389;04/12/2024;8:30:00;Branch - Madrid O Donnell;No;No;No;4;1;No
+RITM0965131;04/12/2024;8:30:00;Branch - Zaragoza;No;No;No;4;0;No
+RITM0965244;07/12/2024;17:34:00;Branch - Madrid O Donnell;No;No;No;7;0;No
+RITM0964124;09/12/2024;9:45:00;Branch - Barcelona Meridiana;Si;No;No;9;1;Si
+RITM0964756;09/12/2024;9:18:00;Branch - Barcelona Meridiana;No;No;No;9;0;No
+RITM0965427;09/12/2024;14:05:00;Branch - Vigo;No;No;No;9;1;No
+RITM0964323;10/12/2024;14:11:00;Branch - Santander;No;No;No;10;1;No
+RITM0965809;10/12/2024;13:17:00;Branch - Madrid M?toles;Si;No;No;10;0;Si
+RITM0964775;11/12/2024;9:25:00;Branch - C?iz;No;No;No;11;1;No
+RITM0965542;12/12/2024;13:45:00;Branch - C?iz;No;No;No;12;1;No
+RITM0964496;13/12/2024;13:34:00;Branch - Gij?;No;No;No;13;1;No
+RITM0963261;14/12/2024;13:54:00;Branch - Alicante;No;No;No;14;1;No
+RITM0964918;15/12/2024;9:34:00;Branch - Alicante;Si;No;No;17;0;Si
+RITM0963864;18/12/2024;9:32:00;Branch - Alicante;Si;No;No;18;1;Si
+RITM0965018;19/12/2024;15:40:00;Branch - Gij?;Si;No;No;19;1;Si
+RITM0963895;20/12/2024;17:31:00;Branch - Vigo;No;Si;Si;20;1;Si
+RITM0965413;21/12/2024;8:43:00;Branch - Santander;No;No;No;21;1;No
+RITM0963840;23/12/2024;13:52:00;Branch - Zaragoza;No;No;No;23;0;No
+RITM0963585;24/12/2024;9:13:00;Branch - Zaragoza;Si;No;No;24;0;Si
+RITM0964327;25/12/2024;14:16:00;Branch - Santander;No;No;No;25;1;No
+RITM0965276;26/12/2024;9:11:00;Branch - Valencia;Si;Si;Si;26;1;Si
+RITM0963544;26/12/2024;9:33:00;Branch - Valencia;Si;No;No;26;1;Si
+RITM0963387;27/12/2024;13:56:00;Branch - Valencia;No;No;No;27;0;No
+RITM0963985;25/05/2024;15:46:00;Branch - Madrid M?toles;No;Si;Si;27;1;Si
+RITM0964465;29/12/2024;14:32:00;Branch - Valencia;No;No;No;29;0;No
+RITM0965343;29/12/2024;17:21:00;Branch - Barcelona Meridiana;No;No;No;29;1;No
+RITM0964925;29/12/2024;14:08:00;Branch - Madrid M?toles;Si;No;No;10;0;Si
+RITM0964721;30/12/2024;9:11:00;Branch - C?iz;Si;No;No;30;0;Si
+RITM0964007;30/12/2024;13:52:00;Branch - Madrid M?toles;No;No;No;30;0;No
+RITM0965132;31/12/2024;13:22:00;Branch - Valencia;No;No;No;31;1;No
+RITM0963045;01/01/2025;14:12:00;Branch - Vigo;No;No;No;1;1;No
+RITM0963463;02/01/2025;9:32:00;Branch - Las Rozas;No;No;No;2;1;No
+RITM0963080;04/01/2025;9:23:00;Branch - C?doba;No;No;No;4;1;No
+RITM0963650;05/01/2025;13:41:00;Branch - Zaragoza;No;No;No;5;1;No
+RITM0963931;05/01/2025;14:01:00;Branch - Zaragoza;No;No;No;5;0;No
+RITM0963549;05/01/2025;17:45:00;Branch - C?iz;No;No;No;5;1;No
+RITM0964284;05/01/2025;13:48:00;Branch - C?iz;Si;No;No;5;1;Si
+RITM0963524;07/01/2025;8:40:00;Branch - Valencia;No;No;No;7;0;No
+RITM0964988;08/01/2025;13:37:00;Branch - Madrid M?toles;No;No;No;8;0;No
+RITM0964075;08/01/2025;13:16:00;Branch - Madrid M?toles;No;No;No;8;0;No
+RITM0965880;09/01/2025;9:18:00;Branch - Madrid M?toles;Si;No;No;9;1;Si
+RITM0964849;10/01/2025;14:02:00;Branch - A Coru?;No;No;No;10;1;No
+RITM0965929;13/01/2025;13:35:00;Branch - Santander;No;No;No;13;0;No
+RITM0965153;15/01/2025;9:11:00;Branch - Madrid O Donnell;No;No;No;15;1;No
+RITM0964330;15/01/2025;14:22:00;Branch - C?iz;No;No;No;15;1;No
+RITM0964214;18/01/2025;17:16:00;Branch - C?iz;No;No;No;18;0;No
+RITM0965773;20/01/2025;13:55:00;Branch - C?iz;No;No;No;20;0;No
+RITM0964773;20/01/2025;9:04:00;Branch - Barcelona Meridiana;Si;No;No;20;0;Si
+RITM0964101;21/01/2025;8:57:00;Branch - Vigo;No;No;No;21;0;No
+RITM0963602;23/01/2025;14:03:00;Branch - Madrid Costa Rica;No;No;No;23;1;No
+RITM0963816;23/01/2025;9:01:00;Branch - C?iz;No;No;No;23;0;No
+RITM0964647;24/01/2025;9:11:00;Branch - Alicante;No;No;No;24;0;No
+RITM0963467;27/01/2025;13:59:00;Branch - Valencia;Si;No;No;27;1;Si
+RITM0965068;28/01/2025;9:30:00;Branch - C?iz;Si;No;No;28;0;Si
+RITM0964188;28/01/2025;13:56:00;Branch - Bilbao;No;No;No;28;0;No
+RITM0964549;28/01/2025;17:38:00;Branch - Bilbao;No;No;No;28;0;No
+RITM0965369;28/01/2025;13:48:00;Branch - Valladolid;No;No;No;28;0;No
+RITM0963940;30/01/2025;8:47:00;Branch - Majadahonda;No;No;No;4;0;No
+RITM0963541;30/01/2025;13:40:00;Branch - Madrid O Donnell;No;No;No;30;0;No
+RITM0964232;30/01/2025;14:18:00;Branch - Madrid Costa Rica;No;No;No;30;1;No
+RITM0964302;31/01/2025;9:28:00;Branch - Santander;No;No;No;12;0;No
+RITM0964366;31/01/2025;9:11:00;Branch - Vigo;No;No;No;31;0;No
+RITM0963632;01/02/2025;13:44:00;Branch - Alicante;No;No;No;1;0;No
+RITM0963427;01/02/2025;9:01:00;Branch - Barcelona Meridiana;Si;No;No;1;1;Si
+RITM0963076;01/02/2025;14:00:00;Branch - Valencia;Si;No;No;1;1;Si
+RITM0965202;02/02/2025;8:58:00;Branch - C?iz;No;No;No;2;1;No
+RITM0964343;02/02/2025;13:56:00;Branch - Madrid Santa Engracia;No;No;No;2;0;No
+RITM0963970;02/02/2025;8:48:00;Branch - C?iz;No;No;No;2;0;No
+RITM0964930;02/02/2025;15:59:00;Branch - Valencia;Si;No;No;2;0;Si
+RITM0965765;05/02/2025;14:19:00;Branch - Madrid Costa Rica;No;No;No;5;1;No
+RITM0964742;05/02/2025;9:19:00;Branch - Santander;Si;No;No;5;1;Si
+RITM0965643;05/02/2025;14:06:00;Branch - Vigo;No;No;No;5;1;No
+RITM0964670;07/02/2025;9:03:00;Branch - Vigo;No;No;No;7;1;No
+RITM0964813;07/02/2025;14:09:00;Branch - Sevilla;No;No;No;7;0;No
+RITM0963284;08/02/2025;14:09:00;Branch - Bilbao;No;No;No;8;0;No
+RITM0963388;09/02/2025;9:17:00;Branch - Madrid Costa Rica;No;No;No;9;0;No
+RITM0964427;09/02/2025;13:50:00;Branch - C?iz;Si;No;No;9;1;Si
+RITM0965662;12/02/2025;14:13:00;Branch - Valencia;Si;Si;Si;12;0;Si
+RITM0963824;13/02/2025;13:51:00;Branch - Zaragoza;Si;No;No;13;1;Si
+RITM0965173;14/02/2025;9:24:00;Branch - Bilbao;Si;No;No;14;1;Si
+RITM0964394;14/02/2025;13:43:00;Branch - Madrid Santa Engracia;No;No;No;14;1;No
+RITM0963701;15/02/2025;14:06:00;Branch - Madrid Costa Rica;No;No;No;15;1;No
+RITM0964984;15/02/2025;9:12:00;Branch - Valencia;No;No;No;15;0;No
+RITM0965875;16/02/2025;14:20:00;Branch - Gij?;No;No;No;16;0;No
+RITM0963948;16/02/2025;8:42:00;Branch - Alicante;Si;No;No;16;0;Si
+RITM0965848;17/02/2025;13:50:00;Branch - Sevilla;Si;No;No;17;1;Si
+RITM0965469;18/02/2025;17:28:00;Branch - Madrid Costa Rica;Si;No;No;18;0;Si
+RITM0965836;22/02/2025;13:50:00;Branch - Majadahonda;No;No;No;22;0;No
+RITM0965232;23/02/2025;13:40:00;Branch - Alicante;Si;No;No;23;0;Si
+RITM0964227;23/02/2025;8:59:00;Branch - Zaragoza;Si;Si;Si;23;0;Si
+RITM0964182;23/02/2025;13:50:00;Branch - Zaragoza;No;No;No;23;1;No
+RITM0964452;28/02/2025;13:49:00;Branch - C?iz;No;No;No;28;0;No
+RITM0963631;01/03/2025;17:38:00;Branch - Gij?;Si;No;No;1;1;Si
+RITM0963066;02/03/2025;14:12:00;Branch - Sevilla;No;No;No;2;1;No
+RITM0965004;02/03/2025;8:41:00;Branch - C?iz;No;No;No;2;1;No
+RITM0964959;03/03/2025;15:34:00;Branch - C?iz;No;No;No;4;1;No
+RITM0963300;03/03/2025;17:43:00;Branch - Majadahonda;No;No;No;15;1;No
+RITM0964122;04/03/2025;13:53:00;Branch - Majadahonda;Si;No;No;4;0;Si
+RITM0963700;04/03/2025;9:12:00;Branch - Valencia;Si;No;No;4;0;Si
+RITM0964555;05/03/2025;9:12:00;Branch - Gij?;No;No;No;5;0;No
+RITM0964720;05/03/2025;9:12:00;Branch - Alicante;No;No;No;5;1;No
+RITM0965711;05/03/2025;15:54:00;Branch - Valencia;Si;No;No;5;1;Si
+RITM0965033;06/03/2025;13:56:00;Branch - Barcelona Diagonal;Si;No;No;6;0;Si
+RITM0963648;07/03/2025;14:04:00;Branch - Madrid O Donnell;No;No;No;7;0;No
+RITM0965363;08/03/2025;8:56:00;Branch - Alicante;No;No;No;8;0;No
+RITM0965810;08/03/2025;13:53:00;Branch - Alicante;Si;No;No;8;1;Si
+RITM0964722;08/03/2025;13:37:00;Branch - Alicante;No;No;No;8;1;No
+RITM0965386;10/03/2025;14:05:00;Branch - Alicante;No;No;No;10;1;No
+RITM0965028;10/03/2025;9:29:00;Branch - Alicante;No;No;No;10;0;No
+RITM0965136;11/03/2025;9:14:00;Branch - Madrid Acacias;No;No;No;11;0;No
+RITM0965506;12/03/2025;13:53:00;Branch - Las Palmas de GC;No;No;No;12;1;No
+RITM0964809;14/03/2025;13:42:00;Branch - C?doba;Si;No;No;14;1;Si
+RITM0964989;15/03/2025;8:57:00;Branch - Madrid Costa Rica;Si;No;No;15;0;Si
+RITM0965586;15/03/2025;15:48:00;Branch - Majadahonda;No;No;No;15;0;No
+RITM0964737;16/03/2025;17:39:00;Branch - Madrid Santa Engracia;No;No;No;16;0;No
+RITM0964234;16/03/2025;14:14:00;Branch - Majadahonda;No;No;No;16;0;No
+RITM0965793;16/03/2025;9:17:00;Branch - Madrid Santa Engracia;No;No;No;16;1;No
+RITM0963758;22/03/2025;13:55:00;Branch - Madrid Costa Rica;Si;No;No;22;0;Si
+RITM0965628;24/03/2025;17:19:00;Branch - Madrid Acacias;Si;No;No;24;1;Si
+RITM0965045;24/03/2025;13:47:00;Branch - Madrid M?toles;No;No;No;24;1;No
+RITM0965806;25/03/2025;9:35:00;Branch - Santander;No;No;No;25;1;No
+RITM0964010;25/03/2025;13:51:00;Branch - Barcelona Sabadell;No;No;No;25;1;No
+RITM0963609;25/03/2025;9:10:00;Branch - Zaragoza;No;No;No;25;1;No
+RITM0963772;25/03/2025;9:07:00;Branch - Murcia;Si;No;No;25;1;Si
+RITM0964485;26/03/2025;17:12:00;Branch - Madrid O Donnell;No;No;No;26;0;No
+RITM0964228;26/03/2025;14:03:00;Branch - Sevilla;No;No;No;26;1;No
+RITM0964435;26/03/2025;8:58:00;Branch - Valladolid;No;No;No;26;1;No
+RITM0964055;26/03/2025;14:02:00;Branch - Gij?;No;Si;Si;26;0;Si
+RITM0964791;27/03/2025;14:08:00;Branch - Zaragoza;Si;No;No;17;0;Si
+RITM0965493;28/03/2025;9:17:00;Branch - Zaragoza;Si;No;No;28;0;Si
+RITM0965664;31/03/2025;9:32:00;Branch - Las Palmas de GC;No;Si;Si;31;1;Si
+RITM0963903;31/03/2025;14:08:00;Branch - Gij?;Si;No;No;31;0;Si
+RITM0963355;01/04/2025;13:56:00;Branch - Madrid M?toles;No;No;No;1;0;No
+RITM0964965;02/04/2025;9:26:00;Branch - Santander;No;No;No;2;0;No
+RITM0964447;02/04/2025;16:01:00;Branch - Madrid Santa Engracia;No;No;No;2;0;No
+RITM0965421;02/04/2025;14:18:00;Branch - Santander;No;No;No;2;0;No
+RITM0965487;02/04/2025;9:10:00;Branch - Sevilla;Si;No;No;2;1;Si
+RITM0965758;03/04/2025;13:51:00;Branch - Bilbao;Si;No;No;3;0;Si
+RITM0964933;03/04/2025;17:10:00;Branch - Madrid M?toles;No;No;No;3;0;No
+RITM0964345;04/04/2025;14:08:00;Branch - Madrid M?toles;Si;No;No;4;0;Si
+RITM0965448;05/04/2025;9:04:00;Branch - A Coru?;Si;Si;Si;15;1;Si
+RITM0963819;05/04/2025;13:44:00;Branch - Madrid O Donnell;Si;No;No;5;0;Si
+RITM0964448;05/04/2025;9:07:00;Branch - Sevilla;No;No;No;5;0;No
+RITM0963405;07/04/2025;9:08:00;Branch - Murcia;No;No;No;7;1;No
+RITM0965864;07/04/2025;16:03:00;Branch - Las Palmas de GC;No;No;No;7;0;No
+RITM0963566;08/04/2025;17:33:00;Branch - Gij?;No;No;No;8;0;No
+RITM0965359;10/04/2025;13:52:00;Branch - Majadahonda;No;No;No;10;0;No
+RITM0965986;10/04/2025;9:10:00;Branch - Majadahonda;No;No;No;10;1;No
+RITM0963208;11/04/2025;13:58:00;Branch - Sevilla;No;No;No;11;0;No
+RITM0964565;12/04/2025;13:41:00;Branch - Tenerife;Si;No;No;12;0;Si
+RITM0965790;13/04/2025;13:49:00;Branch - Santander;Si;No;No;13;1;Si
+RITM0963698;14/04/2025;9:29:00;Branch - C?doba;No;No;No;14;0;No
+RITM0964892;17/04/2025;13:52:00;Branch - C?doba;No;No;No;17;1;No
+RITM0964964;17/04/2025;8:57:00;Branch - Murcia;No;No;No;17;1;No
+RITM0963581;17/04/2025;13:28:00;Branch - Sevilla;No;No;No;17;0;No
+RITM0963851;20/04/2025;9:03:00;Branch - Madrid O Donnell;No;No;No;20;1;No
+RITM0964431;22/04/2025;9:09:00;Branch - Madrid O Donnell;No;No;No;22;1;No
+RITM0964777;24/04/2025;15:47:00;Branch - Madrid Acacias;No;No;No;24;1;No
+RITM0964031;26/04/2025;14:26:00;Branch - Madrid Acacias;No;No;No;10;1;No
+RITM0963277;26/04/2025;17:22:00;Branch - Valencia;Si;No;No;26;0;Si
+RITM0963040;27/04/2025;9:01:00;Branch - Madrid M?toles;No;No;No;27;1;No
+RITM0964723;28/04/2025;8:57:00;Branch - Murcia;Si;No;No;28;1;Si
+RITM0963986;28/04/2025;9:08:00;Branch - Valencia;Si;No;No;28;0;Si
+RITM0963638;30/04/2025;13:28:00;Branch - Madrid Santa Engracia;Si;No;No;30;0;Si
+RITM0965301;30/04/2025;9:29:00;Branch - C?iz;No;No;No;30;1;No
+RITM0965169;30/04/2025;9:03:00;Branch - Zaragoza;No;No;No;15;1;No
+RITM0965439;01/05/2025;16:02:00;Branch - Madrid O Donnell;No;No;No;1;1;No
+RITM0965480;02/05/2025;13:58:00;Branch - Madrid O Donnell;No;No;No;2;1;No
+RITM0964770;02/05/2025;17:18:00;Branch - Madrid Santa Engracia;No;No;No;2;1;No
+RITM0964931;03/05/2025;8:44:00;Branch - Madrid Costa Rica;No;No;No;3;1;No
+RITM0964191;03/05/2025;14:00:00;Branch - Madrid O Donnell;No;No;No;3;0;No
+RITM0963128;03/05/2025;8:36:00;Branch - Madrid O Donnell;No;No;No;3;0;No
+RITM0963767;04/05/2025;14:02:00;Branch - Granada;Si;No;No;4;1;Si
+RITM0963320;06/05/2025;13:27:00;Branch - Madrid Acacias;Si;Si;Si;6;0;Si
+RITM0964444;08/05/2025;9:30:00;Branch - Las Palmas de GC;No;No;No;8;0;No
+RITM0965422;10/05/2025;8:45:00;Branch - Zaragoza;Si;No;No;16;1;Si
+RITM0963077;10/05/2025;13:57:00;Branch - Tenerife;No;No;No;10;0;No
+RITM0965914;10/05/2025;8:37:00;Branch - Granada;No;No;No;10;0;No
+RITM0964912;13/05/2025;9:02:00;Branch - Murcia;No;No;No;13;1;No
+RITM0965825;13/05/2025;13:58:00;Branch - Madrid O Donnell;No;No;No;13;1;No
+RITM0965017;14/05/2025;9:10:00;Branch - Sevilla;No;No;No;14;1;No
+RITM0964744;15/05/2022;13:31:00;Branch - Oviedo;No;No;No;15;0;No
+RITM0965966;16/05/2022;9:06:00;Branch - Madrid Costa Rica;No;No;No;16;0;No
+RITM0964659;20/05/2022;14:03:00;Branch - Madrid Acacias;Si;No;No;20;0;Si
+RITM0963338;21/05/2022;13:50:00;Branch - Santander;No;No;No;21;0;No
+RITM0964717;21/05/2022;9:21:00;Branch - Majadahonda;No;No;No;21;0;No
+RITM0964677;22/05/2022;16:02:00;Branch - Madrid Santa Engracia;No;No;No;22;0;No
+RITM0963135;22/05/2025;14:18:00;Branch - Sevilla;No;No;No;22;0;No
+RITM0964719;25/05/2025;13:51:00;Branch - Zaragoza;No;No;No;25;1;No
+RITM0963827;25/05/2025;9:03:00;Branch - Gij?;Si;No;No;25;0;Si
+RITM0963494;26/05/2025;13:34:00;Branch - Valencia;Si;No;No;26;1;Si
+RITM0965904;26/05/2025;9:35:00;Branch - Madrid M?toles;No;No;No;26;0;No
+RITM0965032;26/05/2025;13:37:00;Branch - Zaragoza;No;No;No;26;1;No
+RITM0963321;27/05/2025;9:17:00;Branch - Valencia;No;No;No;27;1;No
+RITM0965774;27/05/2025;8:53:00;Branch - Majadahonda;No;No;No;27;1;No
+RITM0965622;28/05/2025;13:48:00;Branch - Oviedo;No;No;No;28;0;No
+RITM0963908;28/05/2025;8:38:00;Branch - Madrid O Donnell;Si;No;No;28;1;Si
+RITM0965907;30/05/2025;14:18:00;Branch - Vigo;No;No;No;30;0;No
+RITM0964257;30/05/2025;17:20:00;Branch - Vigo;No;No;No;30;0;No
+RITM0965554;30/05/2025;14:16:00;Branch - Madrid M?toles;Si;No;No;30;0;Si
+RITM0965114;01/06/2025;9:03:00;Branch - Oviedo;No;No;No;1;0;No
+RITM0963647;01/06/2025;15:42:00;Branch - Valencia;No;No;No;6;1;No
+RITM0963150;01/06/2025;14:18:00;Branch - Gij?;No;No;No;1;0;No
+RITM0964242;02/06/2025;9:25:00;Branch - Sevilla;Si;No;No;2;1;Si
+RITM0965059;02/06/2022;13:53:00;Branch - Santander;No;No;No;2;1;No
+RITM0965057;03/06/2022;9:23:00;Branch - Majadahonda;No;No;No;3;0;No
+RITM0965193;04/06/2022;13:33:00;Branch - Bilbao;Si;No;No;4;0;Si
+RITM0965997;09/06/2025;9:05:00;Branch - Majadahonda;No;No;No;9;1;No
+RITM0964208;10/06/2025;13:55:00;Branch - Madrid Costa Rica;No;No;No;10;0;No
+RITM0963129;13/06/2025;8:55:00;Branch - Valencia;Si;No;No;13;0;Si
+RITM0963644;14/06/2025;14:04:00;Branch - Madrid M?toles;No;No;No;14;0;No
+RITM0963896;15/06/2025;17:35:00;Branch - Gij?;Si;No;No;15;0;Si
+RITM0963487;16/06/2025;14:10:00;Branch - Bilbao;No;No;No;16;0;No
+RITM0964052;16/06/2025;8:45:00;Branch - Madrid Santa Engracia;Si;No;No;16;0;Si
+RITM0963720;16/06/2025;13:57:00;Branch - Madrid Costa Rica;No;No;No;16;1;No
+RITM0964012;18/06/2025;14:19:00;Branch - Madrid O Donnell;Si;No;No;18;1;Si
+RITM0965429;18/06/2025;13:22:00;Branch - Gij?;Si;No;No;18;1;Si
+RITM0964412;18/06/2025;14:12:00;Branch - Gij?;No;No;No;18;0;No
+RITM0964488;20/06/2025;9:18:00;Branch - Valencia;No;No;No;20;0;No
+RITM0965551;21/06/2025;13:45:00;Branch - Valencia;No;No;No;21;0;No
+RITM0965336;22/06/2025;8:59:00;Branch - Madrid M?toles;No;No;No;22;1;No
+RITM0964819;23/06/2025;14:18:00;Branch - Madrid Acacias;Si;No;No;23;0;Si
+RITM0963825;24/06/2025;8:59:00;Branch - Madrid O Donnell;Si;No;No;24;1;Si
+RITM0963800;26/06/2025;13:50:00;Branch - Valencia;Si;No;No;17;1;Si
+RITM0964274;27/06/2025;8:42:00;Branch - Sevilla;No;No;No;27;0;No
+RITM0963770;27/06/2025;15:52:00;Branch - Gij?;No;Si;Si;27;1;Si
+RITM0965015;28/06/2025;17:36:00;Branch - Gij?;Si;No;No;28;0;Si
+RITM0964471;29/06/2025;14:05:00;Branch - Madrid Santa Engracia;No;No;No;29;1;No
+RITM0964701;29/06/2025;8:58:00;Branch - Madrid Santa Engracia;No;No;No;29;0;No
+RITM0965157;30/06/2025;13:48:00;Branch - Madrid M?toles;No;No;No;15;0;No
+RITM0963688;30/06/2025;8:58:00;Branch - Santander;Si;No;Si;30;1;Si
+RITM0964358;30/06/2025;9:37:00;Branch - Majadahonda;Si;No;No;30;1;Si
+RITM0965697;01/07/2022;14:19:00;Branch - Majadahonda;Si;No;No;13;0;Si
+RITM0965677;01/07/2023;13:57:00;Branch - Sevilla;No;No;No;1;0;No
+RITM0965523;02/07/2022;17:34:00;Branch - Madrid M?toles;No;No;No;2;1;No
+RITM0964423;03/07/2022;14:10:00;Branch - Valencia;No;No;No;3;1;No
+RITM0964702;06/07/2023;8:44:00;Branch - Madrid M?toles;Si;No;No;6;0;Si
+RITM0965010;06/07/2024;13:31:00;Branch - Sevilla;No;No;No;6;0;No
+RITM0963742;07/07/2024;17:24:00;Branch - Valladolid;Si;No;No;7;1;Si
+RITM0964271;07/07/2023;14:05:00;Branch - Madrid Santa Engracia;No;No;No;7;0;No
+RITM0964846;08/07/2022;13:17:00;Branch - Madrid Acacias;No;No;No;8;1;No
+RITM0963580;08/07/2022;9:27:00;Branch - Santander;No;No;No;8;1;No
+RITM0964530;08/07/2022;13:35:00;Branch - Las Palmas de GC;No;No;No;8;0;No
+RITM0964950;09/06/2025;9:01:00;Branch - Valladolid;Si;No;No;9;0;Si
+RITM0964597;01/07/2025;9:00:00;Branch - Madrid M?toles;No;No;No;10;0;No
+RITM0964484;11/04/2025;16:17:00;Branch - Salamanca;Si;No;No;11;1;Si
+RITM0965216;13/07/2024;17:40:00;Branch - Madrid Acacias;Si;No;No;13;0;Si
+RITM0965340;16/07/2023;13:48:00;Branch - Madrid M?toles;No;No;No;16;1;No
+RITM0964379;17/07/2023;8:54:00;Branch - Madrid Santa Engracia;Si;No;No;17;0;Si
+RITM0963094;17/07/2023;13:48:00;Branch - Majadahonda;No;No;No;17;0;No
+RITM0964999;17/07/2023;9:09:00;Branch - Santander;Si;No;No;17;0;Si
+RITM0965515;17/07/2023;15:54:00;Branch - Santander;Si;No;No;17;0;Si
+RITM0965777;18/07/2023;8:58:00;Branch - Sevilla;No;No;No;18;0;No
+RITM0963432;18/07/2023;9:17:00;Branch - Madrid Santa Engracia;No;Si;Si;18;1;Si
+RITM0964377;19/02/2022;9:10:00;Branch - Valencia;Si;No;No;19;0;Si
+RITM0965178;21/03/2022;9:33:00;Branch - Madrid Santa Engracia;No;No;No;21;0;No
+RITM0964315;21/05/2022;9:18:00;Branch - Madrid Santa Engracia;Si;No;No;21;0;Si
+RITM0965736;22/06/2022;13:53:00;Branch - Alicante;Si;No;No;1;1;Si
+RITM0964300;22/06/2022;13:58:00;Branch - Alicante;Si;No;No;22;0;Si
+RITM0964307;22/01/2022;14:21:00;Branch - Sevilla;No;No;No;22;0;No
+RITM0964881;22/01/2022;9:04:00;Branch - Madrid Santa Engracia;No;No;No;22;1;No
+RITM0965006;23/07/2022;13:54:00;Branch - Madrid Costa Rica;No;No;No;23;1;No
+RITM0965630;23/07/2022;13:55:00;Branch - Santander;No;No;No;23;0;No
+RITM0964209;24/07/2022;8:59:00;Branch - Madrid Santa Engracia;No;No;No;24;0;No
+RITM0963578;24/07/2022;14:08:00;Branch - Madrid Santa Engracia;No;Si;Si;24;1;Si
+RITM0963559;24/07/2022;9:33:00;Branch - Vigo;No;No;No;24;0;No
+RITM0965859;25/07/2022;13:39:00;Branch - Sevilla;Si;No;No;25;1;Si
+RITM0963319;25/07/2022;13:36:00;Branch - Madrid M?toles;No;No;No;25;1;No
+RITM0964929;27/07/2022;14:21:00;Branch - Madrid O Donnell;No;No;No;27;0;No
+RITM0963349;27/07/2022;9:32:00;Branch - Madrid O Donnell;No;No;No;27;1;No
+RITM0965238;11/07/2022;16:01:00;Branch - Madrid O Donnell;Si;No;No;28;1;Si
+RITM0965850;30/07/2022;14:09:00;Branch - Santander;No;No;No;17;0;No
+RITM0965121;30/07/2022;8:40:00;Branch - Santander;No;No;No;15;1;No
+RITM0963920;01/08/2022;16:00:00;Branch - Zaragoza;No;No;No;1;1;No
+RITM0964882;03/08/2022;14:06:00;Branch - Las Palmas de GC;Si;No;No;3;0;Si
+RITM0965629;04/08/2022;14:13:00;Branch - Madrid M?toles;Si;No;No;4;1;Si
+RITM0964998;04/08/2022;9:15:00;Branch - Santander;No;No;No;4;1;No
+RITM0963892;05/08/2022;13:44:00;Branch - Santander;No;No;No;5;0;No
+RITM0965029;05/08/2022;8:58:00;Branch - Madrid Costa Rica;No;No;No;14;0;No
+RITM0964190;05/08/2022;13:58:00;Branch - Madrid Santa Engracia;Si;No;No;14;0;Si
+RITM0963724;05/08/2022;9:37:00;Branch - Zaragoza;No;No;No;5;0;No
+RITM0965322;08/08/2022;9:30:00;Branch - Zaragoza;No;No;No;8;0;No
+RITM0964088;09/08/2022;14:06:00;Branch - Valencia;No;No;No;9;1;No
+RITM0964391;09/08/2022;17:11:00;Branch - Santander;No;No;No;9;1;No
+RITM0965461;10/08/2022;13:45:00;Branch - Madrid Santa Engracia;No;No;No;28;1;No
+RITM0964179;11/08/2022;9:12:00;Branch - Madrid Santa Engracia;No;No;No;11;0;No
+RITM0964914;12/08/2022;14:06:00;Branch - Valencia;No;No;No;12;1;No
+RITM0964704;12/08/2022;13:47:00;Branch - Majadahonda;Si;No;No;12;0;Si
+RITM0965177;12/08/2022;9:11:00;Branch - Las Palmas de GC;No;No;No;12;0;No
+RITM0965350;13/08/2022;9:12:00;Branch - Madrid Acacias;Si;No;No;13;0;Si
+RITM0964441;13/08/2022;13:49:00;Branch - Sevilla;No;Si;Si;13;0;Si
+RITM0963392;14/08/2022;9:30:00;Branch - Zaragoza;No;No;No;14;0;No
+RITM0965535;15/08/2022;13:55:00;Branch - Sevilla;No;No;No;15;1;No
+RITM0963385;15/08/2022;8:55:00;Branch - Sevilla;Si;No;No;15;0;Si
+RITM0963942;15/08/2022;15:47:00;Branch - Madrid Santa Engracia;No;No;No;15;0;No
+RITM0964880;15/08/2022;17:14:00;Branch - Majadahonda;No;No;No;15;0;No
+RITM0965285;15/08/2022;14:05:00;Branch - Zaragoza;No;No;No;15;1;No
+RITM0964578;16/08/2022;8:50:00;Branch - Madrid Santa Engracia;No;No;No;16;1;No
+RITM0965571;17/08/2022;9:08:00;Branch - Valladolid;No;No;No;17;1;No
+RITM0964731;18/08/2022;13:53:00;Branch - Sevilla;No;No;No;18;1;No
+RITM0963471;19/08/2022;14:01:00;Branch - Sevilla;No;No;No;19;0;No
+RITM0964200;24/08/2022;9:30:00;Branch - Madrid M?toles;No;No;No;24;0;No
+RITM0963801;25/08/2022;9:22:00;Branch - Sevilla;Si;No;No;25;1;Si
+RITM0965851;26/08/2022;17:12:00;Branch - Sevilla;No;No;No;26;0;No
+RITM0965856;26/08/2022;14:15:00;Branch - Santander;No;No;No;16;1;No
+RITM0965517;27/08/2022;9:05:00;Branch - Madrid Santa Engracia;No;No;No;12;0;No
+RITM0964827;27/08/2022;13:33:00;Branch - Sevilla;No;No;No;27;0;No
+RITM0965011;29/08/2022;17:27:00;Branch - Madrid Santa Engracia;No;No;No;12;0;No
+RITM0965414;29/08/2022;14:02:00;Branch - Madrid Santa Engracia;No;No;No;29;0;No
+RITM0963466;29/08/2022;13:51:00;Branch - A Coru?;No;No;No;29;0;No
+RITM0964983;30/08/2022;9:36:00;Branch - Bilbao;No;No;No;30;1;No
+RITM0965182;02/09/2022;14:13:00;Branch - Madrid Acacias;Si;No;No;2;1;Si
+RITM0963789;02/09/2022;13:47:00;Branch - Valencia;No;No;No;2;0;No
+RITM0963562;02/09/2022;9:09:00;Branch - Madrid Santa Engracia;Si;No;No;2;0;Si
+RITM0964621;04/09/2022;17:18:00;Branch - Madrid Santa Engracia;No;No;No;4;1;No
+RITM0963336;07/09/2022;13:47:00;Branch - Santander;No;No;No;7;0;No
+RITM0964957;07/09/2022;9:07:00;Branch - Madrid Santa Engracia;No;No;No;7;0;No
+RITM0965463;07/09/2022;13:52:00;Branch - Valencia;No;No;No;7;0;No
+RITM0963302;08/09/2022;13:37:00;Branch - Madrid Santa Engracia;No;No;No;8;0;No
+RITM0963996;10/09/2022;13:33:00;Branch - Madrid Santa Engracia;No;No;No;10;0;No
+RITM0965424;10/09/2022;9:13:00;Branch - Madrid Acacias;No;No;No;9;0;No
+RITM0964792;10/09/2022;17:47:00;Branch - A Coru?;Si;No;No;10;0;Si
+RITM0965794;11/09/2022;13:47:00;Branch - Madrid Acacias;Si;No;No;11;1;Si
+RITM0964022;14/09/2022;9:17:00;Branch - Madrid Costa Rica;Si;No;No;14;1;Si
+RITM0963727;16/09/2022;14:07:00;Branch - C?doba;No;No;No;16;0;No
+RITM0964653;16/09/2022;13:35:00;Branch - Zaragoza;Si;No;No;16;0;Si
+RITM0963344;18/09/2022;9:10:00;Branch - Madrid Santa Engracia;No;No;No;18;0;No
+RITM0963856;19/09/2022;13:51:00;Branch - Madrid Acacias;Si;No;No;19;0;Si
+RITM0963955;19/09/2022;9:30:00;Branch - Madrid Santa Engracia;Si;No;No;19;1;Si
+RITM0965472;19/09/2022;13:26:00;Branch - Sevilla;No;No;No;19;1;No
+RITM0965047;19/09/2022;14:12:00;Branch - Santander;Si;No;No;19;1;Si
+RITM0963237;19/09/2022;9:02:00;Branch - Sevilla;Si;No;No;19;0;No
+RITM0963930;22/09/2022;15:53:00;Branch - Madrid Santa Engracia;Si;No;No;22;1;Si
+RITM0963729;22/09/2022;14:11:00;Branch - Madrid Santa Engracia;Si;No;No;22;0;Si
+RITM0964224;23/09/2022;13:52:00;Branch - Gij?;Si;No;No;23;1;Si
+RITM0965725;23/09/2022;8:40:00;Branch - Santander;Si;No;No;23;1;Si
+RITM0965911;23/09/2022;13:32:00;Branch - Santander;Si;No;No;23;0;Si
+RITM0965650;24/09/2022;8:31:00;Branch - Gij?;No;No;No;24;1;No
+RITM0964371;29/09/2022;17:43:00;Branch - Santander;No;No;No;29;0;No
+RITM0964135;29/09/2022;14:13:00;Branch - Madrid Acacias;No;No;No;29;0;No
+RITM0964714;30/09/2022;14:20:00;Branch - Majadahonda;No;No;No;30;0;No
+RITM0963600;30/09/2022;9:32:00;Branch - Santander;No;No;No;30;1;No
+RITM0964926;03/10/2023;13:26:00;Branch - Madrid Santa Engracia;No;No;No;3;1;No
+RITM0965635;03/10/2022;8:54:00;Branch - Madrid Santa Engracia;No;No;No;3;0;No
+RITM0964413;04/10/2022;13:45:00;Branch - Madrid Acacias;No;No;No;4;1;No
+RITM0963139;05/10/2022;9:05:00;Branch - Valencia;No;No;No;16;0;No
+RITM0964240;05/10/2022;13:34:00;Branch - Madrid M?toles;No;No;No;5;1;No
+RITM0965353;05/10/2022;9:09:00;Branch - C?iz;No;No;No;5;1;No
+RITM0964897;05/10/2022;14:11:00;Branch - Madrid Costa Rica;Si;No;No;5;0;Si
+RITM0965595;06/10/2022;14:11:00;Branch - Madrid O Donnell;No;No;No;6;0;No
+RITM0964628;08/10/2022;8:59:00;Branch - Zaragoza;No;Si;Si;8;0;Si
+RITM0964834;10/10/2022;17:34:00;Branch - Madrid Costa Rica;No;No;No;10;0;No
+RITM0965251;11/10/2022;14:13:00;Branch - Santander;No;No;No;11;0;No
+RITM0965776;12/10/2022;13:41:00;Branch - Madrid O Donnell;Si;No;No;12;0;Si
+RITM0963673;13/10/2022;9:23:00;Branch - Madrid Costa Rica;No;No;No;13;1;No
+RITM0964558;14/10/2022;13:38:00;Branch - Valencia;No;No;No;14;1;No
+RITM0964408;16/10/2022;9:16:00;Branch - Madrid M?toles;No;No;No;16;0;No
+RITM0965974;16/10/2022;13:45:00;Branch - Valencia;Si;No;No;16;0;Si
+RITM0964997;17/10/2022;9:10:00;Branch - Madrid O Donnell;Si;No;No;17;1;Si
+RITM0965731;18/10/2022;14:03:00;Branch - Madrid Costa Rica;No;No;No;18;0;No
+RITM0963167;18/10/2022;8:57:00;Branch - Madrid M?toles;Si;No;No;18;1;Si
+RITM0963371;19/10/2022;14:10:00;Branch - Madrid Costa Rica;No;No;No;19;0;No
+RITM0963160;21/10/2022;9:00:00;Branch - Sevilla;Si;No;No;21;1;Si
+RITM0965095;21/10/2022;13:32:00;Branch - Barcelona Diagonal;No;No;No;21;0;No
+RITM0964939;22/10/2022;14:01:00;Branch - Barcelona Diagonal;Si;No;Si;22;0;Si
+RITM0963184;23/10/2022;13:36:00;Branch - Barcelona Diagonal;No;No;No;23;0;No
+RITM0963925;23/10/2022;14:00:00;Branch - Madrid M?toles;No;No;No;23;1;No
+RITM0965941;25/10/2022;9:32:00;Branch - Madrid Costa Rica;Si;No;No;25;1;Si
+RITM0964473;25/10/2022;9:03:00;Branch - Madrid O Donnell;Si;No;No;17;1;Si
+RITM0964948;25/10/2022;13:54:00;Branch - Madrid O Donnell;Si;No;No;25;1;Si
+RITM0963967;25/10/2022;9:14:00;Branch - Madrid M?toles;No;No;No;25;0;No
+RITM0964942;27/10/2022;16:17:00;Branch - Madrid O Donnell;Si;No;No;17;1;Si
+RITM0963776;27/10/2022;14:29:00;Branch - Madrid O Donnell;No;No;No;27;1;No
+RITM0965307;28/10/2022;17:42:00;Branch - Madrid O Donnell;Si;No;No;28;1;Si
+RITM0963539;28/10/2022;14:22:00;Branch - Madrid Santa Engracia;Si;No;Si;13;1;Si
+RITM0965426;28/10/2022;9:19:00;Branch - Madrid Santa Engracia;No;No;No;28;0;No
+RITM0963195;29/10/2022;13:36:00;Branch - Majadahonda;No;No;No;12;0;No
+RITM0964061;29/10/2022;9:19:00;Branch - Madrid Acacias;No;No;No;9;0;No
+RITM0963924;29/10/2022;9:36:00;Branch - Madrid Santa Engracia;No;No;No;29;0;No
+RITM0963807;29/10/2022;14:17:00;Branch - Madrid M?toles;No;No;No;9;0;No
+RITM0964070;01/11/2022;13:41:00;Branch - Madrid O Donnell;Si;No;No;1;0;Si
+RITM0964045;04/11/2022;14:04:00;Branch - Madrid O Donnell;Si;No;No;4;1;Si
+RITM0964410;04/11/2022;17:09:00;Branch - Madrid O Donnell;Si;No;No;4;1;Si
+RITM0964288;05/11/2022;13:49:00;Branch - Madrid Santa Engracia;No;No;No;18;0;No
+RITM0964195;05/11/2022;9:03:00;Branch - Madrid Santa Engracia;No;No;No;5;0;No
+RITM0965400;05/11/2022;13:41:00;Branch - Majadahonda;Si;No;No;5;0;Si
+RITM0965023;06/11/2022;13:44:00;Branch - Madrid Acacias;No;No;No;6;1;No
+RITM0964372;06/11/2022;9:06:00;Branch - Madrid Santa Engracia;Si;No;No;6;0;Si
+RITM0964601;06/11/2022;14:05:00;Branch - Valencia;No;No;No;6;0;No
+RITM0965009;08/11/2022;14:01:00;Branch - Madrid Costa Rica;No;No;No;8;0;No
+RITM0963041;08/11/2022;9:14:00;Branch - Madrid Costa Rica;No;No;No;8;0;No
+RITM0964035;10/11/2022;13:53:00;Branch - Santander;No;No;No;10;1;No
+RITM0965637;11/11/2022;14:16:00;Branch - Madrid O Donnell;Si;No;No;11;1;No
+RITM0963668;12/11/2022;17:36:00;Branch - Madrid Costa Rica;No;No;No;12;0;No
+RITM0963980;14/11/2022;14:00:00;Branch - Valencia;No;No;No;14;0;No
+RITM0965797;15/11/2022;8:58:00;Branch - Madrid O Donnell;No;No;No;15;0;No
+RITM0963209;17/11/2022;8:56:00;Branch - Barcelona Meridiana;No;No;No;17;1;No
+RITM0963613;17/11/2022;9:20:00;Branch - Barcelona Meridiana;No;No;No;17;0;No
+RITM0965549;22/11/2022;13:32:00;Branch - Vigo;Si;No;No;22;0;Si
+RITM0965090;25/11/2021;13:26:00;Branch - Barcelona Sabadell;No;No;No;28;1;No
+RITM0965807;25/11/2021;13:42:00;Branch - Valencia;No;No;No;12;1;No
+RITM0965617;26/11/2021;13:48:00;Branch - Barcelona Sabadell;No;No;No;26;0;No
+RITM0963537;26/11/2021;9:00:00;Branch - Barcelona Meridiana;Si;No;No;26;1;Si
+RITM0964520;27/11/2021;14:26:00;Branch - Barcelona Meridiana;No;No;No;27;0;No
+RITM0963796;28/11/2021;14:04:00;Branch - Valencia;Si;No;No;28;0;Si
+RITM0964099;28/11/2021;8:59:00;Branch - Barcelona Meridiana;No;No;No;28;1;No
+RITM0964058;28/11/2021;13:31:00;Branch - Valencia;No;No;No;28;1;No
+RITM0965058;28/11/2021;9:17:00;Branch - Valencia;Si;No;No;28;0;Si
+RITM0965641;29/11/2021;9:22:00;Branch - Madrid O Donnell;No;No;No;4;0;No
+RITM0964958;29/11/2021;9:30:00;Branch - Barcelona Meridiana;No;No;No;29;1;No
+RITM0964127;30/11/2021;14:09:00;Branch - Barcelona Meridiana;Si;No;No;30;0;Si
+RITM0964979;30/11/2021;9:15:00;Branch - Vigo;No;No;No;15;0;No
+RITM0964921;01/12/2021;8:45:00;Branch - Valencia;No;No;No;1;0;No
+RITM0963164;01/12/2021;14:03:00;Branch - Valencia;No;No;No;1;1;No
+RITM0965980;03/12/2021;9:30:00;Branch - Valencia;Si;No;No;3;1;Si
+RITM0963999;05/12/2021;8:45:00;Branch - Valencia;Si;No;No;5;1;Si
+RITM0965688;05/12/2021;13:33:00;Branch - Madrid O Donnell;No;No;No;5;0;No
+RITM0963915;06/12/2021;14:20:00;Branch - Barcelona Meridiana;Si;No;No;6;0;Si
+RITM0963719;07/12/2021;8:59:00;Branch - Barcelona Meridiana;Si;No;No;7;1;Si
+RITM0965229;08/12/2022;14:13:00;Branch - Valencia;Si;No;No;8;1;Si
+RITM0964289;08/12/2022;17:47:00;Branch - Barcelona Meridiana;No;No;No;8;0;No
+RITM0965500;10/12/2021;14:18:00;Branch - Madrid Santa Engracia;Si;No;No;10;1;Si
+RITM0965375;10/12/2021;9:17:00;Branch - Madrid O Donnell;No;No;No;10;0;No
+RITM0963488;12/12/2021;13:41:00;Branch - Barcelona Meridiana;Si;No;No;12;1;Si
+RITM0965349;12/12/2021;13:31:00;Branch - Madrid Santa Engracia;No;No;No;12;0;No
+RITM0964023;12/12/2021;13:51:00;Branch - Madrid Santa Engracia;No;No;No;12;1;No
+RITM0963923;12/12/2021;9:16:00;Branch - Madrid Costa Rica;No;No;No;12;1;No
+RITM0963551;13/12/2021;13:38:00;Branch - Valencia;No;No;No;13;1;No
+RITM0965715;13/12/2021;13:41:00;Branch - C?iz;No;No;No;13;0;No
+RITM0964923;13/12/2021;9:28:00;Branch - Alicante;No;No;No;13;1;No
+RITM0963152;13/12/2021;16:11:00;Branch - Madrid Santa Engracia;Si;No;No;13;1;Si
+RITM0963168;17/12/2021;14:28:00;Branch - Madrid Santa Engracia;Si;No;No;17;0;Si
+RITM0965501;17/12/2021;17:41:00;Branch - Barcelona Sabadell;No;No;No;17;1;No
+RITM0965750;18/12/2022;14:03:00;Branch - Valencia;Si;No;No;18;0;Si
+RITM0964117;22/12/2022;8:58:00;Branch - C?iz;Si;No;No;22;1;Si
+RITM0963932;22/12/2022;14:23:00;Branch - C?iz;No;No;No;22;1;No
+RITM0964668;28/12/2022;9:12:00;Branch - Alicante;Si;No;No;28;1;Si
+RITM0963011;28/12/2022;13:59:00;Branch - C?iz;No;No;No;28;1;No
+RITM0965164;29/12/2022;13:29:00;Branch - Valencia;No;No;No;29;0;No
+RITM0965933;29/12/2022;13:55:00;Branch - Barcelona Sabadell;No;No;No;15;0;No
+RITM0963185;31/12/2022;14:26:00;Branch - Valencia;Si;No;No;31;0;Si
+RITM0963281;31/12/2022;9:10:00;Branch - Valencia;Si;No;No;31;0;Si

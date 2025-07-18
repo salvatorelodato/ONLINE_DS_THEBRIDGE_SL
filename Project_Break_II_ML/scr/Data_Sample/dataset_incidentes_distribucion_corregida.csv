@@ -1,0 +1,1461 @@
+id_incidente;fecha_incidente;hora_incidente;id_oficina;ciudad_oficina;agresion_verbal;agresion_fisica;llamada_fcs;dia_mes;aforo_alto;ocupacion_categoria;franja_horaria;agresion_fisica_verbal;es_fin_mes;dia_semana;cliente_reincidente
+1;29/08/2023;13:00;DIAGONAL01;Diagonal;0;0;0;29;0;media;cierre;0;1;1;0
+2;28/09/2024;8:30;ODONNELL01;O Donnell;0;0;0;28;1;baja;manana;0;1;5;0
+3;18/10/2022;9:15;BARCELONADIAGONAL01;Barcelona Diagonal;0;0;0;18;0;media;manana;0;0;1;0
+4;19/03/2024;9:00;COSTARICA01;Costa Rica;0;0;0;19;1;media;manana;0;0;1;0
+5;02/09/2023;13:00;LASPALMASDEGC01;Las Palmas de GC;1;0;0;2;0;media;cierre;1;0;5;1
+6;24/07/2023;12:45;MADRIDODONNELL01;Madrid O Donnell;0;0;0;24;0;baja;cierre;0;0;0;0
+7;25/05/2023;8:00;VALENCIA01;Valencia;0;0;0;25;1;baja;manana;0;1;3;0
+8;03/05/2025;8:15;TENERIFE01;Tenerife;0;0;0;3;1;alta;manana;0;0;5;0
+9;25/05/2020;9:00;MADRIDACACIAS01;Madrid Acacias;0;0;0;25;1;media;manana;0;1;0;0
+10;07/07/2021;12:15;VALENCIA01;Valencia;0;0;0;7;0;baja;cierre;0;0;2;0
+11;13/01/2024;13:45;CORDOBA01;Cordoba;0;0;0;13;1;media;cierre;0;0;5;1
+12;28/01/2021;9:45;BILBAO01;Bilbao;0;0;0;28;0;alta;manana;0;1;3;0
+13;26/10/2024;12:30;VALENCIA01;Valencia;0;0;0;26;0;media;cierre;0;1;5;0
+14;14/04/2020;14:00;MADRID01;Madrid;0;0;0;14;0;alta;cierre;0;0;1;1
+15;17/07/2024;14:15;BARCELONA01;Barcelona;0;0;0;17;0;baja;cierre;0;0;2;0
+16;25/08/2023;13:45;VALENCIA01;Valencia;1;0;0;25;1;media;cierre;1;1;4;0
+17;31/10/2022;10:30;CORDOBA01;Cordoba;0;0;0;31;1;alta;manana;0;1;0;0
+18;04/06/2020;9:15;BARCELONA01;Barcelona;0;0;0;4;0;media;manana;0;0;3;0
+19;03/05/2024;14:30;BARCELONAMERIDIANA01;Barcelona Meridiana;0;0;0;3;0;media;cierre;0;0;4;0
+20;02/07/2022;8:00;ACACIAS01;Acacias;0;0;0;2;0;media;manana;0;0;5;1
+21;12/02/2021;11:00;MADRID01;Madrid;1;0;0;12;0;media;manana;1;0;4;1
+22;05/12/2024;10:30;DIAGONAL01;Diagonal;1;0;0;5;0;baja;manana;1;0;3;0
+23;03/09/2024;12:30;DIAGONAL01;Diagonal;1;0;0;3;0;media;cierre;1;0;1;0
+24;13/08/2022;14:00;BARCELONADIAGONAL01;Barcelona Diagonal;0;0;0;13;1;media;cierre;0;0;5;0
+25;02/04/2021;13:45;MADRID01;Madrid;1;0;0;2;0;baja;cierre;1;0;4;0
+26;14/12/2023;12:00;VALENCIA01;Valencia;0;0;0;14;0;media;cierre;0;0;3;1
+27;09/02/2023;11:00;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;1;0;0;9;1;media;manana;1;0;3;0
+28;23/11/2020;12:30;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;0;0;0;23;0;media;cierre;0;0;0;0
+29;07/11/2023;14:30;ACACIAS01;Acacias;1;0;0;7;0;media;cierre;1;0;1;0
+30;29/06/2021;12:15;MAJADAHONDA01;Majadahonda;1;0;0;29;0;media;cierre;1;1;1;0
+31;09/05/2024;13:00;MADRID01;Madrid;1;0;0;9;1;alta;cierre;1;0;3;0
+32;28/01/2020;8:15;LASROZAS01;Las Rozas;0;0;0;28;0;baja;manana;0;1;1;0
+33;26/10/2020;14:30;VALENCIA01;Valencia;0;0;0;26;0;baja;cierre;0;1;0;0
+34;07/06/2022;8:15;BARCELONA01;Barcelona;0;0;0;7;0;media;manana;0;0;1;0
+35;13/10/2022;14:00;ZARAGOZA01;Zaragoza;0;0;0;13;1;baja;cierre;0;0;3;0
+36;28/02/2025;11:30;BARCELONA01;Barcelona;0;0;0;28;0;media;manana;0;1;4;0
+37;16/07/2021;11:30;ALICANTE01;Alicante;0;0;0;16;1;alta;manana;0;0;4;0
+38;08/07/2023;9:30;BARCELONADIAGONAL01;Barcelona Diagonal;1;1;1;8;1;alta;manana;1;0;5;0
+39;27/08/2021;10:15;BARCELONA01;Barcelona;0;0;0;27;1;media;manana;0;1;4;0
+40;16/11/2024;13:30;LASPALMASDEGC01;Las Palmas de GC;1;1;1;16;0;media;cierre;1;0;5;1
+41;12/04/2022;13:00;MADRIDACACIAS01;Madrid Acacias;0;0;0;12;0;baja;cierre;0;0;1;0
+42;04/03/2023;12:15;CADIZ01;Cadiz;0;0;0;4;1;baja;cierre;0;0;5;0
+43;12/08/2020;12:15;BARCELONA01;Barcelona;1;0;0;12;1;alta;cierre;1;0;2;0
+44;11/02/2023;9:45;MURCIA01;Murcia;0;0;0;11;0;media;manana;0;0;5;0
+45;28/03/2022;11:30;SEVILLA01;Sevilla;0;0;0;28;0;media;manana;0;1;0;0
+46;11/02/2023;13:15;MURCIA01;Murcia;0;0;0;11;1;alta;cierre;0;0;5;1
+47;28/10/2021;13:30;VALENCIA01;Valencia;0;0;0;28;0;baja;cierre;0;1;3;1
+48;07/03/2025;14:00;LASPALMASDEGC01;Las Palmas de GC;0;0;0;7;1;media;cierre;0;0;4;0
+49;16/02/2024;9:00;BARCELONA01;Barcelona;0;0;0;16;1;baja;manana;0;0;4;0
+50;13/09/2022;14:30;LASPALMAS01;Las Palmas;0;0;0;13;0;media;cierre;0;0;1;1
+51;21/12/2024;11:30;MADRID01;Madrid;0;0;0;21;0;media;manana;0;0;5;0
+52;30/09/2023;8:15;VALLADOLID01;Valladolid;0;0;0;30;0;baja;manana;0;1;5;0
+53;27/11/2024;12:30;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;0;0;0;27;1;alta;cierre;0;1;2;0
+54;09/02/2022;9:45;VALENCIA01;Valencia;1;0;0;9;1;media;manana;1;0;2;0
+55;27/01/2020;11:45;BARCELONA01;Barcelona;0;0;0;27;1;media;manana;0;1;0;0
+56;23/09/2022;9:30;DIAGONAL01;Diagonal;0;0;0;23;0;media;manana;0;0;4;0
+57;16/07/2020;9:15;ACACIAS01;Acacias;1;0;1;16;0;media;manana;1;0;3;1
+58;22/03/2024;13:30;SANTANDER01;Santander;1;0;0;22;0;media;cierre;1;0;4;0
+59;05/04/2021;13:45;MURCIA01;Murcia;0;0;0;5;0;media;cierre;0;0;0;0
+60;14/12/2021;12:45;VALENCIA01;Valencia;1;0;0;14;1;alta;cierre;1;0;1;0
+61;11/01/2021;10:15;BARCELONADIAGONAL01;Barcelona Diagonal;0;0;0;11;0;baja;manana;0;0;0;0
+62;18/01/2020;9:45;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;0;0;0;18;0;media;manana;0;0;5;0
+63;13/10/2020;8:00;ALICANTE01;Alicante;0;0;0;13;0;media;manana;0;0;1;0
+64;11/07/2022;14:00;GRANADA01;Granada;1;0;0;11;1;alta;cierre;1;0;0;1
+65;15/06/2024;9:15;ALICANTE01;Alicante;0;0;0;15;1;baja;manana;0;0;5;0
+66;30/10/2021;14:45;SEVILLA01;Sevilla;1;0;0;30;1;baja;cierre;1;1;5;0
+67;01/12/2022;12:00;BARCELONA01;Barcelona;1;0;0;1;0;media;cierre;1;0;3;0
+68;08/06/2024;11:45;SEVILLA01;Sevilla;0;0;0;8;0;baja;manana;0;0;5;0
+69;18/04/2020;12:45;CADIZ01;Cadiz;0;0;0;18;1;alta;cierre;0;0;5;0
+70;10/07/2024;12:30;MADRID01;Madrid;0;0;0;10;1;baja;cierre;0;0;2;0
+71;09/02/2023;12:00;CORDOBA01;Cordoba;0;0;0;9;1;alta;cierre;0;0;3;0
+72;22/10/2024;13:00;M?STOLES01;M?stoles;0;0;0;22;0;media;cierre;0;0;1;0
+73;19/09/2024;13:30;SANTAENGRACIA01;Santa Engracia;1;0;1;19;0;media;cierre;1;0;3;0
+74;25/08/2021;14:30;VIGO01;Vigo;0;0;0;25;0;baja;cierre;0;1;2;0
+75;09/07/2022;8:30;MADRIDODONNELL01;Madrid O Donnell;1;0;0;9;1;alta;manana;1;0;5;0
+76;12/02/2020;11:15;MADRID01;Madrid;1;0;0;12;1;alta;manana;1;0;2;0
+77;31/08/2020;11:00;ACORUNA01;A Coruna;0;0;0;31;0;baja;manana;0;1;0;0
+78;03/08/2023;13:30;M?STOLES01;M?stoles;0;0;0;3;0;media;cierre;0;0;3;0
+79;01/03/2025;12:15;CADIZ01;Cadiz;0;0;0;1;0;baja;cierre;0;0;5;0
+80;03/08/2024;12:00;MURCIA01;Murcia;1;0;0;3;0;baja;cierre;1;0;5;0
+81;03/05/2023;14:30;BARCELONA01;Barcelona;0;0;0;3;1;baja;cierre;0;0;2;0
+82;27/04/2023;14:15;MADRIDMOSTOLES01;Madrid Mostoles;0;0;0;27;1;baja;cierre;0;1;3;1
+83;06/08/2024;9:30;ALICANTE01;Alicante;0;0;0;6;1;media;manana;0;0;1;0
+84;02/11/2021;14:15;MADRIDMOSTOLES01;Madrid Mostoles;1;0;0;2;0;baja;cierre;1;0;1;0
+85;01/09/2023;12:00;VALLADOLID01;Valladolid;0;0;0;1;0;media;cierre;0;0;4;1
+86;18/11/2024;12:30;SANTAENGRACIA01;Santa Engracia;0;0;0;18;0;baja;cierre;0;0;0;0
+87;15/04/2022;11:00;TENERIFE01;Tenerife;0;0;0;15;1;media;manana;0;0;4;1
+88;21/04/2021;8:30;DIAGONAL01;Diagonal;0;0;0;21;0;alta;manana;0;0;2;1
+89;17/05/2022;14:30;GIJON01;Gijon;1;1;1;17;0;media;cierre;1;0;1;0
+90;22/02/2025;9:00;LASROZAS01;Las Rozas;0;0;0;22;0;baja;manana;0;0;5;0
+91;10/07/2020;9:00;TENERIFE01;Tenerife;1;0;0;10;0;media;manana;1;0;4;0
+92;26/08/2020;8:45;ODONNELL01;O Donnell;0;0;0;26;1;alta;manana;0;1;2;0
+93;28/03/2023;14:00;ODONNELL01;O Donnell;0;0;0;28;0;media;cierre;0;1;1;0
+94;14/11/2020;14:15;MADRID01;Madrid;0;0;0;14;0;media;cierre;0;0;5;0
+95;25/08/2022;9:45;MADRIDODONNELL01;Madrid O Donnell;1;0;0;25;0;media;manana;1;1;3;0
+96;19/03/2024;12:15;MADRID01;Madrid;1;0;0;19;0;media;cierre;1;0;1;0
+97;24/06/2021;10:45;DIAGONAL01;Diagonal;0;0;0;24;0;baja;manana;0;0;3;1
+98;30/10/2024;9:15;SEVILLA01;Sevilla;0;0;0;30;1;baja;manana;0;1;2;0
+99;26/02/2024;13:30;GIJON01;Gijon;0;0;0;26;1;alta;cierre;0;1;0;0
+100;21/04/2023;11:30;SANTAENGRACIA01;Santa Engracia;1;0;0;21;0;media;manana;1;0;4;0
+101;15/12/2020;11:45;MADRID01;Madrid;0;0;0;15;0;media;manana;0;0;1;0
+102;05/05/2022;8:15;VALLADOLID01;Valladolid;0;0;0;5;1;alta;manana;0;0;3;0
+103;05/02/2021;9:00;M?STOLES01;M?stoles;1;0;0;5;1;alta;manana;1;0;4;1
+104;09/11/2022;10:00;ZARAGOZA01;Zaragoza;0;0;0;9;0;baja;manana;0;0;2;1
+105;01/07/2023;12:15;BARCELONA01;Barcelona;0;0;0;1;0;baja;cierre;0;0;5;1
+106;28/07/2022;12:15;MADRIDODONNELL01;Madrid O Donnell;0;0;0;28;1;alta;cierre;0;1;3;0
+107;12/09/2020;8:00;DIAGONAL01;Diagonal;1;0;0;12;0;media;manana;1;0;5;0
+108;25/06/2022;13:00;MADRIDMOSTOLES01;Madrid Mostoles;0;0;0;25;1;baja;cierre;0;1;5;0
+109;10/08/2020;9:00;MALAGA01;Malaga;0;0;0;10;0;baja;manana;0;0;0;0
+110;26/03/2021;8:30;CADIZ01;Cadiz;0;0;0;26;1;baja;manana;0;1;4;0
+111;06/08/2021;8:15;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;1;0;1;6;0;baja;manana;1;0;4;0
+112;17/06/2023;10:45;MADRIDODONNELL01;Madrid O Donnell;0;0;0;17;1;baja;manana;0;0;5;0
+113;02/11/2023;9:15;CORDOBA01;Cordoba;0;0;0;2;1;media;manana;0;0;3;0
+114;20/01/2020;13:45;VALENCIA01;Valencia;0;0;0;20;0;media;cierre;0;0;0;0
+115;18/03/2020;9:45;GIJON01;Gijon;1;0;0;18;1;media;manana;1;0;2;0
+116;08/09/2021;14:45;ODONNELL01;O Donnell;0;0;0;8;0;baja;cierre;0;0;2;0
+117;13/06/2024;9:00;VALENCIA01;Valencia;0;0;0;13;0;alta;manana;0;0;3;0
+118;28/09/2023;8:45;VALENCIA01;Valencia;0;0;0;28;0;baja;manana;0;1;3;0
+119;10/02/2022;10:45;BARCELONAMERIDIANA01;Barcelona Meridiana;0;0;0;10;0;media;manana;0;0;3;0
+120;12/11/2024;11:45;MADRID01;Madrid;1;0;0;12;0;baja;manana;1;0;1;0
+121;13/07/2023;14:00;SANTAENGRACIA01;Santa Engracia;1;0;0;13;1;alta;cierre;1;0;3;0
+122;10/10/2023;13:00;BARCELONA01;Barcelona;0;0;0;10;1;baja;cierre;0;0;1;0
+123;14/12/2024;8:45;COSTARICA01;Costa Rica;0;0;0;14;0;media;manana;0;0;5;0
+124;03/12/2021;13:30;MADRID01;Madrid;1;0;0;3;0;media;cierre;1;0;4;0
+125;09/04/2021;14:00;VALENCIA01;Valencia;0;0;0;9;1;alta;cierre;0;0;4;0
+126;12/05/2021;9:15;M?STOLES01;M?stoles;0;0;0;12;0;media;manana;0;0;2;0
+127;07/12/2020;9:45;MADRIDMOSTOLES01;Madrid Mostoles;0;0;0;7;1;alta;manana;0;0;0;0
+128;25/03/2021;9:45;BARCELONA01;Barcelona;0;0;0;25;1;baja;manana;0;1;3;0
+129;03/12/2024;9:30;ALICANTE01;Alicante;1;0;0;3;1;alta;manana;1;0;1;0
+130;29/09/2020;11:15;ALICANTE01;Alicante;0;0;0;29;1;alta;manana;0;1;1;0
+131;22/04/2023;14:00;MADRIDMOSTOLES01;Madrid Mostoles;0;0;0;22;0;media;cierre;0;0;5;0
+132;19/02/2020;11:00;MAJADAHONDA01;Majadahonda;0;0;0;19;1;baja;manana;0;0;2;0
+133;02/06/2023;8:00;LASROZAS01;Las Rozas;1;0;1;2;0;media;manana;1;0;4;0
+134;09/06/2020;8:15;SANTAENGRACIA01;Santa Engracia;0;0;0;9;0;media;manana;0;0;1;1
+135;25/08/2020;9:45;GRANADA01;Granada;1;0;0;25;1;alta;manana;1;1;1;0
+136;14/07/2022;11:45;MADRID01;Madrid;0;0;0;14;0;baja;manana;0;0;3;0
+137;10/01/2023;9:45;GIJON01;Gijon;0;0;0;10;0;media;manana;0;0;1;0
+138;08/06/2023;8:15;MADRIDODONNELL01;Madrid O Donnell;0;0;0;8;1;media;manana;0;0;3;1
+139;26/06/2023;11:00;LASPALMAS01;Las Palmas;0;0;0;26;0;alta;manana;0;1;0;0
+140;18/08/2021;11:30;CADIZ01;Cadiz;0;0;0;18;0;baja;manana;0;0;2;0
+141;27/04/2021;14:45;BILBAO01;Bilbao;0;0;0;27;0;media;cierre;0;1;1;0
+142;15/03/2025;10:45;OVIEDO01;Oviedo;1;0;0;15;0;media;manana;1;0;5;1
+143;12/08/2022;13:45;BILBAO01;Bilbao;0;0;0;12;0;media;cierre;0;0;4;0
+144;27/04/2020;9:15;DIAGONAL01;Diagonal;1;0;1;27;0;media;manana;1;1;0;0
+145;24/03/2022;10:15;SEVILLA01;Sevilla;0;0;0;24;0;baja;manana;0;0;3;0
+146;12/05/2022;8:00;ACACIAS01;Acacias;1;1;1;12;0;media;manana;1;0;3;0
+147;12/02/2025;13:30;BARCELONAMERIDIANA01;Barcelona Meridiana;0;0;0;12;0;media;cierre;0;0;2;0
+148;15/02/2023;8:00;BARCELONA01;Barcelona;0;0;0;15;0;baja;manana;0;0;2;1
+149;29/12/2021;12:45;ALICANTE01;Alicante;0;0;0;29;1;alta;cierre;0;1;2;0
+150;30/10/2024;12:15;GIJON01;Gijon;0;0;0;30;0;media;cierre;0;1;2;1
+151;04/02/2022;8:00;SANTANDER01;Santander;0;0;0;4;0;media;manana;0;0;4;0
+152;06/05/2023;14:15;VALENCIA01;Valencia;0;0;0;6;0;media;cierre;0;0;5;0
+153;17/01/2024;8:00;VIGO01;Vigo;0;0;0;17;0;media;manana;0;0;2;0
+154;18/08/2021;13:15;MADRIDMOSTOLES01;Madrid Mostoles;0;0;0;18;0;baja;cierre;0;0;2;0
+155;29/06/2022;11:00;SEVILLA01;Sevilla;0;0;0;29;0;media;manana;0;1;2;1
+156;16/04/2021;12:15;MADRIDODONNELL01;Madrid O Donnell;0;0;0;16;0;alta;cierre;0;0;4;0
+157;29/10/2022;12:00;MADRIDACACIAS01;Madrid Acacias;0;0;0;29;1;alta;cierre;0;1;5;0
+158;01/08/2022;12:00;MADRID01;Madrid;0;0;0;1;0;media;cierre;0;0;0;0
+159;10/04/2021;11:30;VALENCIA01;Valencia;1;0;0;10;0;media;manana;1;0;5;0
+160;01/09/2020;10:15;BARCELONADIAGONAL01;Barcelona Diagonal;0;0;0;1;0;media;manana;0;0;1;0
+161;18/05/2023;13:30;LASPALMASDEGC01;Las Palmas de GC;0;0;0;18;1;alta;cierre;0;0;3;0
+162;20/02/2025;9:30;MADRID01;Madrid;0;0;0;20;1;alta;manana;0;0;3;0
+163;24/11/2022;11:15;MADRID01;Madrid;0;0;0;24;1;media;manana;0;0;3;0
+164;29/10/2024;13:30;BARCELONA01;Barcelona;1;0;0;29;0;alta;cierre;1;1;1;0
+165;17/03/2025;11:30;MADRIDACACIAS01;Madrid Acacias;0;0;0;17;1;alta;manana;0;0;0;0
+166;21/10/2022;14:00;BARCELONA01;Barcelona;1;0;0;21;0;media;cierre;1;0;4;1
+167;01/06/2022;8:45;LASROZAS01;Las Rozas;0;0;0;1;0;media;manana;0;0;2;0
+168;13/02/2024;12:00;GRANADA01;Granada;0;0;0;13;0;media;cierre;0;0;1;0
+169;29/10/2021;8:15;MADRID01;Madrid;0;0;0;29;0;baja;manana;0;1;4;1
+170;26/04/2023;12:30;SALAMANCA01;Salamanca;0;0;0;26;0;alta;cierre;0;1;2;0
+171;23/04/2020;9:30;VALENCIA01;Valencia;0;0;0;23;0;media;manana;0;0;3;0
+172;28/07/2021;8:15;BARCELONAMERIDIANA01;Barcelona Meridiana;1;0;0;28;0;baja;manana;1;1;2;0
+173;26/08/2024;10:30;VALENCIA01;Valencia;0;0;0;26;0;alta;manana;0;1;0;0
+174;29/09/2020;9:45;SANTANDER01;Santander;1;0;0;29;0;media;manana;1;1;1;0
+175;08/06/2022;14:30;SANTAENGRACIA01;Santa Engracia;1;0;0;8;0;media;cierre;1;0;2;1
+176;18/11/2023;12:00;BARCELONA01;Barcelona;0;0;0;18;0;baja;cierre;0;0;5;0
+177;01/10/2021;13:30;MADRID01;Madrid;0;0;0;1;0;baja;cierre;0;0;4;0
+178;12/06/2023;13:00;GIJON01;Gijon;1;0;0;12;0;media;cierre;1;0;0;0
+179;13/09/2021;9:30;VALENCIA01;Valencia;0;0;0;13;0;baja;manana;0;0;0;0
+180;06/11/2023;8:00;TENERIFE01;Tenerife;0;0;0;6;1;alta;manana;0;0;0;0
+181;15/02/2024;13:15;TENERIFE01;Tenerife;1;0;0;15;0;baja;cierre;1;0;3;0
+182;09/08/2023;10:30;ALICANTE01;Alicante;1;0;0;9;0;baja;manana;1;0;2;0
+183;16/11/2021;12:15;SALAMANCA01;Salamanca;1;0;1;16;1;alta;cierre;1;0;1;0
+184;22/03/2022;13:30;SALAMANCA01;Salamanca;0;0;0;22;0;alta;cierre;0;0;1;0
+185;21/10/2021;9:30;ZARAGOZA01;Zaragoza;1;0;0;21;0;media;manana;1;0;3;0
+186;15/03/2025;12:45;SEVILLA01;Sevilla;0;0;0;15;1;alta;cierre;0;0;5;1
+187;17/04/2023;10:00;VALENCIA01;Valencia;0;0;0;17;0;media;manana;0;0;0;0
+188;08/02/2022;8:45;VALENCIA01;Valencia;1;0;0;8;1;alta;manana;1;0;1;1
+189;02/08/2022;14:30;CADIZ01;Cadiz;0;0;0;2;0;alta;cierre;0;0;1;0
+190;02/06/2023;8:00;CORDOBA01;Cordoba;1;0;0;2;0;baja;manana;1;0;4;0
+191;09/05/2025;10:15;CORDOBA01;Cordoba;0;0;0;9;1;alta;manana;0;0;4;0
+192;22/02/2025;13:30;MADRID01;Madrid;0;0;0;22;0;media;cierre;0;0;5;1
+193;08/06/2024;9:45;ACACIAS01;Acacias;0;0;0;8;1;media;manana;0;0;5;0
+194;29/05/2024;12:45;BARCELONA01;Barcelona;0;0;0;29;1;alta;cierre;0;1;2;0
+195;23/12/2024;12:00;BARCELONA01;Barcelona;0;0;0;23;0;media;cierre;0;0;0;0
+196;18/06/2024;8:00;SEVILLA01;Sevilla;0;0;0;18;1;alta;manana;0;0;1;0
+197;13/11/2024;13:15;BARCELONA01;Barcelona;0;0;0;13;0;media;cierre;0;0;2;0
+198;01/02/2024;12:00;VALLADOLID01;Valladolid;0;0;0;1;0;alta;cierre;0;0;3;0
+199;12/08/2020;14:30;ODONNELL01;O Donnell;1;0;0;12;0;media;cierre;1;0;2;0
+200;25/01/2024;12:15;CORDOBA01;Cordoba;0;0;0;25;1;media;cierre;0;1;3;0
+201;31/07/2024;11:15;CADIZ01;Cadiz;0;0;0;31;1;media;manana;0;1;2;0
+202;22/07/2024;8:30;BARCELONA01;Barcelona;0;0;0;22;0;media;manana;0;0;0;1
+203;02/04/2024;10:00;BARCELONA01;Barcelona;0;0;0;2;1;alta;manana;0;0;1;0
+204;24/01/2022;10:15;MADRIDMOSTOLES01;Madrid Mostoles;0;0;0;24;1;alta;manana;0;0;0;0
+205;18/01/2022;13:15;CORDOBA01;Cordoba;0;0;0;18;1;alta;cierre;0;0;1;0
+206;01/03/2023;13:00;SEVILLA01;Sevilla;1;0;0;1;1;alta;cierre;1;0;2;0
+207;05/03/2024;10:45;MADRID01;Madrid;0;0;0;5;1;alta;manana;0;0;1;0
+208;01/07/2024;12:15;LASROZAS01;Las Rozas;0;0;0;1;0;baja;cierre;0;0;0;0
+209;23/04/2022;9:15;CADIZ01;Cadiz;0;0;0;23;1;baja;manana;0;0;5;0
+210;23/10/2024;14:15;ACORUNA01;A Coruna;0;0;0;23;0;baja;cierre;0;0;2;0
+211;30/08/2024;11:00;ACACIAS01;Acacias;0;0;0;30;1;alta;manana;0;1;4;0
+212;11/02/2022;9:30;BARCELONA01;Barcelona;1;0;0;11;0;media;manana;1;0;4;0
+213;13/01/2021;14:45;VALENCIA01;Valencia;0;0;0;13;1;baja;cierre;0;0;2;0
+214;25/01/2024;14:15;ZARAGOZA01;Zaragoza;0;0;0;25;1;media;cierre;0;1;3;0
+215;05/02/2024;10:15;BARCELONADIAGONAL01;Barcelona Diagonal;0;0;0;5;0;baja;manana;0;0;0;0
+216;24/03/2022;14:00;BARCELONA01;Barcelona;1;0;0;24;0;media;cierre;1;0;3;0
+217;01/03/2022;11:00;LASROZAS01;Las Rozas;0;0;0;1;1;media;manana;0;0;1;0
+218;18/07/2024;14:45;BARCELONA01;Barcelona;0;0;0;18;0;baja;cierre;0;0;3;0
+219;24/04/2025;9:15;MADRID01;Madrid;1;0;0;24;0;baja;manana;1;0;3;1
+220;12/11/2024;14:45;COSTARICA01;Costa Rica;1;0;0;12;1;media;cierre;1;0;1;0
+221;03/02/2024;10:30;BARCELONA01;Barcelona;0;0;0;3;1;media;manana;0;0;5;0
+222;09/09/2023;14:15;ACACIAS01;Acacias;1;0;0;9;0;baja;cierre;1;0;5;1
+223;12/12/2024;9:00;BILBAO01;Bilbao;0;0;0;12;0;media;manana;0;0;3;0
+224;08/06/2021;13:15;BARCELONA01;Barcelona;0;0;0;8;1;alta;cierre;0;0;1;0
+225;29/10/2021;11:30;MADRID01;Madrid;0;0;0;29;0;baja;manana;0;1;4;0
+226;15/03/2024;10:00;TENERIFE01;Tenerife;1;1;1;15;0;baja;manana;1;0;4;0
+227;28/12/2024;14:30;BARCELONA01;Barcelona;0;0;0;28;0;baja;cierre;0;1;5;0
+228;01/08/2024;10:45;SALAMANCA01;Salamanca;0;0;0;1;0;media;manana;0;0;3;0
+229;02/08/2024;13:30;COSTARICA01;Costa Rica;1;0;0;2;0;baja;cierre;1;0;4;0
+230;09/09/2023;8:00;VALLADOLID01;Valladolid;0;0;0;9;1;alta;manana;0;0;5;0
+231;30/04/2025;10:15;MURCIA01;Murcia;1;0;0;30;0;baja;manana;1;1;2;0
+232;15/05/2025;12:30;MADRID01;Madrid;0;0;0;15;1;alta;cierre;0;0;3;0
+233;04/02/2023;8:00;BARCELONA01;Barcelona;0;0;0;4;0;baja;manana;0;0;5;0
+234;03/08/2023;12:45;BARCELONA01;Barcelona;0;0;0;3;1;alta;cierre;0;0;3;0
+235;11/04/2022;10:30;SEVILLA01;Sevilla;0;0;0;11;0;media;manana;0;0;0;1
+236;14/05/2020;11:00;DIAGONAL01;Diagonal;0;0;0;14;1;baja;manana;0;0;3;0
+237;03/01/2020;11:15;VALENCIA01;Valencia;0;0;0;3;0;media;manana;0;0;4;0
+238;03/02/2022;10:00;MADRID01;Madrid;0;0;0;3;1;baja;manana;0;0;3;1
+239;16/09/2020;13:45;BILBAO01;Bilbao;0;0;0;16;1;media;cierre;0;0;2;0
+240;06/03/2025;8:15;SALAMANCA01;Salamanca;1;0;0;6;0;media;manana;1;0;3;0
+241;10/10/2022;10:45;LASPALMASDEGC01;Las Palmas de GC;1;0;0;10;0;media;manana;1;0;0;0
+242;25/01/2024;8:30;VALLADOLID01;Valladolid;0;0;0;25;0;media;manana;0;1;3;0
+243;01/04/2021;12:30;ALICANTE01;Alicante;1;0;1;1;0;media;cierre;1;0;3;0
+244;21/08/2024;13:00;ACORUNA01;A Coruna;0;0;0;21;1;media;cierre;0;0;2;0
+245;30/05/2025;13:30;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;0;0;0;30;1;media;cierre;0;1;4;0
+246;29/09/2023;12:30;ZARAGOZA01;Zaragoza;0;0;0;29;1;alta;cierre;0;1;4;0
+247;01/07/2023;13:45;MURCIA01;Murcia;0;0;0;1;1;media;cierre;0;0;5;0
+248;17/05/2022;10:45;VALENCIA01;Valencia;1;0;0;17;0;baja;manana;1;0;1;0
+249;05/09/2024;13:30;VALENCIA01;Valencia;0;0;0;5;1;baja;cierre;0;0;3;1
+250;19/10/2020;12:15;LASROZAS01;Las Rozas;0;0;0;19;0;baja;cierre;0;0;0;0
+251;17/09/2022;9:45;LASPALMAS01;Las Palmas;1;0;0;17;1;alta;manana;1;0;5;0
+252;02/10/2024;13:45;LASROZAS01;Las Rozas;0;0;0;2;0;media;cierre;0;0;2;0
+253;27/08/2020;13:15;MADRID01;Madrid;0;0;0;27;1;media;cierre;0;1;3;1
+254;04/12/2023;12:30;ACACIAS01;Acacias;1;0;0;4;0;media;cierre;1;0;0;0
+255;26/05/2020;11:00;TENERIFE01;Tenerife;0;0;0;26;0;media;manana;0;1;1;0
+256;20/04/2021;10:30;VALENCIA01;Valencia;0;0;0;20;1;alta;manana;0;0;1;1
+257;29/06/2022;9:45;SANTAENGRACIA01;Santa Engracia;0;0;0;29;1;alta;manana;0;1;2;0
+258;12/12/2020;14:30;SEVILLA01;Sevilla;0;0;0;12;1;media;cierre;0;0;5;0
+259;26/11/2020;11:45;MADRIDMOSTOLES01;Madrid Mostoles;1;0;0;26;0;media;manana;1;1;3;0
+260;15/11/2022;11:15;GRANADA01;Granada;0;0;0;15;0;baja;manana;0;0;1;0
+261;26/04/2025;12:45;BILBAO01;Bilbao;0;0;0;26;1;media;cierre;0;1;5;0
+262;21/08/2020;14:15;SANTANDER01;Santander;1;0;0;21;0;media;cierre;1;0;4;0
+263;11/03/2023;13:00;MADRIDMOSTOLES01;Madrid Mostoles;0;0;0;11;0;baja;cierre;0;0;5;0
+264;30/12/2024;10:30;LASROZAS01;Las Rozas;0;0;0;30;1;baja;manana;0;1;0;0
+265;11/06/2022;8:15;MURCIA01;Murcia;0;0;0;11;0;alta;manana;0;0;5;0
+266;19/06/2020;13:30;MAJADAHONDA01;Majadahonda;1;0;0;19;0;media;cierre;1;0;4;0
+267;23/12/2021;9:15;BARCELONA01;Barcelona;0;0;0;23;0;baja;manana;0;0;3;0
+268;26/12/2023;9:00;GIJON01;Gijon;0;0;0;26;0;baja;manana;0;1;1;0
+269;22/09/2023;8:15;BARCELONAMERIDIANA01;Barcelona Meridiana;0;0;0;22;0;baja;manana;0;0;4;0
+270;08/08/2020;11:00;ACACIAS01;Acacias;0;0;0;8;0;media;manana;0;0;5;0
+271;23/05/2024;11:45;GIJON01;Gijon;0;0;0;23;1;alta;manana;0;0;3;0
+272;03/07/2021;13:15;BARCELONA01;Barcelona;0;0;0;3;0;baja;cierre;0;0;5;0
+273;19/06/2024;13:45;OVIEDO01;Oviedo;1;0;0;19;0;alta;cierre;1;0;2;0
+274;24/02/2022;11:45;VALENCIA01;Valencia;0;0;0;24;0;media;manana;0;0;3;0
+275;25/06/2022;9:15;BARCELONA01;Barcelona;0;0;0;25;0;media;manana;0;1;5;0
+276;08/02/2023;13:00;LASPALMAS01;Las Palmas;0;0;0;8;0;media;cierre;0;0;2;0
+277;22/04/2021;14:00;VALENCIA01;Valencia;0;0;0;22;0;baja;cierre;0;0;3;0
+278;15/06/2024;14:45;ALICANTE01;Alicante;0;0;0;15;1;baja;cierre;0;0;5;1
+279;30/12/2024;9:15;ODONNELL01;O Donnell;0;0;0;30;0;media;manana;0;1;0;0
+280;23/06/2020;14:45;MADRIDACACIAS01;Madrid Acacias;1;0;0;23;0;media;cierre;1;0;1;0
+281;21/10/2023;8:15;GIJON01;Gijon;0;0;0;21;1;baja;manana;0;0;5;0
+282;21/10/2022;14:00;MADRID01;Madrid;0;0;0;21;0;media;cierre;0;0;4;0
+283;02/08/2021;11:15;MADRID01;Madrid;1;0;0;2;0;media;manana;1;0;0;0
+284;09/01/2023;14:45;VALLADOLID01;Valladolid;1;1;1;9;1;alta;cierre;1;0;0;0
+285;14/10/2021;13:30;SALAMANCA01;Salamanca;1;0;0;14;0;baja;cierre;1;0;3;1
+286;05/02/2021;14:45;SEVILLA01;Sevilla;0;0;0;5;0;baja;cierre;0;0;4;0
+287;31/10/2022;12:45;CORDOBA01;Cordoba;0;0;0;31;1;alta;cierre;0;1;0;1
+288;02/02/2022;14:45;MADRID01;Madrid;0;0;0;2;0;alta;cierre;0;0;2;1
+289;14/07/2021;9:45;BILBAO01;Bilbao;1;0;0;14;0;baja;manana;1;0;2;0
+290;27/06/2020;11:30;LASROZAS01;Las Rozas;0;0;0;27;0;baja;manana;0;1;5;0
+291;04/09/2024;14:15;BARCELONA01;Barcelona;0;0;0;4;0;media;cierre;0;0;2;0
+292;19/04/2024;14:30;MADRID01;Madrid;0;0;0;19;0;baja;cierre;0;0;4;0
+293;28/04/2025;14:45;MADRID01;Madrid;0;0;0;28;1;media;cierre;0;1;0;0
+294;06/11/2020;13:15;MADRID01;Madrid;0;0;0;6;0;alta;cierre;0;0;4;0
+295;19/06/2020;10:45;SALAMANCA01;Salamanca;0;0;0;19;0;media;manana;0;0;4;0
+296;15/02/2021;8:30;BARCELONA01;Barcelona;0;0;0;15;1;alta;manana;0;0;0;0
+297;13/01/2022;9:30;VALENCIA01;Valencia;1;0;0;13;0;media;manana;1;0;3;0
+298;21/04/2023;10:30;BARCELONA01;Barcelona;1;0;1;21;1;alta;manana;1;0;4;0
+299;13/03/2025;12:00;LASPALMASDEGC01;Las Palmas de GC;1;0;0;13;0;baja;cierre;1;0;3;0
+300;11/11/2022;9:15;BARCELONAMERIDIANA01;Barcelona Meridiana;0;0;0;11;1;media;manana;0;0;4;0
+301;03/01/2020;9:45;VALENCIA01;Valencia;0;0;0;3;0;media;manana;0;0;4;1
+302;30/11/2022;13:15;COSTARICA01;Costa Rica;0;0;0;30;1;alta;cierre;0;1;2;0
+303;26/04/2024;13:15;BARCELONA01;Barcelona;0;0;0;26;0;baja;cierre;0;1;4;0
+304;27/10/2020;8:45;MALAGA01;Malaga;1;0;0;27;0;media;manana;1;1;1;1
+305;21/06/2021;11:30;MADRID01;Madrid;0;0;0;21;0;baja;manana;0;0;0;0
+306;13/06/2023;12:45;SANTAENGRACIA01;Santa Engracia;0;0;0;13;0;media;cierre;0;0;1;1
+307;06/11/2023;11:00;BILBAO01;Bilbao;0;0;0;6;1;alta;manana;0;0;0;0
+308;19/04/2023;9:45;MADRIDODONNELL01;Madrid O Donnell;1;1;1;19;0;baja;manana;1;0;2;0
+309;13/01/2020;11:00;BARCELONA01;Barcelona;0;0;0;13;0;baja;manana;0;0;0;1
+310;03/02/2024;14:45;TENERIFE01;Tenerife;1;0;1;3;0;media;cierre;1;0;5;0
+311;24/08/2023;11:00;TENERIFE01;Tenerife;1;0;1;24;1;alta;manana;1;0;3;0
+312;25/08/2022;10:30;BARCELONA01;Barcelona;0;0;0;25;1;media;manana;0;1;3;0
+313;02/09/2020;14:45;GIJON01;Gijon;0;0;0;2;0;baja;cierre;0;0;2;0
+314;30/09/2023;14:45;BARCELONA01;Barcelona;0;0;0;30;0;baja;cierre;0;1;5;0
+315;23/04/2021;12:15;VALENCIA01;Valencia;0;0;0;23;0;media;cierre;0;0;4;0
+316;29/06/2020;11:15;VALENCIA01;Valencia;1;0;0;29;0;baja;manana;1;1;0;1
+317;05/03/2020;10:45;CADIZ01;Cadiz;1;0;0;5;0;media;manana;1;0;3;0
+318;18/09/2023;11:00;SEVILLA01;Sevilla;0;0;0;18;0;media;manana;0;0;0;0
+319;18/01/2022;11:30;BARCELONADIAGONAL01;Barcelona Diagonal;0;0;0;18;0;media;manana;0;0;1;0
+320;26/11/2021;13:45;MADRID01;Madrid;1;0;0;26;0;media;cierre;1;1;4;0
+321;15/05/2025;13:15;LASPALMASDEGC01;Las Palmas de GC;0;0;0;15;0;media;cierre;0;0;3;0
+322;10/09/2024;14:45;VALENCIA01;Valencia;1;0;0;10;1;media;cierre;1;0;1;1
+323;12/09/2024;9:00;M?STOLES01;M?stoles;0;0;0;12;0;media;manana;0;0;3;0
+324;04/05/2020;11:00;COSTARICA01;Costa Rica;0;0;0;4;0;media;manana;0;0;0;0
+325;27/10/2020;8:45;BARCELONA01;Barcelona;0;0;0;27;0;baja;manana;0;1;1;0
+326;27/01/2024;9:45;BARCELONAMERIDIANA01;Barcelona Meridiana;0;0;0;27;0;baja;manana;0;1;5;0
+327;08/09/2023;9:00;MURCIA01;Murcia;1;0;0;8;1;alta;manana;1;0;4;0
+328;26/08/2021;10:45;DIAGONAL01;Diagonal;0;0;0;26;0;baja;manana;0;1;3;0
+329;13/11/2024;10:15;ACORUNA01;A Coruna;0;0;0;13;0;media;manana;0;0;2;0
+330;27/04/2020;11:30;ALICANTE01;Alicante;0;0;0;27;0;baja;manana;0;1;0;1
+331;30/06/2020;10:45;LASROZAS01;Las Rozas;0;0;0;30;0;baja;manana;0;1;1;0
+332;21/12/2022;10:45;LASPALMAS01;Las Palmas;1;0;0;21;0;baja;manana;1;0;2;1
+333;08/11/2022;10:00;MADRID01;Madrid;0;0;0;8;0;media;manana;0;0;1;1
+334;05/02/2021;11:00;SANTAENGRACIA01;Santa Engracia;0;0;0;5;1;baja;manana;0;0;4;0
+335;01/09/2022;13:00;MADRIDODONNELL01;Madrid O Donnell;0;0;0;1;0;media;cierre;0;0;3;0
+336;09/11/2023;10:15;MADRID01;Madrid;0;0;0;9;0;media;manana;0;0;3;0
+337;10/02/2023;13:00;BARCELONA01;Barcelona;0;0;0;10;0;baja;cierre;0;0;4;0
+338;09/07/2020;14:00;ACACIAS01;Acacias;0;0;0;9;1;alta;cierre;0;0;3;0
+339;22/03/2025;14:00;CORDOBA01;Cordoba;0;0;0;22;0;media;cierre;0;0;5;0
+340;08/08/2022;9:15;GIJON01;Gijon;1;1;1;8;0;alta;manana;1;0;0;0
+341;16/04/2021;14:00;BARCELONA01;Barcelona;1;0;0;16;0;baja;cierre;1;0;4;0
+342;26/03/2024;12:15;LASROZAS01;Las Rozas;0;0;0;26;0;media;cierre;0;1;1;1
+343;25/08/2022;9:15;MADRID01;Madrid;1;0;1;25;0;baja;manana;1;1;3;0
+344;20/12/2024;11:00;MALAGA01;Malaga;0;0;0;20;0;baja;manana;0;0;4;0
+345;08/08/2024;12:15;MAJADAHONDA01;Majadahonda;0;0;0;8;0;baja;cierre;0;0;3;1
+346;05/10/2023;11:30;VALENCIA01;Valencia;0;0;0;5;1;alta;manana;0;0;3;1
+347;18/12/2023;14:30;MALAGA01;Malaga;0;0;0;18;0;media;cierre;0;0;0;1
+348;20/04/2021;9:00;MADRIDACACIAS01;Madrid Acacias;1;0;0;20;0;baja;manana;1;0;1;0
+349;01/02/2022;14:15;SANTANDER01;Santander;0;0;0;1;0;media;cierre;0;0;1;0
+350;08/06/2023;10:00;GRANADA01;Granada;0;0;0;8;1;alta;manana;0;0;3;0
+351;29/03/2022;12:00;SEVILLA01;Sevilla;1;0;0;29;0;media;cierre;1;1;1;0
+352;29/06/2021;10:45;MAJADAHONDA01;Majadahonda;1;0;0;29;0;media;manana;1;1;1;0
+353;08/02/2023;11:15;MADRID01;Madrid;1;0;0;8;0;baja;manana;1;0;2;0
+354;10/07/2021;8:15;MADRID01;Madrid;0;0;0;10;0;baja;manana;0;0;5;0
+355;19/07/2024;8:30;BARCELONA01;Barcelona;0;0;0;19;1;media;manana;0;0;4;0
+356;26/05/2023;14:00;GIJON01;Gijon;0;0;0;26;1;media;cierre;0;1;4;0
+357;09/06/2022;14:00;GRANADA01;Granada;1;0;0;9;1;media;cierre;1;0;3;1
+358;15/02/2020;10:45;OVIEDO01;Oviedo;0;0;0;15;0;media;manana;0;0;5;0
+359;28/09/2020;13:30;DIAGONAL01;Diagonal;0;0;0;28;1;alta;cierre;0;1;0;0
+360;08/07/2024;8:30;ACACIAS01;Acacias;0;0;0;8;0;baja;manana;0;0;0;0
+361;28/10/2021;8:45;VALLADOLID01;Valladolid;0;0;0;28;0;media;manana;0;1;3;0
+362;03/06/2021;14:45;OVIEDO01;Oviedo;1;1;1;3;0;baja;cierre;1;0;3;0
+363;02/04/2024;8:45;ACORUNA01;A Coruna;0;0;0;2;0;baja;manana;0;0;1;0
+364;03/02/2020;10:45;COSTARICA01;Costa Rica;0;0;0;3;0;media;manana;0;0;0;0
+365;23/09/2020;13:15;MADRID01;Madrid;0;0;0;23;1;alta;cierre;0;0;2;0
+366;26/03/2024;11:15;MADRIDACACIAS01;Madrid Acacias;0;0;0;26;0;media;manana;0;1;1;1
+367;04/08/2022;13:30;BARCELONA01;Barcelona;0;0;0;4;0;media;cierre;0;0;3;0
+368;25/04/2025;12:45;MADRID01;Madrid;1;0;0;25;1;alta;cierre;1;1;4;0
+369;01/12/2020;11:45;MADRIDMOSTOLES01;Madrid Mostoles;0;0;0;1;1;alta;manana;0;0;1;0
+370;09/11/2022;14:30;VALENCIA01;Valencia;1;0;0;9;0;media;cierre;1;0;2;0
+371;14/02/2023;10:15;DIAGONAL01;Diagonal;0;0;0;14;0;media;manana;0;0;1;0
+372;22/11/2024;14:00;COSTARICA01;Costa Rica;0;0;0;22;0;media;cierre;0;0;4;1
+373;21/06/2021;10:45;GIJON01;Gijon;0;0;0;21;1;alta;manana;0;0;0;0
+374;25/04/2023;9:45;VALENCIA01;Valencia;0;0;0;25;1;alta;manana;0;1;1;0
+375;25/08/2022;12:45;COSTARICA01;Costa Rica;0;0;0;25;1;alta;cierre;0;1;3;0
+376;23/02/2022;10:00;SEVILLA01;Sevilla;1;1;1;23;0;media;manana;1;0;2;0
+377;07/01/2025;11:30;ACACIAS01;Acacias;1;0;0;7;0;media;manana;1;0;1;0
+378;08/10/2021;9:45;LASROZAS01;Las Rozas;1;0;0;8;0;media;manana;1;0;4;0
+379;14/12/2023;9:30;BARCELONADIAGONAL01;Barcelona Diagonal;1;1;1;14;0;baja;manana;1;0;3;0
+380;27/06/2023;14:30;MADRID01;Madrid;0;0;0;27;0;baja;cierre;0;1;1;0
+381;31/12/2024;10:30;LASROZAS01;Las Rozas;0;0;0;31;1;alta;manana;0;1;1;0
+382;22/01/2020;12:30;VALLADOLID01;Valladolid;0;0;0;22;0;media;cierre;0;0;2;0
+383;20/11/2023;12:00;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;1;0;0;20;0;baja;cierre;1;0;0;0
+384;19/01/2024;12:15;MADRID01;Madrid;0;0;0;19;1;alta;cierre;0;0;4;0
+385;06/07/2020;8:15;ACORUNA01;A Coruna;0;0;0;6;1;baja;manana;0;0;0;0
+386;19/07/2021;13:45;BARCELONAMERIDIANA01;Barcelona Meridiana;1;0;0;19;1;alta;cierre;1;0;0;0
+387;23/06/2023;11:15;VALENCIA01;Valencia;1;0;0;23;0;media;manana;1;0;4;0
+388;17/07/2024;13:45;MADRIDMOSTOLES01;Madrid Mostoles;1;0;0;17;1;baja;cierre;1;0;2;0
+389;04/09/2021;13:45;MADRID01;Madrid;0;0;0;4;1;alta;cierre;0;0;5;0
+390;27/04/2020;11:00;LASPALMAS01;Las Palmas;0;0;0;27;0;media;manana;0;1;0;0
+391;13/06/2023;8:30;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;0;0;0;13;1;baja;manana;0;0;1;0
+392;26/11/2020;9:45;DIAGONAL01;Diagonal;0;0;0;26;1;baja;manana;0;1;3;0
+393;19/06/2024;13:15;CORDOBA01;Cordoba;1;0;0;19;0;alta;cierre;1;0;2;0
+394;11/08/2021;10:30;MADRID01;Madrid;1;0;0;11;1;media;manana;1;0;2;0
+395;22/12/2020;11:30;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;0;0;0;22;0;alta;manana;0;0;1;0
+396;01/08/2020;11:30;ALICANTE01;Alicante;1;0;0;1;1;alta;manana;1;0;5;0
+397;21/12/2021;10:45;MADRID01;Madrid;0;0;0;21;1;media;manana;0;0;1;1
+398;24/08/2023;10:30;SANTANDER01;Santander;1;0;0;24;1;alta;manana;1;0;3;0
+399;12/04/2022;10:15;MALAGA01;Malaga;1;0;0;12;0;baja;manana;1;0;1;1
+400;24/03/2023;8:15;MADRID01;Madrid;1;0;0;24;0;baja;manana;1;0;4;0
+401;13/09/2023;10:00;BARCELONA01;Barcelona;0;0;0;13;0;media;manana;0;0;2;0
+402;13/08/2020;13:15;MADRID01;Madrid;0;0;0;13;0;alta;cierre;0;0;3;0
+403;26/10/2020;9:15;ACORUNA01;A Coruna;0;0;0;26;0;media;manana;0;1;0;0
+404;10/03/2023;13:45;VIGO01;Vigo;1;0;0;10;1;alta;cierre;1;0;4;0
+405;07/01/2023;10:30;LASROZAS01;Las Rozas;0;0;0;7;1;alta;manana;0;0;5;0
+406;07/11/2023;8:15;ZARAGOZA01;Zaragoza;0;0;0;7;0;baja;manana;0;0;1;0
+407;01/03/2024;10:15;BARCELONAMERIDIANA01;Barcelona Meridiana;0;0;0;1;0;media;manana;0;0;4;0
+408;20/05/2024;10:15;SALAMANCA01;Salamanca;0;0;0;20;0;media;manana;0;0;0;0
+409;01/06/2020;10:00;MADRID01;Madrid;0;0;0;1;1;media;manana;0;0;0;0
+410;23/01/2020;13:15;SANTANDER01;Santander;0;0;0;23;1;alta;cierre;0;0;3;0
+411;02/11/2021;10:00;SEVILLA01;Sevilla;0;0;0;2;0;baja;manana;0;0;1;0
+412;06/11/2021;8:30;ACORUNA01;A Coruna;0;0;0;6;0;baja;manana;0;0;5;0
+413;20/05/2024;13:15;DIAGONAL01;Diagonal;1;0;0;20;1;alta;cierre;1;0;0;1
+414;26/03/2022;13:45;OVIEDO01;Oviedo;0;0;0;26;0;baja;cierre;0;1;5;0
+415;15/01/2022;8:00;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;1;0;0;15;0;media;manana;1;0;5;0
+416;08/04/2024;12:30;BARCELONA01;Barcelona;0;0;0;8;1;media;cierre;0;0;0;0
+417;08/10/2022;11:45;SANTAENGRACIA01;Santa Engracia;0;0;0;8;0;media;manana;0;0;5;0
+418;16/02/2023;11:30;MADRID01;Madrid;0;0;0;16;0;alta;manana;0;0;3;0
+419;02/07/2020;9:00;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;1;0;0;2;0;baja;manana;1;0;3;0
+420;03/08/2021;10:45;MADRID01;Madrid;0;0;0;3;1;media;manana;0;0;1;1
+421;01/08/2024;8:00;MADRID01;Madrid;0;0;0;1;1;media;manana;0;0;3;0
+422;20/07/2022;11:45;COSTARICA01;Costa Rica;0;0;0;20;1;media;manana;0;0;2;0
+423;30/08/2023;8:00;ODONNELL01;O Donnell;0;0;0;30;0;baja;manana;0;1;2;0
+424;09/08/2024;9:15;BARCELONA01;Barcelona;1;0;0;9;0;baja;manana;1;0;4;0
+425;17/10/2020;14:30;VALLADOLID01;Valladolid;0;0;0;17;0;media;cierre;0;0;5;0
+426;24/11/2023;8:15;CORDOBA01;Cordoba;0;0;0;24;0;baja;manana;0;0;4;0
+427;15/06/2023;8:45;MADRID01;Madrid;0;0;0;15;1;media;manana;0;0;3;1
+428;18/11/2024;12:15;MURCIA01;Murcia;0;0;0;18;0;media;cierre;0;0;0;0
+429;20/06/2022;14:45;ZARAGOZA01;Zaragoza;0;0;0;20;1;media;cierre;0;0;0;0
+430;28/09/2021;11:45;SANTANDER01;Santander;0;0;0;28;1;media;manana;0;1;1;0
+431;29/12/2022;10:45;ACACIAS01;Acacias;1;0;0;29;0;baja;manana;1;1;3;0
+432;28/04/2021;10:00;SANTANDER01;Santander;0;0;0;28;0;media;manana;0;1;2;0
+433;13/09/2021;12:00;MURCIA01;Murcia;0;0;0;13;1;media;cierre;0;0;0;0
+434;08/09/2022;14:15;MADRID01;Madrid;0;0;0;8;1;media;cierre;0;0;3;0
+435;23/12/2024;13:15;VALENCIA01;Valencia;0;0;0;23;0;media;cierre;0;0;0;0
+436;08/12/2022;10:00;GRANADA01;Granada;1;0;0;8;0;media;manana;1;0;3;0
+437;13/02/2020;9:15;MADRIDACACIAS01;Madrid Acacias;0;0;0;13;0;media;manana;0;0;3;0
+438;25/03/2022;9:00;LASROZAS01;Las Rozas;0;0;0;25;1;media;manana;0;1;4;0
+439;25/01/2020;9:00;MADRID01;Madrid;0;0;0;25;1;alta;manana;0;1;5;0
+440;16/01/2021;11:45;BARCELONA01;Barcelona;0;0;0;16;1;media;manana;0;0;5;1
+441;28/08/2021;13:45;MURCIA01;Murcia;0;0;0;28;0;baja;cierre;0;1;5;0
+442;19/04/2021;10:00;VALLADOLID01;Valladolid;0;0;0;19;0;media;manana;0;0;0;0
+443;17/02/2022;9:30;MADRID01;Madrid;0;0;0;17;1;media;manana;0;0;3;1
+444;28/02/2023;13:30;BARCELONADIAGONAL01;Barcelona Diagonal;1;0;0;28;1;baja;cierre;1;1;1;0
+445;12/07/2021;13:45;OVIEDO01;Oviedo;1;1;1;12;0;media;cierre;1;0;0;0
+446;16/10/2023;8:15;MADRIDODONNELL01;Madrid O Donnell;0;0;0;16;1;media;manana;0;0;0;0
+447;16/08/2023;10:15;M?STOLES01;M?stoles;0;0;0;16;1;media;manana;0;0;2;1
+448;25/06/2024;11:00;MAJADAHONDA01;Majadahonda;0;0;0;25;1;baja;manana;0;1;1;0
+449;15/09/2022;12:15;SALAMANCA01;Salamanca;0;0;0;15;0;baja;cierre;0;0;3;1
+450;13/05/2022;13:15;VIGO01;Vigo;0;0;0;13;0;media;cierre;0;0;4;0
+451;08/10/2022;10:15;VIGO01;Vigo;0;0;0;8;0;media;manana;0;0;5;1
+452;02/03/2020;8:00;VIGO01;Vigo;0;0;0;2;1;alta;manana;0;0;0;0
+453;12/11/2021;9:30;CADIZ01;Cadiz;0;0;0;12;0;media;manana;0;0;4;1
+454;12/12/2023;12:30;MADRIDACACIAS01;Madrid Acacias;1;0;0;12;0;baja;cierre;1;0;1;1
+455;23/09/2023;11:00;LASPALMAS01;Las Palmas;1;0;0;23;1;baja;manana;1;0;5;0
+456;26/06/2020;11:30;M?STOLES01;M?stoles;0;0;0;26;1;alta;manana;0;1;4;0
+457;08/01/2021;13:45;BARCELONAMERIDIANA01;Barcelona Meridiana;0;0;0;8;0;baja;cierre;0;0;4;0
+458;06/11/2021;10:45;BARCELONA01;Barcelona;0;0;0;6;0;baja;manana;0;0;5;0
+459;11/06/2024;11:00;MADRID01;Madrid;0;0;0;11;0;baja;manana;0;0;1;1
+460;26/12/2020;12:00;MALAGA01;Malaga;0;0;0;26;0;alta;cierre;0;1;5;0
+461;22/03/2022;11:30;LASROZAS01;Las Rozas;0;0;0;22;0;baja;manana;0;0;1;0
+462;20/09/2022;12:30;ZARAGOZA01;Zaragoza;0;0;0;20;0;media;cierre;0;0;1;0
+463;03/07/2023;8:00;CORDOBA01;Cordoba;0;0;0;3;0;alta;manana;0;0;0;0
+464;05/04/2023;9:00;ACORUNA01;A Coruna;0;0;0;5;1;alta;manana;0;0;2;1
+465;10/06/2021;14:30;BILBAO01;Bilbao;0;0;0;10;0;alta;cierre;0;0;3;0
+466;29/12/2021;12:00;MADRID01;Madrid;1;0;1;29;0;media;cierre;1;1;2;0
+467;24/03/2023;14:15;SALAMANCA01;Salamanca;0;0;0;24;0;baja;cierre;0;0;4;1
+468;07/11/2020;11:45;ZARAGOZA01;Zaragoza;0;0;0;7;1;alta;manana;0;0;5;0
+469;01/07/2023;10:15;BARCELONA01;Barcelona;0;0;0;1;0;media;manana;0;0;5;0
+470;13/03/2025;12:45;VALLADOLID01;Valladolid;0;0;0;13;0;alta;cierre;0;0;3;0
+471;06/04/2023;13:45;VALLADOLID01;Valladolid;0;0;0;6;0;baja;cierre;0;0;3;0
+472;09/05/2025;8:45;BARCELONA01;Barcelona;0;0;0;9;0;media;manana;0;0;4;0
+473;08/01/2020;10:45;MADRID01;Madrid;0;0;0;8;0;baja;manana;0;0;2;0
+474;29/08/2023;10:30;MADRIDACACIAS01;Madrid Acacias;1;0;1;29;0;media;manana;1;1;1;0
+475;19/12/2023;13:00;GIJON01;Gijon;0;0;0;19;1;media;cierre;0;0;1;0
+476;07/07/2022;14:15;BARCELONA01;Barcelona;0;0;0;7;1;alta;cierre;0;0;3;0
+477;07/11/2022;10:45;BARCELONA01;Barcelona;0;0;0;7;0;media;manana;0;0;0;0
+478;23/03/2023;13:45;SANTAENGRACIA01;Santa Engracia;1;0;0;23;1;alta;cierre;1;0;3;0
+479;15/11/2022;10:45;SALAMANCA01;Salamanca;0;0;0;15;0;baja;manana;0;0;1;0
+480;20/06/2024;14:00;DIAGONAL01;Diagonal;0;0;0;20;0;baja;cierre;0;0;3;0
+481;26/02/2020;11:00;MADRID01;Madrid;1;0;0;26;0;baja;manana;1;1;2;1
+482;25/10/2022;10:30;MADRIDMOSTOLES01;Madrid Mostoles;1;0;0;25;1;alta;manana;1;1;1;0
+483;02/09/2022;10:00;GIJON01;Gijon;1;0;0;2;1;media;manana;1;0;4;1
+484;17/01/2023;14:45;MURCIA01;Murcia;0;0;0;17;0;baja;cierre;0;0;1;0
+485;19/02/2022;14:00;ALICANTE01;Alicante;0;0;0;19;1;media;cierre;0;0;5;0
+486;13/11/2020;13:45;GIJON01;Gijon;0;0;0;13;0;media;cierre;0;0;4;0
+487;15/03/2021;11:00;BARCELONAMERIDIANA01;Barcelona Meridiana;0;0;0;15;1;baja;manana;0;0;0;1
+488;27/01/2022;9:30;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;1;0;1;27;0;baja;manana;1;1;3;0
+489;01/09/2023;12:45;VALENCIA01;Valencia;1;0;0;1;0;baja;cierre;1;0;4;1
+490;21/02/2022;13:45;BARCELONAMERIDIANA01;Barcelona Meridiana;0;0;0;21;0;baja;cierre;0;0;0;0
+491;22/05/2020;14:00;M?STOLES01;M?stoles;0;0;0;22;0;media;cierre;0;0;4;1
+492;12/09/2022;9:30;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;0;0;0;12;0;media;manana;0;0;0;0
+493;19/04/2025;12:15;VALENCIA01;Valencia;0;0;0;19;1;alta;cierre;0;0;5;1
+494;07/07/2023;10:45;ACORUNA01;A Coruna;1;0;0;7;0;baja;manana;1;0;4;0
+495;15/06/2024;13:45;VALENCIA01;Valencia;0;0;0;15;0;baja;cierre;0;0;5;1
+496;30/05/2022;8:00;ZARAGOZA01;Zaragoza;1;0;0;30;0;baja;manana;1;1;0;0
+497;14/11/2024;13:15;MADRID01;Madrid;0;0;0;14;0;alta;cierre;0;0;3;0
+498;19/05/2020;13:15;ACORUNA01;A Coruna;1;0;0;19;0;baja;cierre;1;0;1;0
+499;27/07/2022;10:00;COSTARICA01;Costa Rica;1;0;0;27;1;alta;manana;1;1;2;0
+500;26/09/2023;12:45;MURCIA01;Murcia;1;0;0;26;0;baja;cierre;1;1;1;0
+501;09/08/2024;8:15;DIAGONAL01;Diagonal;1;0;0;9;0;baja;manana;1;0;4;0
+502;17/04/2023;14:00;GRANADA01;Granada;1;0;0;17;0;baja;cierre;1;0;0;0
+503;07/07/2023;11:00;SALAMANCA01;Salamanca;0;0;0;7;1;media;manana;0;0;4;0
+504;25/01/2022;13:15;BARCELONAMERIDIANA01;Barcelona Meridiana;1;0;0;25;0;baja;cierre;1;1;1;0
+505;30/08/2021;11:30;VALENCIA01;Valencia;1;0;0;30;0;media;manana;1;1;0;0
+506;09/08/2022;12:30;BILBAO01;Bilbao;0;0;0;9;0;media;cierre;0;0;1;0
+507;21/08/2023;11:45;CORDOBA01;Cordoba;0;0;0;21;0;media;manana;0;0;0;0
+508;30/05/2025;11:15;MADRID01;Madrid;1;0;1;30;0;media;manana;1;1;4;0
+509;15/09/2023;11:15;CADIZ01;Cadiz;0;0;0;15;0;baja;manana;0;0;4;0
+510;25/10/2021;11:15;DIAGONAL01;Diagonal;1;0;1;25;1;alta;manana;1;1;0;0
+511;16/04/2025;12:15;VALLADOLID01;Valladolid;0;0;0;16;0;baja;cierre;0;0;2;0
+512;31/07/2021;14:00;LASPALMAS01;Las Palmas;0;0;0;31;1;media;cierre;0;1;5;1
+513;08/02/2024;10:45;ACORUNA01;A Coruna;0;0;0;8;0;baja;manana;0;0;3;0
+514;30/11/2022;10:30;MADRID01;Madrid;0;0;0;30;0;baja;manana;0;1;2;0
+515;20/03/2024;14:00;MADRID01;Madrid;0;0;0;20;0;media;cierre;0;0;2;0
+516;11/12/2023;10:30;VALLADOLID01;Valladolid;1;0;0;11;0;media;manana;1;0;0;0
+517;16/04/2022;14:45;VALENCIA01;Valencia;0;0;0;16;0;baja;cierre;0;0;5;1
+518;11/10/2024;14:15;MADRID01;Madrid;0;0;0;11;0;baja;cierre;0;0;4;0
+519;19/11/2021;11:45;SEVILLA01;Sevilla;0;0;0;19;1;media;manana;0;0;4;0
+520;26/07/2022;10:30;CADIZ01;Cadiz;0;0;0;26;1;alta;manana;0;1;1;0
+521;18/10/2022;12:45;COSTARICA01;Costa Rica;0;0;0;18;0;media;cierre;0;0;1;0
+522;19/10/2020;11:30;ACACIAS01;Acacias;0;0;0;19;1;media;manana;0;0;0;0
+523;28/07/2023;14:15;DIAGONAL01;Diagonal;0;0;0;28;0;alta;cierre;0;1;4;0
+524;01/07/2020;13:15;COSTARICA01;Costa Rica;0;0;0;1;1;media;cierre;0;0;2;0
+525;27/09/2024;12:45;MAJADAHONDA01;Majadahonda;1;0;0;27;0;media;cierre;1;1;4;1
+526;29/03/2023;9:45;DIAGONAL01;Diagonal;0;0;0;29;0;baja;manana;0;1;2;0
+527;09/08/2023;8:30;VIGO01;Vigo;0;0;0;9;0;baja;manana;0;0;2;0
+528;08/04/2022;13:45;CADIZ01;Cadiz;0;0;0;8;0;alta;cierre;0;0;4;0
+529;04/04/2024;13:45;MADRID01;Madrid;1;0;0;4;0;media;cierre;1;0;3;1
+530;19/01/2024;11:15;SANTANDER01;Santander;0;0;0;19;0;baja;manana;0;0;4;1
+531;20/07/2023;11:00;ODONNELL01;O Donnell;1;0;0;20;0;media;manana;1;0;3;0
+532;24/06/2023;9:30;BARCELONADIAGONAL01;Barcelona Diagonal;0;0;0;24;1;alta;manana;0;0;5;0
+533;12/04/2023;14:00;ZARAGOZA01;Zaragoza;0;0;0;12;0;media;cierre;0;0;2;0
+534;21/04/2020;14:45;VALLADOLID01;Valladolid;1;0;0;21;1;alta;cierre;1;0;1;0
+535;11/02/2023;8:45;VALENCIA01;Valencia;1;0;0;11;1;alta;manana;1;0;5;0
+536;15/04/2023;8:15;BARCELONA01;Barcelona;0;0;0;15;1;alta;manana;0;0;5;0
+537;21/06/2021;11:15;COSTARICA01;Costa Rica;0;0;0;21;0;media;manana;0;0;0;1
+538;29/12/2023;8:45;MALAGA01;Malaga;1;0;0;29;0;media;manana;1;1;4;0
+539;19/12/2022;14:30;VALENCIA01;Valencia;0;0;0;19;0;media;cierre;0;0;0;0
+540;14/09/2020;10:45;BILBAO01;Bilbao;0;0;0;14;0;baja;manana;0;0;0;0
+541;15/07/2021;13:00;BARCELONA01;Barcelona;0;0;0;15;0;baja;cierre;0;0;3;0
+542;27/05/2021;14:30;LASPALMASDEGC01;Las Palmas de GC;0;0;0;27;1;alta;cierre;0;1;3;0
+543;09/02/2021;14:45;MADRID01;Madrid;0;0;0;9;0;media;cierre;0;0;1;0
+544;14/10/2021;10:45;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;1;0;0;14;0;baja;manana;1;0;3;0
+545;29/04/2025;14:00;MADRIDODONNELL01;Madrid O Donnell;0;0;0;29;0;baja;cierre;0;1;1;0
+546;09/04/2024;12:00;BILBAO01;Bilbao;1;0;0;9;0;media;cierre;1;0;1;0
+547;28/02/2024;9:30;ACACIAS01;Acacias;0;0;0;28;1;alta;manana;0;1;2;0
+548;27/02/2021;9:00;CORDOBA01;Cordoba;1;0;0;27;0;alta;manana;1;1;5;0
+549;29/01/2020;11:00;VIGO01;Vigo;0;0;0;29;0;media;manana;0;1;2;0
+550;09/09/2021;14:00;COSTARICA01;Costa Rica;1;0;0;9;1;media;cierre;1;0;3;0
+551;25/08/2023;11:15;VALENCIA01;Valencia;0;0;0;25;1;alta;manana;0;1;4;0
+552;09/08/2022;13:30;VALLADOLID01;Valladolid;0;0;0;9;0;media;cierre;0;0;1;1
+553;29/11/2023;8:00;LASROZAS01;Las Rozas;1;0;0;29;0;alta;manana;1;1;2;0
+554;23/01/2024;10:00;VALLADOLID01;Valladolid;0;0;0;23;0;media;manana;0;0;1;0
+555;23/06/2022;10:30;VALENCIA01;Valencia;0;0;0;23;0;media;manana;0;0;3;0
+556;08/06/2021;10:45;OVIEDO01;Oviedo;1;0;0;8;0;baja;manana;1;0;1;0
+557;24/04/2025;9:15;MADRID01;Madrid;0;0;0;24;0;baja;manana;0;0;3;0
+558;01/07/2022;12:45;MADRID01;Madrid;0;0;0;1;1;alta;cierre;0;0;4;0
+559;20/04/2023;12:15;VALENCIA01;Valencia;1;0;1;20;1;alta;cierre;1;0;3;0
+560;22/05/2024;9:15;MADRID01;Madrid;1;0;0;22;1;media;manana;1;0;2;0
+561;02/09/2021;8:45;MADRID01;Madrid;0;0;0;2;0;baja;manana;0;0;3;0
+562;19/05/2023;12:15;ZARAGOZA01;Zaragoza;0;0;0;19;0;baja;cierre;0;0;4;1
+563;28/07/2022;11:15;MADRID01;Madrid;0;0;0;28;1;baja;manana;0;1;3;0
+564;03/02/2021;9:45;DIAGONAL01;Diagonal;0;0;0;3;0;media;manana;0;0;2;0
+565;31/10/2020;13:30;VALENCIA01;Valencia;0;0;0;31;1;media;cierre;0;1;5;0
+566;11/08/2021;11:30;BARCELONAMERIDIANA01;Barcelona Meridiana;1;0;0;11;0;baja;manana;1;0;2;0
+567;29/11/2022;13:00;MALAGA01;Malaga;0;0;0;29;1;media;cierre;0;1;1;0
+568;08/07/2020;14:45;MURCIA01;Murcia;0;0;0;8;0;media;cierre;0;0;2;0
+569;15/11/2024;10:15;BILBAO01;Bilbao;1;0;0;15;0;baja;manana;1;0;4;0
+570;06/10/2022;8:45;ODONNELL01;O Donnell;0;0;0;6;1;alta;manana;0;0;3;0
+571;31/03/2022;10:30;ACORUNA01;A Coruna;1;0;0;31;0;media;manana;1;1;3;0
+572;26/03/2021;13:45;MADRID01;Madrid;0;0;0;26;0;baja;cierre;0;1;4;0
+573;10/02/2025;13:30;MADRIDACACIAS01;Madrid Acacias;1;1;1;10;0;media;cierre;1;0;0;0
+574;10/02/2023;11:30;SEVILLA01;Sevilla;0;0;0;10;0;media;manana;0;0;4;0
+575;01/04/2022;9:45;OVIEDO01;Oviedo;1;0;0;1;0;media;manana;1;0;4;0
+576;18/09/2024;14:45;ACACIAS01;Acacias;1;0;0;18;0;media;cierre;1;0;2;0
+577;30/04/2025;8:15;OVIEDO01;Oviedo;0;0;0;30;1;alta;manana;0;1;2;0
+578;15/03/2024;11:30;GRANADA01;Granada;0;0;0;15;1;alta;manana;0;0;4;0
+579;19/03/2025;12:30;ALICANTE01;Alicante;0;0;0;19;0;baja;cierre;0;0;2;0
+580;06/09/2024;13:30;ACACIAS01;Acacias;0;0;0;6;0;baja;cierre;0;0;4;1
+581;15/11/2023;8:45;MADRID01;Madrid;0;0;0;15;0;baja;manana;0;0;2;0
+582;20/06/2023;10:00;GRANADA01;Granada;1;0;0;20;1;baja;manana;1;0;1;0
+583;22/02/2025;12:00;LASPALMAS01;Las Palmas;1;0;0;22;1;media;cierre;1;0;5;0
+584;02/12/2020;12:45;BARCELONA01;Barcelona;0;0;0;2;1;baja;cierre;0;0;2;0
+585;15/04/2021;14:30;BARCELONA01;Barcelona;1;0;1;15;0;media;cierre;1;0;3;0
+586;16/01/2020;14:15;MURCIA01;Murcia;1;0;0;16;0;media;cierre;1;0;3;0
+587;23/04/2025;12:30;LASPALMASDEGC01;Las Palmas de GC;0;0;0;23;0;baja;cierre;0;0;2;0
+588;24/04/2024;9:15;VALENCIA01;Valencia;1;0;0;24;0;media;manana;1;0;2;0
+589;27/02/2024;12:30;ALICANTE01;Alicante;0;0;0;27;0;media;cierre;0;1;1;0
+590;13/08/2021;13:15;MADRID01;Madrid;0;0;0;13;0;media;cierre;0;0;4;1
+591;14/06/2022;13:00;GIJON01;Gijon;1;0;0;14;0;baja;cierre;1;0;1;0
+592;12/02/2020;13:00;ACORUNA01;A Coruna;0;0;0;12;1;media;cierre;0;0;2;0
+593;13/05/2022;10:45;BARCELONADIAGONAL01;Barcelona Diagonal;0;0;0;13;1;alta;manana;0;0;4;0
+594;03/10/2022;8:30;BILBAO01;Bilbao;0;0;0;3;0;media;manana;0;0;0;0
+595;16/04/2020;13:15;ZARAGOZA01;Zaragoza;0;0;0;16;0;baja;cierre;0;0;3;0
+596;09/07/2022;8:30;CADIZ01;Cadiz;0;0;0;9;1;alta;manana;0;0;5;0
+597;18/12/2021;10:45;MADRID01;Madrid;1;0;0;18;1;alta;manana;1;0;5;1
+598;25/02/2023;9:15;MURCIA01;Murcia;0;0;0;25;1;alta;manana;0;1;5;0
+599;17/04/2025;9:30;ACORUNA01;A Coruna;1;0;0;17;0;baja;manana;1;0;3;0
+600;27/04/2023;12:30;BARCELONADIAGONAL01;Barcelona Diagonal;0;0;0;27;0;baja;cierre;0;1;3;0
+601;11/05/2021;14:15;BARCELONAMERIDIANA01;Barcelona Meridiana;0;0;0;11;0;baja;cierre;0;0;1;0
+602;16/05/2020;10:45;VALENCIA01;Valencia;0;0;0;16;1;baja;manana;0;0;5;0
+603;04/01/2022;14:30;BARCELONA01;Barcelona;0;0;0;4;0;alta;cierre;0;0;1;0
+604;19/12/2023;13:30;BARCELONA01;Barcelona;0;0;0;19;0;media;cierre;0;0;1;1
+605;06/09/2022;14:00;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;0;0;0;6;1;alta;cierre;0;0;1;0
+606;17/12/2024;11:00;BARCELONAMERIDIANA01;Barcelona Meridiana;0;0;0;17;0;media;manana;0;0;1;0
+607;16/05/2025;9:15;M?STOLES01;M?stoles;0;0;0;16;0;baja;manana;0;0;4;1
+608;07/12/2024;14:45;GIJON01;Gijon;1;0;0;7;0;baja;cierre;1;0;5;0
+609;27/07/2023;14:30;LASROZAS01;Las Rozas;0;0;0;27;0;media;cierre;0;1;3;0
+610;05/05/2021;8:45;ALICANTE01;Alicante;0;0;0;5;1;alta;manana;0;0;2;0
+611;20/07/2024;8:30;VALENCIA01;Valencia;1;0;0;20;1;alta;manana;1;0;5;0
+612;10/09/2024;12:00;LASROZAS01;Las Rozas;1;1;1;10;1;alta;cierre;1;0;1;0
+613;16/05/2022;11:30;MADRID01;Madrid;0;0;0;16;0;media;manana;0;0;0;0
+614;26/03/2024;13:30;BARCELONA01;Barcelona;0;0;0;26;0;media;cierre;0;1;1;0
+615;26/04/2023;12:45;MADRIDMOSTOLES01;Madrid Mostoles;1;1;1;26;1;media;cierre;1;1;2;0
+616;22/06/2022;14:30;MAJADAHONDA01;Majadahonda;0;0;0;22;0;media;cierre;0;0;2;0
+617;15/03/2022;8:15;SEVILLA01;Sevilla;1;0;0;15;0;media;manana;1;0;1;0
+618;10/08/2024;11:00;BILBAO01;Bilbao;0;0;0;10;0;media;manana;0;0;5;0
+619;25/06/2021;12:30;ODONNELL01;O Donnell;0;0;0;25;1;alta;cierre;0;1;4;1
+620;28/12/2022;12:15;LASPALMAS01;Las Palmas;1;0;0;28;0;media;cierre;1;1;2;0
+621;14/08/2020;13:00;M?STOLES01;M?stoles;0;0;0;14;1;alta;cierre;0;0;4;0
+622;27/05/2022;13:45;MAJADAHONDA01;Majadahonda;0;0;0;27;0;media;cierre;0;1;4;0
+623;24/08/2023;13:30;ACACIAS01;Acacias;0;0;0;24;1;alta;cierre;0;0;3;0
+624;13/02/2025;13:45;BARCELONA01;Barcelona;0;0;0;13;0;media;cierre;0;0;3;0
+625;07/03/2023;8:15;COSTARICA01;Costa Rica;0;0;0;7;1;media;manana;0;0;1;0
+626;12/04/2023;8:00;ALICANTE01;Alicante;1;0;0;12;1;alta;manana;1;0;2;0
+627;23/04/2020;10:45;COSTARICA01;Costa Rica;1;0;0;23;0;baja;manana;1;0;3;0
+628;28/02/2022;8:00;MAJADAHONDA01;Majadahonda;0;0;0;28;0;media;manana;0;1;0;0
+629;12/12/2023;9:15;COSTARICA01;Costa Rica;0;0;0;12;0;alta;manana;0;0;1;0
+630;14/02/2020;11:45;BARCELONA01;Barcelona;0;0;0;14;0;media;manana;0;0;4;0
+631;12/07/2024;10:45;GIJON01;Gijon;0;0;0;12;0;media;manana;0;0;4;0
+632;17/01/2025;12:15;MADRIDACACIAS01;Madrid Acacias;0;0;0;17;0;baja;cierre;0;0;4;0
+633;25/11/2020;11:00;BARCELONA01;Barcelona;0;0;0;25;1;baja;manana;0;1;2;0
+634;12/09/2020;14:45;SALAMANCA01;Salamanca;1;0;0;12;1;alta;cierre;1;0;5;1
+635;25/10/2022;12:45;CORDOBA01;Cordoba;0;0;0;25;1;baja;cierre;0;1;1;0
+636;02/11/2022;10:00;MADRID01;Madrid;0;0;0;2;0;baja;manana;0;0;2;0
+637;21/03/2024;13:30;MALAGA01;Malaga;1;0;0;21;0;media;cierre;1;0;3;0
+638;14/03/2020;9:45;SANTANDER01;Santander;1;0;1;14;0;baja;manana;1;0;5;0
+639;08/12/2021;11:15;LASROZAS01;Las Rozas;0;0;0;8;0;media;manana;0;0;2;0
+640;16/05/2022;14:30;BARCELONAMERIDIANA01;Barcelona Meridiana;1;0;1;16;0;media;cierre;1;0;0;0
+641;11/06/2024;8:30;VALENCIA01;Valencia;0;0;0;11;1;media;manana;0;0;1;0
+642;15/04/2021;12:30;MADRID01;Madrid;1;0;0;15;1;media;cierre;1;0;3;0
+643;11/04/2022;8:45;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;1;0;0;11;0;baja;manana;1;0;0;0
+644;23/05/2023;10:15;ODONNELL01;O Donnell;0;0;0;23;0;media;manana;0;0;1;0
+645;28/07/2020;8:45;ACORUNA01;A Coruna;0;0;0;28;0;baja;manana;0;1;1;0
+646;29/04/2025;8:15;TENERIFE01;Tenerife;1;0;0;29;0;alta;manana;1;1;1;0
+647;14/04/2021;13:00;MURCIA01;Murcia;1;0;0;14;0;baja;cierre;1;0;2;0
+648;11/06/2021;8:30;ACACIAS01;Acacias;1;0;1;11;0;baja;manana;1;0;4;0
+649;03/02/2024;9:15;BARCELONA01;Barcelona;0;0;0;3;0;baja;manana;0;0;5;0
+650;31/03/2020;14:15;VALENCIA01;Valencia;1;1;1;31;0;media;cierre;1;1;1;0
+651;09/11/2020;8:15;BARCELONA01;Barcelona;1;1;1;9;0;media;manana;1;0;0;0
+652;23/06/2021;12:15;ZARAGOZA01;Zaragoza;0;0;0;23;0;alta;cierre;0;0;2;1
+653;03/05/2022;14:15;BARCELONA01;Barcelona;0;0;0;3;0;media;cierre;0;0;1;0
+654;23/05/2022;10:15;ACACIAS01;Acacias;1;0;0;23;1;alta;manana;1;0;0;0
+655;30/07/2024;14:00;BARCELONADIAGONAL01;Barcelona Diagonal;0;0;0;30;0;baja;cierre;0;1;1;0
+656;04/03/2025;10:15;BILBAO01;Bilbao;0;0;0;4;0;media;manana;0;0;1;0
+657;05/10/2022;9:30;CADIZ01;Cadiz;1;0;0;5;1;alta;manana;1;0;2;0
+658;23/12/2024;14:15;ALICANTE01;Alicante;0;0;0;23;0;baja;cierre;0;0;0;0
+659;10/07/2024;8:00;COSTARICA01;Costa Rica;1;1;1;10;0;media;manana;1;0;2;0
+660;19/06/2020;9:00;MALAGA01;Malaga;1;0;1;19;0;baja;manana;1;0;4;0
+661;16/11/2022;10:15;SALAMANCA01;Salamanca;0;0;0;16;1;alta;manana;0;0;2;1
+662;20/07/2023;12:30;MADRIDACACIAS01;Madrid Acacias;0;0;0;20;1;alta;cierre;0;0;3;0
+663;24/08/2023;8:15;BARCELONADIAGONAL01;Barcelona Diagonal;0;0;0;24;0;baja;manana;0;0;3;0
+664;14/04/2021;10:00;BARCELONAMERIDIANA01;Barcelona Meridiana;0;0;0;14;1;alta;manana;0;0;2;0
+665;30/05/2023;9:45;MADRIDMOSTOLES01;Madrid Mostoles;0;0;0;30;0;baja;manana;0;1;1;0
+666;31/01/2023;12:00;ALICANTE01;Alicante;0;0;0;31;1;media;cierre;0;1;1;0
+667;23/11/2022;13:00;DIAGONAL01;Diagonal;0;0;0;23;1;alta;cierre;0;0;2;0
+668;08/11/2024;11:45;MADRIDODONNELL01;Madrid O Donnell;0;0;0;8;0;baja;manana;0;0;4;0
+669;26/11/2024;14:30;GIJON01;Gijon;1;0;0;26;0;alta;cierre;1;1;1;0
+670;05/03/2025;12:00;LASPALMASDEGC01;Las Palmas de GC;0;0;0;5;1;alta;cierre;0;0;2;0
+671;25/10/2023;11:15;SEVILLA01;Sevilla;0;0;0;25;1;baja;manana;0;1;2;0
+672;17/10/2023;12:00;SALAMANCA01;Salamanca;0;0;0;17;1;baja;cierre;0;0;1;0
+673;05/11/2021;13:30;ACACIAS01;Acacias;0;0;0;5;1;media;cierre;0;0;4;0
+674;15/06/2023;11:00;BARCELONADIAGONAL01;Barcelona Diagonal;0;0;0;15;0;alta;manana;0;0;3;0
+675;09/05/2020;8:45;VALENCIA01;Valencia;1;0;0;9;0;media;manana;1;0;5;0
+676;19/06/2023;14:45;LASPALMAS01;Las Palmas;0;0;0;19;0;media;cierre;0;0;0;0
+677;07/12/2023;11:00;BILBAO01;Bilbao;0;0;0;7;0;baja;manana;0;0;3;0
+678;16/01/2023;11:45;VALENCIA01;Valencia;0;0;0;16;1;media;manana;0;0;0;0
+679;16/04/2021;8:00;M?STOLES01;M?stoles;0;0;0;16;1;alta;manana;0;0;4;1
+680;23/01/2024;10:15;CADIZ01;Cadiz;0;0;0;23;0;baja;manana;0;0;1;1
+681;25/01/2022;8:15;DIAGONAL01;Diagonal;0;0;0;25;1;media;manana;0;1;1;0
+682;03/10/2023;10:30;MURCIA01;Murcia;0;0;0;3;0;media;manana;0;0;1;0
+683;09/11/2023;11:30;MALAGA01;Malaga;0;0;0;9;0;media;manana;0;0;3;0
+684;13/01/2024;11:45;SALAMANCA01;Salamanca;0;0;0;13;0;baja;manana;0;0;5;0
+685;20/05/2022;8:00;GIJON01;Gijon;0;0;0;20;1;baja;manana;0;0;4;0
+686;03/10/2020;14:15;BARCELONA01;Barcelona;0;0;0;3;1;alta;cierre;0;0;5;1
+687;22/02/2022;11:45;LASPALMASDEGC01;Las Palmas de GC;1;0;0;22;0;alta;manana;1;0;1;1
+688;10/06/2022;9:45;LASROZAS01;Las Rozas;0;0;0;10;0;baja;manana;0;0;4;0
+689;27/11/2021;10:45;LASPALMAS01;Las Palmas;0;0;0;27;0;baja;manana;0;1;5;0
+690;11/05/2023;11:45;SEVILLA01;Sevilla;0;0;0;11;0;alta;manana;0;0;3;0
+691;26/07/2023;13:00;OVIEDO01;Oviedo;1;0;0;26;0;baja;cierre;1;1;2;0
+692;07/02/2023;10:45;GIJON01;Gijon;1;0;0;7;0;media;manana;1;0;1;0
+693;05/08/2021;10:30;GIJON01;Gijon;1;0;0;5;1;alta;manana;1;0;3;0
+694;20/12/2022;10:15;CADIZ01;Cadiz;1;0;0;20;0;media;manana;1;0;1;1
+695;27/02/2024;13:45;CADIZ01;Cadiz;0;0;0;27;1;media;cierre;0;1;1;0
+696;31/01/2024;8:00;LASROZAS01;Las Rozas;1;0;0;31;0;media;manana;1;1;2;0
+697;10/01/2025;14:00;BARCELONA01;Barcelona;0;0;0;10;0;media;cierre;0;0;4;0
+698;22/11/2023;8:45;LASROZAS01;Las Rozas;1;0;0;22;1;alta;manana;1;0;2;0
+699;15/11/2023;8:30;BARCELONA01;Barcelona;0;0;0;15;0;alta;manana;0;0;2;1
+700;20/07/2020;14:15;MADRID01;Madrid;1;0;0;20;0;baja;cierre;1;0;0;0
+701;09/08/2024;12:00;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;1;0;0;9;0;media;cierre;1;0;4;0
+702;28/01/2023;12:30;SALAMANCA01;Salamanca;0;0;0;28;1;baja;cierre;0;1;5;0
+703;01/08/2022;13:00;DIAGONAL01;Diagonal;1;0;0;1;0;media;cierre;1;0;0;0
+704;25/01/2022;11:30;GIJON01;Gijon;1;0;0;25;1;alta;manana;1;1;1;0
+705;16/12/2023;14:45;MADRIDODONNELL01;Madrid O Donnell;0;0;0;16;0;alta;cierre;0;0;5;0
+706;08/01/2025;14:00;VIGO01;Vigo;0;0;0;8;1;alta;cierre;0;0;2;0
+707;05/02/2020;10:30;M?STOLES01;M?stoles;0;0;0;5;0;media;manana;0;0;2;0
+708;11/11/2023;10:00;ODONNELL01;O Donnell;1;0;0;11;0;baja;manana;1;0;5;1
+709;12/09/2024;12:15;LASPALMASDEGC01;Las Palmas de GC;0;0;0;12;0;baja;cierre;0;0;3;0
+710;06/02/2021;9:45;ZARAGOZA01;Zaragoza;1;0;0;6;1;media;manana;1;0;5;0
+711;11/12/2024;9:00;BARCELONAMERIDIANA01;Barcelona Meridiana;1;0;0;11;0;alta;manana;1;0;2;0
+712;08/07/2024;10:30;BARCELONA01;Barcelona;0;0;0;8;0;media;manana;0;0;0;0
+713;11/06/2024;8:30;VALENCIA01;Valencia;0;0;0;11;1;alta;manana;0;0;1;0
+714;14/08/2021;12:15;VALENCIA01;Valencia;0;0;0;14;0;media;cierre;0;0;5;0
+715;27/08/2021;14:45;VALENCIA01;Valencia;0;0;0;27;1;media;cierre;0;1;4;0
+716;24/05/2024;14:00;BARCELONAMERIDIANA01;Barcelona Meridiana;1;0;0;24;0;media;cierre;1;0;4;0
+717;12/09/2020;12:30;MADRID01;Madrid;1;1;1;12;0;media;cierre;1;0;5;0
+718;23/04/2024;8:15;MADRID01;Madrid;1;1;1;23;1;media;manana;1;0;1;0
+719;02/10/2023;10:30;VALENCIA01;Valencia;1;0;0;2;0;media;manana;1;0;0;0
+720;21/07/2023;10:30;BARCELONA01;Barcelona;1;0;1;21;0;baja;manana;1;0;4;0
+721;26/02/2024;8:15;VALENCIA01;Valencia;0;0;0;26;0;baja;manana;0;1;0;0
+722;04/09/2024;14:15;TENERIFE01;Tenerife;1;0;0;4;0;alta;cierre;1;0;2;0
+723;11/06/2021;12:45;ACORUNA01;A Coruna;0;0;0;11;1;alta;cierre;0;0;4;0
+724;05/11/2022;8:15;MADRID01;Madrid;1;0;0;5;1;alta;manana;1;0;5;0
+725;01/12/2023;13:00;SEVILLA01;Sevilla;1;0;0;1;1;alta;cierre;1;0;4;0
+726;16/07/2020;8:15;GIJON01;Gijon;1;1;1;16;0;alta;manana;1;0;3;0
+727;17/04/2020;11:45;MADRID01;Madrid;0;0;0;17;0;media;manana;0;0;4;0
+728;28/04/2022;11:30;SANTAENGRACIA01;Santa Engracia;1;0;0;28;0;alta;manana;1;1;3;1
+729;24/01/2025;9:30;SANTANDER01;Santander;1;0;1;24;1;baja;manana;1;0;4;0
+730;17/02/2020;10:30;ACACIAS01;Acacias;0;0;0;17;0;baja;manana;0;0;0;0
+731;25/09/2023;14:00;LASPALMAS01;Las Palmas;0;0;0;25;1;alta;cierre;0;1;0;0
+732;17/10/2024;8:15;MADRID01;Madrid;0;0;0;17;0;media;manana;0;0;3;0
+733;23/07/2020;9:00;BARCELONADIAGONAL01;Barcelona Diagonal;0;0;0;23;0;media;manana;0;0;3;0
+734;16/02/2022;13:00;ZARAGOZA01;Zaragoza;0;0;0;16;0;media;cierre;0;0;2;0
+735;14/06/2022;10:45;MADRIDODONNELL01;Madrid O Donnell;0;0;0;14;0;baja;manana;0;0;1;0
+736;19/01/2024;13:45;MADRID01;Madrid;0;0;0;19;1;media;cierre;0;0;4;0
+737;30/05/2025;11:45;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;0;0;0;30;0;baja;manana;0;1;4;0
+738;07/07/2023;11:30;TENERIFE01;Tenerife;1;0;0;7;0;media;manana;1;0;4;0
+739;17/07/2021;9:00;GRANADA01;Granada;0;0;0;17;0;baja;manana;0;0;5;0
+740;24/06/2021;10:45;MADRID01;Madrid;0;0;0;24;0;media;manana;0;0;3;0
+741;09/09/2022;8:30;LASPALMAS01;Las Palmas;0;0;0;9;0;baja;manana;0;0;4;1
+742;28/11/2022;13:45;LASPALMASDEGC01;Las Palmas de GC;1;0;0;28;0;baja;cierre;1;1;0;0
+743;03/07/2024;12:30;SANTAENGRACIA01;Santa Engracia;0;0;0;3;0;baja;cierre;0;0;2;0
+744;02/05/2023;8:15;ACORUNA01;A Coruna;0;0;0;2;0;media;manana;0;0;1;0
+745;03/04/2021;11:00;BARCELONADIAGONAL01;Barcelona Diagonal;1;0;0;3;1;baja;manana;1;0;5;0
+746;17/02/2021;8:15;CORDOBA01;Cordoba;0;0;0;17;0;media;manana;0;0;2;0
+747;12/08/2020;10:15;SALAMANCA01;Salamanca;0;0;0;12;1;media;manana;0;0;2;0
+748;20/08/2021;14:15;MALAGA01;Malaga;1;0;0;20;0;baja;cierre;1;0;4;0
+749;13/12/2023;14:30;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;0;0;0;13;0;media;cierre;0;0;2;1
+750;26/12/2024;10:30;MADRID01;Madrid;0;0;0;26;0;baja;manana;0;1;3;0
+751;12/07/2024;8:00;LASROZAS01;Las Rozas;0;0;0;12;0;media;manana;0;0;4;0
+752;28/08/2024;11:45;SANTANDER01;Santander;1;0;0;28;0;media;manana;1;1;2;0
+753;03/09/2022;9:15;TENERIFE01;Tenerife;0;0;0;3;0;media;manana;0;0;5;0
+754;09/01/2023;11:15;VALLADOLID01;Valladolid;1;0;0;9;0;baja;manana;1;0;0;0
+755;14/01/2023;12:30;MADRIDODONNELL01;Madrid O Donnell;0;0;0;14;1;media;cierre;0;0;5;0
+756;14/09/2023;8:45;BARCELONADIAGONAL01;Barcelona Diagonal;0;0;0;14;0;media;manana;0;0;3;0
+757;08/06/2020;14:00;MADRID01;Madrid;0;0;0;8;0;media;cierre;0;0;0;0
+758;10/03/2020;11:00;GIJON01;Gijon;0;0;0;10;0;alta;manana;0;0;1;0
+759;22/02/2025;11:00;MADRID01;Madrid;1;0;1;22;1;alta;manana;1;0;5;0
+760;25/03/2022;14:30;COSTARICA01;Costa Rica;1;0;1;25;0;baja;cierre;1;1;4;0
+761;10/03/2022;12:45;CADIZ01;Cadiz;0;0;0;10;0;media;cierre;0;0;3;0
+762;23/07/2020;12:45;MADRIDODONNELL01;Madrid O Donnell;1;0;1;23;0;baja;cierre;1;0;3;0
+763;24/08/2022;13:45;GRANADA01;Granada;1;0;0;24;1;alta;cierre;1;0;2;0
+764;23/10/2023;10:00;BARCELONA01;Barcelona;0;0;0;23;0;media;manana;0;0;0;0
+765;04/04/2020;11:00;MADRID01;Madrid;0;0;0;4;0;media;manana;0;0;5;0
+766;17/11/2022;10:15;VALLADOLID01;Valladolid;1;0;0;17;0;alta;manana;1;0;3;0
+767;11/01/2024;14:45;BILBAO01;Bilbao;0;0;0;11;0;media;cierre;0;0;3;1
+768;27/08/2020;14:30;VALENCIA01;Valencia;0;0;0;27;0;media;cierre;0;1;3;0
+769;25/06/2022;8:45;MADRIDODONNELL01;Madrid O Donnell;1;0;1;25;1;alta;manana;1;1;5;0
+770;30/01/2024;14:00;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;0;0;0;30;0;media;cierre;0;1;1;0
+771;27/01/2024;9:45;GIJON01;Gijon;1;0;0;27;0;media;manana;1;1;5;1
+772;25/01/2025;12:45;MADRIDMOSTOLES01;Madrid Mostoles;1;0;0;25;1;alta;cierre;1;1;5;1
+773;04/10/2024;12:00;ODONNELL01;O Donnell;0;0;0;4;0;media;cierre;0;0;4;0
+774;20/08/2024;11:30;LASPALMAS01;Las Palmas;0;0;0;20;0;baja;manana;0;0;1;0
+775;26/02/2020;13:30;MALAGA01;Malaga;1;0;0;26;0;media;cierre;1;1;2;0
+776;03/02/2024;9:30;MADRID01;Madrid;0;0;0;3;0;alta;manana;0;0;5;0
+777;27/04/2024;14:15;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;0;0;0;27;1;alta;cierre;0;1;5;0
+778;18/01/2025;8:00;ALICANTE01;Alicante;0;0;0;18;1;media;manana;0;0;5;0
+779;16/10/2023;12:15;LASPALMAS01;Las Palmas;1;0;0;16;0;baja;cierre;1;0;0;1
+780;04/09/2024;14:30;ODONNELL01;O Donnell;1;0;0;4;0;media;cierre;1;0;2;0
+781;02/01/2025;10:15;MADRID01;Madrid;0;0;0;2;0;media;manana;0;0;3;0
+782;17/07/2024;9:00;MADRID01;Madrid;0;0;0;17;1;media;manana;0;0;2;0
+783;06/03/2025;9:30;LASROZAS01;Las Rozas;1;0;1;6;0;media;manana;1;0;3;0
+784;05/03/2024;9:15;SANTANDER01;Santander;0;0;0;5;0;baja;manana;0;0;1;1
+785;19/02/2022;12:15;COSTARICA01;Costa Rica;0;0;0;19;0;media;cierre;0;0;5;1
+786;12/07/2021;14:00;SANTANDER01;Santander;1;0;0;12;0;baja;cierre;1;0;0;0
+787;27/02/2023;9:45;SANTANDER01;Santander;0;0;0;27;1;media;manana;0;1;0;0
+788;15/05/2023;11:45;SANTANDER01;Santander;0;0;0;15;0;media;manana;0;0;0;0
+789;28/05/2024;13:30;MALAGA01;Malaga;0;0;0;28;1;baja;cierre;0;1;1;1
+790;24/05/2022;14:30;MADRIDODONNELL01;Madrid O Donnell;0;0;0;24;0;media;cierre;0;0;1;0
+791;19/07/2022;9:45;MALAGA01;Malaga;1;0;1;19;0;media;manana;1;0;1;0
+792;23/02/2023;8:45;CORDOBA01;Cordoba;0;0;0;23;1;alta;manana;0;0;3;0
+793;01/03/2021;11:30;BARCELONA01;Barcelona;0;0;0;1;1;baja;manana;0;0;0;0
+794;28/02/2023;14:30;MURCIA01;Murcia;1;0;0;28;0;baja;cierre;1;1;1;0
+795;27/08/2024;12:00;MADRID01;Madrid;0;0;0;27;0;media;cierre;0;1;1;0
+796;05/03/2022;10:00;VIGO01;Vigo;1;0;0;5;0;baja;manana;1;0;5;0
+797;18/03/2021;10:45;VALENCIA01;Valencia;0;0;0;18;1;media;manana;0;0;3;0
+798;10/05/2023;11:00;MURCIA01;Murcia;0;0;0;10;0;media;manana;0;0;2;0
+799;20/09/2023;8:30;M?STOLES01;M?stoles;0;0;0;20;0;baja;manana;0;0;2;0
+800;18/06/2024;14:30;COSTARICA01;Costa Rica;0;0;0;18;0;media;cierre;0;0;1;0
+801;15/03/2022;8:00;VALENCIA01;Valencia;0;0;0;15;0;baja;manana;0;0;1;1
+802;16/04/2020;12:45;BARCELONA01;Barcelona;0;0;0;16;0;baja;cierre;0;0;3;0
+803;09/04/2022;11:00;M?STOLES01;M?stoles;0;0;0;9;0;media;manana;0;0;5;0
+804;11/05/2024;11:15;BARCELONA01;Barcelona;1;0;0;11;1;media;manana;1;0;5;0
+805;27/11/2023;10:45;ALICANTE01;Alicante;0;0;0;27;0;media;manana;0;1;0;0
+806;30/09/2021;12:15;LASROZAS01;Las Rozas;1;0;0;30;0;media;cierre;1;1;3;1
+807;19/05/2022;8:45;SANTANDER01;Santander;0;0;0;19;1;baja;manana;0;0;3;0
+808;27/10/2022;8:30;VIGO01;Vigo;0;0;0;27;0;media;manana;0;1;3;0
+809;19/02/2020;13:00;ZARAGOZA01;Zaragoza;0;0;0;19;0;alta;cierre;0;0;2;0
+810;28/05/2022;12:15;MADRID01;Madrid;0;0;0;28;1;baja;cierre;0;1;5;0
+811;17/08/2021;8:15;VALENCIA01;Valencia;0;0;0;17;0;media;manana;0;0;1;0
+812;13/02/2023;13:45;VALENCIA01;Valencia;0;0;0;13;0;media;cierre;0;0;0;0
+813;18/10/2023;11:15;BARCELONA01;Barcelona;0;0;0;18;0;media;manana;0;0;2;0
+814;26/12/2023;10:30;VALENCIA01;Valencia;0;0;0;26;1;alta;manana;0;1;1;0
+815;09/01/2023;10:45;MURCIA01;Murcia;0;0;0;9;0;baja;manana;0;0;0;0
+816;30/06/2021;11:30;BILBAO01;Bilbao;1;0;0;30;0;baja;manana;1;1;2;1
+817;19/05/2022;13:00;SANTAENGRACIA01;Santa Engracia;0;0;0;19;0;baja;cierre;0;0;3;0
+818;11/06/2022;14:30;ODONNELL01;O Donnell;0;0;0;11;0;baja;cierre;0;0;5;0
+819;03/01/2023;8:30;ACACIAS01;Acacias;0;0;0;3;0;baja;manana;0;0;1;0
+820;15/12/2022;8:45;COSTARICA01;Costa Rica;0;0;0;15;0;media;manana;0;0;3;0
+821;25/02/2025;10:30;VALENCIA01;Valencia;1;0;0;25;1;baja;manana;1;1;1;0
+822;12/02/2025;13:15;CADIZ01;Cadiz;0;0;0;12;0;media;cierre;0;0;2;0
+823;27/02/2024;10:00;MADRID01;Madrid;0;0;0;27;0;baja;manana;0;1;1;1
+824;07/04/2021;12:15;MADRID01;Madrid;1;0;0;7;0;media;cierre;1;0;2;0
+825;08/04/2025;10:30;SEVILLA01;Sevilla;0;0;0;8;0;media;manana;0;0;1;0
+826;14/11/2022;13:45;BARCELONADIAGONAL01;Barcelona Diagonal;1;0;1;14;1;alta;cierre;1;0;0;0
+827;29/10/2020;9:00;ACACIAS01;Acacias;0;0;0;29;1;alta;manana;0;1;3;1
+828;22/04/2022;10:45;MADRID01;Madrid;1;0;0;22;0;media;manana;1;0;4;1
+829;17/06/2021;13:30;GRANADA01;Granada;1;0;0;17;1;alta;cierre;1;0;3;1
+830;14/01/2020;14:15;LASPALMAS01;Las Palmas;0;0;0;14;0;baja;cierre;0;0;1;0
+831;03/09/2022;13:00;SALAMANCA01;Salamanca;0;0;0;3;1;alta;cierre;0;0;5;0
+832;04/08/2022;13:45;ZARAGOZA01;Zaragoza;0;0;0;4;0;baja;cierre;0;0;3;0
+833;14/02/2024;12:30;GIJON01;Gijon;0;0;0;14;0;media;cierre;0;0;2;0
+834;24/02/2024;8:30;BARCELONA01;Barcelona;0;0;0;24;0;alta;manana;0;0;5;0
+835;07/11/2022;10:15;LASROZAS01;Las Rozas;0;0;0;7;0;baja;manana;0;0;0;0
+836;06/05/2023;9:30;CADIZ01;Cadiz;1;0;0;6;0;baja;manana;1;0;5;0
+837;16/09/2023;14:45;CADIZ01;Cadiz;0;0;0;16;0;media;cierre;0;0;5;0
+838;20/04/2023;9:15;ACORUNA01;A Coruna;0;0;0;20;1;media;manana;0;0;3;0
+839;19/03/2021;9:15;BARCELONADIAGONAL01;Barcelona Diagonal;1;0;0;19;0;baja;manana;1;0;4;0
+840;15/07/2023;8:30;MADRIDODONNELL01;Madrid O Donnell;0;0;0;15;0;baja;manana;0;0;5;0
+841;22/06/2020;14:00;MADRIDMOSTOLES01;Madrid Mostoles;0;0;0;22;0;media;cierre;0;0;0;1
+842;21/09/2020;12:00;TENERIFE01;Tenerife;0;0;0;21;0;media;cierre;0;0;0;0
+843;10/02/2024;13:30;BARCELONADIAGONAL01;Barcelona Diagonal;0;0;0;10;1;alta;cierre;0;0;5;0
+844;28/07/2020;14:15;MADRID01;Madrid;0;0;0;28;1;alta;cierre;0;1;1;0
+845;07/10/2022;12:45;VALENCIA01;Valencia;0;0;0;7;1;media;cierre;0;0;4;0
+846;01/04/2024;9:15;LASROZAS01;Las Rozas;0;0;0;1;1;baja;manana;0;0;0;0
+847;16/03/2020;9:15;GRANADA01;Granada;0;0;0;16;0;alta;manana;0;0;0;0
+848;16/01/2024;13:45;LASROZAS01;Las Rozas;0;0;0;16;0;alta;cierre;0;0;1;0
+849;07/09/2022;8:45;MAJADAHONDA01;Majadahonda;0;0;0;7;1;alta;manana;0;0;2;0
+850;01/08/2022;10:15;BARCELONA01;Barcelona;0;0;0;1;0;baja;manana;0;0;0;0
+851;30/03/2022;11:30;VALENCIA01;Valencia;0;0;0;30;0;baja;manana;0;1;2;0
+852;29/10/2024;14:45;LASPALMAS01;Las Palmas;0;0;0;29;0;baja;cierre;0;1;1;0
+853;26/04/2025;9:15;BARCELONA01;Barcelona;1;0;0;26;0;media;manana;1;1;5;0
+854;05/05/2020;10:45;OVIEDO01;Oviedo;0;0;0;5;1;alta;manana;0;0;1;0
+855;24/08/2023;14:15;VALENCIA01;Valencia;0;0;0;24;1;media;cierre;0;0;3;0
+856;27/08/2021;10:45;OVIEDO01;Oviedo;1;1;1;27;0;baja;manana;1;1;4;0
+857;01/04/2021;11:30;ACACIAS01;Acacias;0;0;0;1;0;media;manana;0;0;3;0
+858;24/04/2021;14:45;ODONNELL01;O Donnell;0;0;0;24;0;alta;cierre;0;0;5;0
+859;02/09/2022;12:45;CADIZ01;Cadiz;0;0;0;2;0;media;cierre;0;0;4;0
+860;04/09/2021;9:15;MADRID01;Madrid;0;0;0;4;0;media;manana;0;0;5;1
+861;17/07/2021;14:15;TENERIFE01;Tenerife;1;0;0;17;0;media;cierre;1;0;5;0
+862;22/04/2022;14:30;ODONNELL01;O Donnell;1;0;0;22;1;baja;cierre;1;0;4;0
+863;04/07/2022;8:45;DIAGONAL01;Diagonal;1;0;0;4;0;media;manana;1;0;0;0
+864;30/09/2024;14:30;ACACIAS01;Acacias;0;0;0;30;1;alta;cierre;0;1;0;0
+865;27/05/2023;12:00;BARCELONA01;Barcelona;0;0;0;27;0;media;cierre;0;1;5;0
+866;29/03/2023;13:00;MADRIDMOSTOLES01;Madrid Mostoles;1;0;0;29;0;alta;cierre;1;1;2;0
+867;05/03/2025;10:00;SALAMANCA01;Salamanca;1;1;1;5;1;alta;manana;1;0;2;0
+868;16/03/2022;14:15;SEVILLA01;Sevilla;0;0;0;16;1;alta;cierre;0;0;2;1
+869;28/04/2022;10:45;BARCELONA01;Barcelona;0;0;0;28;0;media;manana;0;1;3;0
+870;25/10/2024;12:15;BARCELONADIAGONAL01;Barcelona Diagonal;0;0;0;25;1;alta;cierre;0;1;4;0
+871;08/04/2020;14:45;MAJADAHONDA01;Majadahonda;0;0;0;8;0;baja;cierre;0;0;2;0
+872;18/10/2023;8:15;BARCELONA01;Barcelona;1;0;0;18;0;media;manana;1;0;2;0
+873;08/08/2023;14:45;COSTARICA01;Costa Rica;1;0;0;8;1;alta;cierre;1;0;1;1
+874;31/07/2023;10:00;TENERIFE01;Tenerife;1;0;0;31;1;alta;manana;1;1;0;1
+875;25/06/2021;11:00;SANTANDER01;Santander;0;0;0;25;1;baja;manana;0;1;4;0
+876;02/01/2020;11:30;MAJADAHONDA01;Majadahonda;0;0;0;2;0;media;manana;0;0;3;1
+877;02/03/2020;9:45;CORDOBA01;Cordoba;1;0;0;2;1;baja;manana;1;0;0;0
+878;25/03/2022;8:30;ACACIAS01;Acacias;1;0;0;25;1;media;manana;1;1;4;0
+879;02/05/2022;9:00;ODONNELL01;O Donnell;0;0;0;2;0;media;manana;0;0;0;0
+880;10/10/2024;10:00;BARCELONA01;Barcelona;0;0;0;10;0;media;manana;0;0;3;0
+881;16/06/2021;14:30;VIGO01;Vigo;0;0;0;16;0;baja;cierre;0;0;2;0
+882;11/11/2022;14:15;LASPALMASDEGC01;Las Palmas de GC;0;0;0;11;0;media;cierre;0;0;4;0
+883;31/07/2021;9:00;MURCIA01;Murcia;0;0;0;31;0;baja;manana;0;1;5;0
+884;11/02/2020;10:45;ALICANTE01;Alicante;1;0;0;11;1;media;manana;1;0;1;0
+885;18/06/2024;13:15;SANTAENGRACIA01;Santa Engracia;0;0;0;18;0;alta;cierre;0;0;1;1
+886;22/04/2020;14:45;CADIZ01;Cadiz;0;0;0;22;0;baja;cierre;0;0;2;0
+887;24/07/2023;11:00;GRANADA01;Granada;0;0;0;24;1;alta;manana;0;0;0;0
+888;17/02/2025;8:00;MAJADAHONDA01;Majadahonda;0;0;0;17;0;alta;manana;0;0;0;0
+889;01/07/2020;10:15;MADRID01;Madrid;0;0;0;1;0;media;manana;0;0;2;0
+890;22/10/2020;14:15;MADRIDACACIAS01;Madrid Acacias;1;0;0;22;1;media;cierre;1;0;3;0
+891;12/03/2022;12:45;MAJADAHONDA01;Majadahonda;1;0;0;12;0;media;cierre;1;0;5;0
+892;03/06/2021;8:30;BARCELONAMERIDIANA01;Barcelona Meridiana;0;0;0;3;0;media;manana;0;0;3;0
+893;20/05/2020;9:30;DIAGONAL01;Diagonal;1;0;0;20;0;baja;manana;1;0;2;1
+894;04/07/2022;8:00;BARCELONAMERIDIANA01;Barcelona Meridiana;0;0;0;4;0;baja;manana;0;0;0;1
+895;29/04/2024;9:45;MADRID01;Madrid;1;0;0;29;0;media;manana;1;1;0;1
+896;12/11/2020;13:45;OVIEDO01;Oviedo;0;0;0;12;1;alta;cierre;0;0;3;1
+897;03/07/2023;8:00;MADRIDMOSTOLES01;Madrid Mostoles;0;0;0;3;1;alta;manana;0;0;0;0
+898;05/10/2020;14:45;BARCELONA01;Barcelona;0;0;0;5;1;alta;cierre;0;0;0;0
+899;06/04/2021;12:00;MADRID01;Madrid;0;0;0;6;0;media;cierre;0;0;1;0
+900;21/03/2023;13:15;M?STOLES01;M?stoles;0;0;0;21;0;baja;cierre;0;0;1;0
+901;24/06/2022;13:15;GRANADA01;Granada;0;0;0;24;0;media;cierre;0;0;4;1
+902;20/04/2021;10:45;BARCELONA01;Barcelona;0;0;0;20;0;media;manana;0;0;1;0
+903;13/01/2022;8:30;BARCELONAMERIDIANA01;Barcelona Meridiana;0;0;0;13;0;media;manana;0;0;3;0
+904;29/06/2022;9:45;SANTANDER01;Santander;0;0;0;29;0;media;manana;0;1;2;0
+905;25/04/2024;9:00;BILBAO01;Bilbao;1;0;0;25;1;media;manana;1;1;3;0
+906;27/12/2022;12:30;ZARAGOZA01;Zaragoza;0;0;0;27;0;baja;cierre;0;1;1;0
+907;03/01/2024;8:00;SEVILLA01;Sevilla;0;0;0;3;1;alta;manana;0;0;2;0
+908;30/01/2024;11:45;BARCELONA01;Barcelona;0;0;0;30;0;media;manana;0;1;1;1
+909;07/10/2022;8:45;VALENCIA01;Valencia;1;0;0;7;0;baja;manana;1;0;4;0
+910;16/11/2021;10:30;LASROZAS01;Las Rozas;0;0;0;16;0;media;manana;0;0;1;0
+911;30/03/2020;13:00;BILBAO01;Bilbao;1;0;0;30;0;media;cierre;1;1;0;1
+912;31/05/2021;10:00;TENERIFE01;Tenerife;1;0;0;31;0;media;manana;1;1;0;0
+913;02/05/2020;10:15;TENERIFE01;Tenerife;0;0;0;2;1;alta;manana;0;0;5;0
+914;12/09/2024;13:00;VALLADOLID01;Valladolid;0;0;0;12;0;media;cierre;0;0;3;0
+915;25/06/2022;14:30;M?STOLES01;M?stoles;1;0;0;25;1;alta;cierre;1;1;5;1
+916;26/05/2022;9:00;BARCELONA01;Barcelona;0;0;0;26;1;alta;manana;0;1;3;0
+917;13/08/2022;10:30;MADRID01;Madrid;1;0;0;13;0;media;manana;1;0;5;0
+918;29/04/2024;14:15;MADRIDMOSTOLES01;Madrid Mostoles;0;0;0;29;0;media;cierre;0;1;0;1
+919;25/04/2020;14:45;MADRID01;Madrid;0;0;0;25;1;media;cierre;0;1;5;0
+920;04/08/2022;13:45;VALENCIA01;Valencia;0;0;0;4;1;baja;cierre;0;0;3;1
+921;03/06/2024;13:15;SANTANDER01;Santander;0;0;0;3;0;alta;cierre;0;0;0;1
+922;15/10/2022;14:15;SEVILLA01;Sevilla;0;0;0;15;0;baja;cierre;0;0;5;1
+923;31/05/2021;8:45;MADRIDMOSTOLES01;Madrid Mostoles;0;0;0;31;0;media;manana;0;1;0;0
+924;14/06/2021;8:30;VALENCIA01;Valencia;0;0;0;14;0;media;manana;0;0;0;0
+925;02/05/2024;9:00;MADRID01;Madrid;0;0;0;2;0;baja;manana;0;0;3;0
+926;21/10/2020;14:15;VALENCIA01;Valencia;1;0;0;21;0;media;cierre;1;0;2;0
+927;15/07/2020;8:30;VALLADOLID01;Valladolid;1;0;0;15;0;media;manana;1;0;2;0
+928;22/11/2024;10:45;ODONNELL01;O Donnell;0;0;0;22;1;alta;manana;0;0;4;0
+929;14/03/2023;14:45;BILBAO01;Bilbao;0;0;0;14;0;media;cierre;0;0;1;0
+930;03/06/2024;10:00;MADRIDMOSTOLES01;Madrid Mostoles;0;0;0;3;0;media;manana;0;0;0;0
+931;25/04/2023;14:15;MADRIDODONNELL01;Madrid O Donnell;0;0;0;25;1;alta;cierre;0;1;1;0
+932;02/10/2021;10:30;VALENCIA01;Valencia;0;0;0;2;1;alta;manana;0;0;5;0
+933;20/06/2022;14:00;ALICANTE01;Alicante;0;0;0;20;1;alta;cierre;0;0;0;0
+934;01/09/2023;14:30;CADIZ01;Cadiz;1;0;0;1;0;baja;cierre;1;0;4;0
+935;03/03/2025;10:00;BARCELONADIAGONAL01;Barcelona Diagonal;1;0;0;3;0;baja;manana;1;0;0;1
+936;06/04/2020;14:30;MADRIDACACIAS01;Madrid Acacias;0;0;0;6;1;media;cierre;0;0;0;0
+937;06/06/2020;11:45;VALENCIA01;Valencia;0;0;0;6;1;alta;manana;0;0;5;0
+938;03/08/2022;13:45;LASPALMAS01;Las Palmas;1;0;0;3;0;baja;cierre;1;0;2;0
+939;03/12/2022;11:30;ODONNELL01;O Donnell;0;0;0;3;1;media;manana;0;0;5;1
+940;12/06/2020;9:45;MADRID01;Madrid;1;0;0;12;0;media;manana;1;0;4;0
+941;05/08/2020;13:45;MADRID01;Madrid;0;0;0;5;0;media;cierre;0;0;2;0
+942;19/08/2024;10:30;ALICANTE01;Alicante;1;0;0;19;0;media;manana;1;0;0;0
+943;28/05/2024;14:00;MALAGA01;Malaga;0;0;0;28;0;baja;cierre;0;1;1;0
+944;20/07/2022;13:45;MADRID01;Madrid;0;0;0;20;0;media;cierre;0;0;2;0
+945;26/12/2024;8:45;SANTANDER01;Santander;0;0;0;26;1;baja;manana;0;1;3;1
+946;14/03/2023;12:15;VALENCIA01;Valencia;0;0;0;14;0;alta;cierre;0;0;1;0
+947;23/03/2020;12:30;ACORUNA01;A Coruna;1;0;0;23;0;baja;cierre;1;0;0;1
+948;07/10/2021;10:00;VALENCIA01;Valencia;0;0;0;7;1;alta;manana;0;0;3;1
+949;04/03/2020;8:30;BARCELONA01;Barcelona;1;0;0;4;1;media;manana;1;0;2;0
+950;16/10/2024;13:30;GIJON01;Gijon;0;0;0;16;0;media;cierre;0;0;2;0
+951;29/08/2020;10:45;VALENCIA01;Valencia;1;0;0;29;0;baja;manana;1;1;5;0
+952;29/05/2020;12:45;BILBAO01;Bilbao;1;0;0;29;0;baja;cierre;1;1;4;0
+953;21/02/2020;9:45;BARCELONA01;Barcelona;1;0;0;21;0;alta;manana;1;0;4;1
+954;12/05/2020;10:45;LASROZAS01;Las Rozas;0;0;0;12;0;alta;manana;0;0;1;0
+955;22/06/2022;8:30;BARCELONA01;Barcelona;0;0;0;22;0;media;manana;0;0;2;0
+956;02/12/2023;12:45;SANTAENGRACIA01;Santa Engracia;1;0;1;2;1;baja;cierre;1;0;5;0
+957;01/10/2022;10:00;MAJADAHONDA01;Majadahonda;1;0;0;1;0;baja;manana;1;0;5;1
+958;22/04/2020;8:45;MADRID01;Madrid;0;0;0;22;0;baja;manana;0;0;2;0
+959;18/07/2024;10:15;ALICANTE01;Alicante;1;0;1;18;0;media;manana;1;0;3;0
+960;11/01/2025;8:15;MADRID01;Madrid;1;0;0;11;1;baja;manana;1;0;5;0
+961;03/12/2022;14:45;VALLADOLID01;Valladolid;0;0;0;3;0;alta;cierre;0;0;5;1
+962;03/03/2021;8:15;VALENCIA01;Valencia;1;0;1;3;0;alta;manana;1;0;2;0
+963;03/12/2022;8:15;BILBAO01;Bilbao;0;0;0;3;0;media;manana;0;0;5;0
+964;27/11/2020;14:30;BILBAO01;Bilbao;0;0;0;27;0;media;cierre;0;1;4;0
+965;18/12/2023;10:45;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;1;0;0;18;1;alta;manana;1;0;0;0
+966;18/12/2023;12:00;CADIZ01;Cadiz;0;0;0;18;0;baja;cierre;0;0;0;0
+967;04/03/2022;12:15;VALLADOLID01;Valladolid;1;0;0;4;1;alta;cierre;1;0;4;0
+968;20/04/2020;13:45;GIJON01;Gijon;0;0;0;20;0;media;cierre;0;0;0;0
+969;10/03/2022;10:30;BARCELONADIAGONAL01;Barcelona Diagonal;0;0;0;10;0;baja;manana;0;0;3;0
+970;13/03/2020;11:00;M?STOLES01;M?stoles;1;0;0;13;0;media;manana;1;0;4;0
+971;25/01/2022;12:15;VALENCIA01;Valencia;0;0;0;25;1;media;cierre;0;1;1;0
+972;29/06/2023;12:30;GRANADA01;Granada;0;0;0;29;0;baja;cierre;0;1;3;0
+973;21/08/2024;11:30;CORDOBA01;Cordoba;1;1;1;21;1;alta;manana;1;0;2;0
+974;06/05/2023;13:30;ZARAGOZA01;Zaragoza;1;1;1;6;0;baja;cierre;1;0;5;0
+975;05/11/2024;9:00;ZARAGOZA01;Zaragoza;1;0;0;5;0;media;manana;1;0;1;0
+976;17/12/2021;8:15;BARCELONA01;Barcelona;0;0;0;17;1;alta;manana;0;0;4;0
+977;22/03/2022;11:45;SANTANDER01;Santander;0;0;0;22;1;baja;manana;0;0;1;0
+978;23/09/2021;12:00;VALENCIA01;Valencia;0;0;0;23;1;media;cierre;0;0;3;0
+979;23/08/2024;10:30;VALENCIA01;Valencia;0;0;0;23;0;baja;manana;0;0;4;0
+980;20/09/2022;13:45;VALENCIA01;Valencia;1;0;0;20;0;baja;cierre;1;0;1;0
+981;02/01/2025;9:30;ACACIAS01;Acacias;0;0;0;2;0;media;manana;0;0;3;0
+982;07/02/2022;13:45;VALENCIA01;Valencia;1;0;0;7;0;media;cierre;1;0;0;0
+983;01/10/2020;9:00;MADRID01;Madrid;0;0;0;1;0;media;manana;0;0;3;0
+984;11/09/2021;9:00;ACACIAS01;Acacias;1;0;0;11;0;media;manana;1;0;5;0
+985;15/02/2021;11:15;BARCELONA01;Barcelona;0;0;0;15;1;media;manana;0;0;0;0
+986;23/06/2023;13:45;MADRID01;Madrid;0;0;0;23;0;media;cierre;0;0;4;0
+987;07/10/2021;8:30;VALENCIA01;Valencia;0;0;0;7;0;baja;manana;0;0;3;0
+988;31/07/2023;13:30;ODONNELL01;O Donnell;0;0;0;31;0;media;cierre;0;1;0;0
+989;25/07/2023;13:00;MALAGA01;Malaga;1;0;1;25;1;alta;cierre;1;1;1;0
+990;30/07/2022;12:30;MADRID01;Madrid;1;0;0;30;0;media;cierre;1;1;5;0
+991;21/10/2020;10:15;LASPALMASDEGC01;Las Palmas de GC;0;0;0;21;1;alta;manana;0;0;2;1
+992;26/02/2020;13:15;ACACIAS01;Acacias;0;0;0;26;0;media;cierre;0;1;2;0
+993;19/09/2023;14:30;MURCIA01;Murcia;0;0;0;19;0;alta;cierre;0;0;1;0
+994;09/09/2020;12:15;MURCIA01;Murcia;0;0;0;9;0;alta;cierre;0;0;2;0
+995;08/10/2020;8:15;CORDOBA01;Cordoba;0;0;0;8;0;media;manana;0;0;3;0
+996;05/07/2023;14:15;VIGO01;Vigo;0;0;0;5;0;media;cierre;0;0;2;0
+997;19/02/2021;9:45;BARCELONA01;Barcelona;1;0;1;19;0;media;manana;1;0;4;1
+998;07/05/2020;8:30;BARCELONA01;Barcelona;0;0;0;7;0;alta;manana;0;0;3;1
+999;12/09/2022;12:30;BARCELONAMERIDIANA01;Barcelona Meridiana;1;0;0;12;0;media;cierre;1;0;0;0
+1000;27/02/2020;11:15;VALENCIA01;Valencia;0;0;0;27;0;media;manana;0;1;3;0
+1001;14/03/2025;12:00;ODONNELL01;O Donnell;0;0;0;14;0;baja;cierre;0;0;4;0
+1002;04/02/2021;8:30;BARCELONAMERIDIANA01;Barcelona Meridiana;0;0;0;4;1;media;manana;0;0;3;0
+1003;31/05/2023;11:45;SANTAENGRACIA01;Santa Engracia;0;0;0;31;0;baja;manana;0;1;2;1
+1004;11/08/2022;12:45;COSTARICA01;Costa Rica;0;0;0;11;0;baja;cierre;0;0;3;0
+1005;02/03/2024;14:45;SANTANDER01;Santander;1;0;0;2;0;media;cierre;1;0;5;1
+1006;11/01/2020;14:00;MADRID01;Madrid;0;0;0;11;0;media;cierre;0;0;5;0
+1007;14/01/2022;9:30;LASPALMAS01;Las Palmas;0;0;0;14;1;media;manana;0;0;4;0
+1008;27/02/2024;13:00;MALAGA01;Malaga;1;0;0;27;1;baja;cierre;1;1;1;0
+1009;04/05/2022;11:45;ZARAGOZA01;Zaragoza;0;0;0;4;0;baja;manana;0;0;2;0
+1010;23/12/2020;13:30;BARCELONADIAGONAL01;Barcelona Diagonal;0;0;0;23;0;baja;cierre;0;0;2;0
+1011;31/01/2022;9:15;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;0;0;0;31;0;media;manana;0;1;0;0
+1012;07/03/2020;14:15;MADRIDODONNELL01;Madrid O Donnell;0;0;0;7;0;media;cierre;0;0;5;0
+1013;12/05/2022;11:00;LASROZAS01;Las Rozas;0;0;0;12;1;media;manana;0;0;3;1
+1014;14/09/2021;14:00;OVIEDO01;Oviedo;1;0;0;14;1;baja;cierre;1;0;1;0
+1015;15/07/2021;12:15;ALICANTE01;Alicante;0;0;0;15;1;alta;cierre;0;0;3;0
+1016;04/02/2020;10:15;SANTANDER01;Santander;1;0;0;4;0;alta;manana;1;0;1;0
+1017;02/04/2020;9:30;MADRIDMOSTOLES01;Madrid Mostoles;1;0;0;2;0;media;manana;1;0;3;0
+1018;15/01/2024;13:15;BARCELONA01;Barcelona;0;0;0;15;0;baja;cierre;0;0;0;1
+1019;01/08/2024;10:30;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;0;0;0;1;0;media;manana;0;0;3;0
+1020;09/03/2021;14:00;ZARAGOZA01;Zaragoza;1;0;0;9;0;alta;cierre;1;0;1;1
+1021;03/03/2022;10:15;LASPALMASDEGC01;Las Palmas de GC;0;0;0;3;1;baja;manana;0;0;3;0
+1022;14/09/2021;13:30;MADRIDMOSTOLES01;Madrid Mostoles;0;0;0;14;0;media;cierre;0;0;1;0
+1023;11/04/2022;9:30;VALENCIA01;Valencia;1;0;1;11;1;media;manana;1;0;0;0
+1024;07/05/2024;12:00;MADRID01;Madrid;0;0;0;7;0;baja;cierre;0;0;1;0
+1025;14/11/2022;12:15;MADRID01;Madrid;0;0;0;14;1;alta;cierre;0;0;0;1
+1026;09/05/2023;12:15;VALENCIA01;Valencia;0;0;0;9;1;alta;cierre;0;0;1;0
+1027;04/05/2023;9:30;SALAMANCA01;Salamanca;1;0;0;4;0;media;manana;1;0;3;0
+1028;13/05/2025;14:00;TENERIFE01;Tenerife;0;0;0;13;1;media;cierre;0;0;1;0
+1029;27/12/2022;14:00;MADRIDODONNELL01;Madrid O Donnell;1;0;0;27;0;baja;cierre;1;1;1;1
+1030;09/06/2022;8:00;VIGO01;Vigo;0;0;0;9;0;baja;manana;0;0;3;0
+1031;06/03/2021;13:30;MADRID01;Madrid;1;0;0;6;0;media;cierre;1;0;5;0
+1032;26/12/2024;13:15;BARCELONA01;Barcelona;1;0;0;26;0;media;cierre;1;1;3;1
+1033;22/03/2024;14:45;MADRID01;Madrid;0;0;0;22;0;baja;cierre;0;0;4;0
+1034;23/12/2024;12:00;OVIEDO01;Oviedo;1;0;1;23;1;alta;cierre;1;0;0;0
+1035;13/08/2022;11:30;LASROZAS01;Las Rozas;1;0;1;13;1;baja;manana;1;0;5;1
+1036;27/05/2022;13:30;MADRID01;Madrid;0;0;0;27;0;baja;cierre;0;1;4;0
+1037;18/05/2023;11:15;OVIEDO01;Oviedo;1;0;1;18;1;alta;manana;1;0;3;0
+1038;14/12/2023;14:45;BARCELONA01;Barcelona;1;0;0;14;0;alta;cierre;1;0;3;0
+1039;22/05/2025;10:45;DIAGONAL01;Diagonal;0;0;0;22;0;media;manana;0;0;3;1
+1040;28/07/2021;8:00;ALICANTE01;Alicante;0;0;0;28;0;media;manana;0;1;2;0
+1041;04/02/2020;9:45;LASROZAS01;Las Rozas;0;0;0;4;0;media;manana;0;0;1;0
+1042;28/04/2022;11:45;SEVILLA01;Sevilla;0;0;0;28;1;alta;manana;0;1;3;1
+1043;15/06/2023;11:15;BARCELONADIAGONAL01;Barcelona Diagonal;0;0;0;15;0;baja;manana;0;0;3;0
+1044;21/03/2024;10:15;BARCELONA01;Barcelona;0;0;0;21;0;media;manana;0;0;3;0
+1045;01/02/2024;10:30;BILBAO01;Bilbao;0;0;0;1;0;baja;manana;0;0;3;1
+1046;11/04/2020;13:30;LASPALMAS01;Las Palmas;0;0;0;11;0;baja;cierre;0;0;5;0
+1047;14/11/2024;11:15;CADIZ01;Cadiz;0;0;0;14;0;baja;manana;0;0;3;0
+1048;29/05/2020;14:30;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;0;0;0;29;0;media;cierre;0;1;4;0
+1049;20/08/2022;12:00;ODONNELL01;O Donnell;1;0;0;20;0;baja;cierre;1;0;5;0
+1050;27/09/2021;10:15;ALICANTE01;Alicante;0;0;0;27;0;baja;manana;0;1;0;1
+1051;20/06/2020;11:00;MADRID01;Madrid;0;0;0;20;0;baja;manana;0;0;5;1
+1052;17/01/2025;10:45;SALAMANCA01;Salamanca;1;0;0;17;0;baja;manana;1;0;4;0
+1053;10/01/2024;9:15;VALENCIA01;Valencia;0;0;0;10;1;baja;manana;0;0;2;0
+1054;31/01/2020;8:00;BARCELONA01;Barcelona;0;0;0;31;1;media;manana;0;1;4;0
+1055;22/03/2025;10:45;CADIZ01;Cadiz;0;0;0;22;0;media;manana;0;0;5;0
+1056;10/08/2024;14:45;BILBAO01;Bilbao;1;0;0;10;0;baja;cierre;1;0;5;0
+1057;20/03/2020;9:15;MADRID01;Madrid;0;0;0;20;0;media;manana;0;0;4;0
+1058;01/10/2020;14:30;SANTANDER01;Santander;0;0;0;1;0;media;cierre;0;0;3;0
+1059;09/05/2020;12:30;VIGO01;Vigo;1;0;0;9;0;baja;cierre;1;0;5;0
+1060;19/10/2023;9:15;BARCELONA01;Barcelona;1;0;0;19;0;baja;manana;1;0;3;0
+1061;12/05/2020;11:45;ALICANTE01;Alicante;1;0;0;12;0;media;manana;1;0;1;0
+1062;25/09/2020;11:30;ACACIAS01;Acacias;0;0;0;25;1;alta;manana;0;1;4;0
+1063;12/05/2020;11:00;BILBAO01;Bilbao;1;0;0;12;0;media;manana;1;0;1;0
+1064;09/11/2024;8:45;GIJON01;Gijon;0;0;0;9;1;alta;manana;0;0;5;0
+1065;11/02/2020;12:45;MURCIA01;Murcia;0;0;0;11;0;media;cierre;0;0;1;0
+1066;12/01/2022;9:15;SALAMANCA01;Salamanca;1;0;0;12;0;media;manana;1;0;2;0
+1067;12/07/2024;12:30;BARCELONADIAGONAL01;Barcelona Diagonal;0;0;0;12;0;baja;cierre;0;0;4;0
+1068;07/06/2022;8:00;SANTAENGRACIA01;Santa Engracia;0;0;0;7;1;alta;manana;0;0;1;0
+1069;07/12/2021;10:45;MADRID01;Madrid;0;0;0;7;0;media;manana;0;0;1;0
+1070;20/02/2025;12:45;ALICANTE01;Alicante;0;0;0;20;0;media;cierre;0;0;3;0
+1071;19/05/2021;10:00;MADRIDMOSTOLES01;Madrid Mostoles;0;0;0;19;1;media;manana;0;0;2;0
+1072;29/12/2021;14:00;MADRID01;Madrid;1;1;1;29;0;baja;cierre;1;1;2;0
+1073;09/01/2025;11:15;MADRIDACACIAS01;Madrid Acacias;0;0;0;9;0;baja;manana;0;0;3;0
+1074;02/04/2022;10:30;BARCELONADIAGONAL01;Barcelona Diagonal;0;0;0;2;0;media;manana;0;0;5;0
+1075;01/04/2024;14:45;MADRID01;Madrid;0;0;0;1;0;media;cierre;0;0;0;0
+1076;16/05/2024;10:00;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;1;0;0;16;0;baja;manana;1;0;3;1
+1077;07/10/2024;11:00;OVIEDO01;Oviedo;0;0;0;7;0;media;manana;0;0;0;0
+1078;09/01/2021;12:15;GRANADA01;Granada;0;0;0;9;1;alta;cierre;0;0;5;0
+1079;07/11/2022;10:30;SEVILLA01;Sevilla;0;0;0;7;0;media;manana;0;0;0;0
+1080;22/07/2024;8:45;CORDOBA01;Cordoba;1;0;0;22;0;media;manana;1;0;0;0
+1081;09/04/2024;12:45;VIGO01;Vigo;0;0;0;9;0;baja;cierre;0;0;1;0
+1082;30/09/2024;14:30;M?STOLES01;M?stoles;0;0;0;30;0;baja;cierre;0;1;0;0
+1083;26/02/2022;14:00;MADRID01;Madrid;0;0;0;26;0;media;cierre;0;1;5;0
+1084;23/11/2020;9:00;VALLADOLID01;Valladolid;0;0;0;23;1;media;manana;0;0;0;0
+1085;25/03/2025;11:30;BARCELONA01;Barcelona;0;0;0;25;0;media;manana;0;1;1;0
+1086;19/12/2024;14:30;COSTARICA01;Costa Rica;0;0;0;19;0;media;cierre;0;0;3;0
+1087;13/01/2022;12:30;OVIEDO01;Oviedo;0;0;0;13;0;media;cierre;0;0;3;0
+1088;02/09/2021;14:15;ALICANTE01;Alicante;0;0;0;2;0;alta;cierre;0;0;3;1
+1089;20/06/2024;9:45;COSTARICA01;Costa Rica;0;0;0;20;0;media;manana;0;0;3;0
+1090;26/09/2022;12:00;MADRID01;Madrid;0;0;0;26;0;baja;cierre;0;1;0;0
+1091;10/10/2024;8:00;BARCELONA01;Barcelona;1;0;0;10;0;media;manana;1;0;3;0
+1092;19/02/2021;9:30;MADRID01;Madrid;0;0;0;19;0;media;manana;0;0;4;0
+1093;23/04/2025;14:45;ALICANTE01;Alicante;0;0;0;23;0;media;cierre;0;0;2;0
+1094;02/09/2022;12:45;BARCELONADIAGONAL01;Barcelona Diagonal;1;0;0;2;0;media;cierre;1;0;4;1
+1095;07/10/2023;9:15;MADRID01;Madrid;1;0;0;7;1;media;manana;1;0;5;1
+1096;20/06/2022;10:30;BARCELONADIAGONAL01;Barcelona Diagonal;0;0;0;20;1;baja;manana;0;0;0;0
+1097;02/12/2022;9:45;LASPALMAS01;Las Palmas;0;0;0;2;0;media;manana;0;0;4;0
+1098;14/10/2020;12:30;VIGO01;Vigo;0;0;0;14;0;media;cierre;0;0;2;0
+1099;04/10/2021;12:30;DIAGONAL01;Diagonal;0;0;0;4;1;alta;cierre;0;0;0;0
+1100;16/06/2023;12:45;ZARAGOZA01;Zaragoza;1;1;1;16;1;baja;cierre;1;0;4;0
+1101;26/09/2020;13:30;MADRID01;Madrid;0;0;0;26;0;baja;cierre;0;1;5;0
+1102;09/10/2021;11:00;LASROZAS01;Las Rozas;0;0;0;9;1;alta;manana;0;0;5;0
+1103;28/12/2022;10:30;SANTANDER01;Santander;0;0;0;28;0;baja;manana;0;1;2;0
+1104;23/01/2024;13:00;VALLADOLID01;Valladolid;0;0;0;23;1;alta;cierre;0;0;1;0
+1105;09/01/2020;11:30;GRANADA01;Granada;0;0;0;9;1;alta;manana;0;0;3;0
+1106;18/05/2024;14:00;MADRID01;Madrid;0;0;0;18;1;media;cierre;0;0;5;1
+1107;08/07/2021;12:45;SANTANDER01;Santander;0;0;0;8;0;alta;cierre;0;0;3;0
+1108;30/03/2020;10:15;BILBAO01;Bilbao;0;0;0;30;0;media;manana;0;1;0;0
+1109;07/01/2020;13:00;ODONNELL01;O Donnell;1;0;1;7;0;media;cierre;1;0;1;0
+1110;08/02/2022;12:45;COSTARICA01;Costa Rica;1;0;0;8;1;media;cierre;1;0;1;0
+1111;20/05/2020;9:45;VIGO01;Vigo;1;0;0;20;0;alta;manana;1;0;2;0
+1112;11/11/2022;9:15;MADRIDMOSTOLES01;Madrid Mostoles;0;0;0;11;0;media;manana;0;0;4;0
+1113;22/04/2025;8:00;LASROZAS01;Las Rozas;0;0;0;22;0;media;manana;0;0;1;0
+1114;19/08/2021;9:00;ZARAGOZA01;Zaragoza;0;0;0;19;1;alta;manana;0;0;3;0
+1115;30/01/2023;11:30;GIJON01;Gijon;0;0;0;30;0;media;manana;0;1;0;1
+1116;11/11/2021;11:15;MADRID01;Madrid;0;0;0;11;1;media;manana;0;0;3;0
+1117;04/10/2024;11:15;MADRID01;Madrid;1;0;0;4;0;media;manana;1;0;4;0
+1118;17/08/2020;11:45;MADRID01;Madrid;1;0;0;17;0;baja;manana;1;0;0;0
+1119;30/09/2022;14:00;ODONNELL01;O Donnell;0;0;0;30;0;baja;cierre;0;1;4;0
+1120;29/04/2022;13:15;COSTARICA01;Costa Rica;1;0;0;29;0;baja;cierre;1;1;4;0
+1121;08/08/2024;12:15;ACACIAS01;Acacias;0;0;0;8;0;media;cierre;0;0;3;1
+1122;31/05/2023;12:30;LASPALMAS01;Las Palmas;0;0;0;31;0;baja;cierre;0;1;2;0
+1123;27/09/2024;13:45;MADRID01;Madrid;0;0;0;27;1;alta;cierre;0;1;4;0
+1124;23/07/2020;12:45;BARCELONA01;Barcelona;0;0;0;23;0;media;cierre;0;0;3;0
+1125;22/04/2024;10:15;VALENCIA01;Valencia;0;0;0;22;1;alta;manana;0;0;0;1
+1126;22/01/2021;11:30;CADIZ01;Cadiz;0;0;0;22;1;media;manana;0;0;4;0
+1127;29/08/2024;12:30;BARCELONA01;Barcelona;0;0;0;29;0;baja;cierre;0;1;3;0
+1128;15/09/2023;13:30;BARCELONA01;Barcelona;1;0;1;15;1;alta;cierre;1;0;4;1
+1129;17/09/2022;12:45;BARCELONADIAGONAL01;Barcelona Diagonal;0;0;0;17;0;baja;cierre;0;0;5;0
+1130;10/05/2022;9:15;TENERIFE01;Tenerife;0;0;0;10;0;media;manana;0;0;1;0
+1131;22/09/2020;10:30;BARCELONA01;Barcelona;0;0;0;22;1;alta;manana;0;0;1;1
+1132;21/09/2021;9:30;GIJON01;Gijon;0;0;0;21;0;media;manana;0;0;1;0
+1133;14/05/2020;14:30;OVIEDO01;Oviedo;0;0;0;14;0;baja;cierre;0;0;3;0
+1134;15/06/2020;13:15;TENERIFE01;Tenerife;0;0;0;15;0;baja;cierre;0;0;0;0
+1135;23/10/2021;13:45;LASROZAS01;Las Rozas;0;0;0;23;0;alta;cierre;0;0;5;0
+1136;02/01/2020;10:45;BARCELONA01;Barcelona;0;0;0;2;1;alta;manana;0;0;3;0
+1137;16/04/2020;10:30;LASPALMAS01;Las Palmas;1;0;0;16;0;media;manana;1;0;3;0
+1138;17/02/2022;10:00;GIJON01;Gijon;0;0;0;17;1;baja;manana;0;0;3;1
+1139;15/01/2021;12:45;VALENCIA01;Valencia;0;0;0;15;0;media;cierre;0;0;4;0
+1140;15/02/2025;11:30;ODONNELL01;O Donnell;1;0;0;15;1;baja;manana;1;0;5;0
+1141;13/06/2020;14:15;LASROZAS01;Las Rozas;1;0;1;13;1;alta;cierre;1;0;5;0
+1142;30/12/2024;10:00;COSTARICA01;Costa Rica;0;0;0;30;0;media;manana;0;1;0;1
+1143;28/09/2022;10:00;VALENCIA01;Valencia;0;0;0;28;0;media;manana;0;1;2;0
+1144;02/11/2020;10:45;GIJON01;Gijon;0;0;0;2;1;alta;manana;0;0;0;0
+1145;07/12/2022;13:30;MADRID01;Madrid;1;0;0;7;0;media;cierre;1;0;2;0
+1146;31/03/2022;13:45;M?STOLES01;M?stoles;1;0;0;31;0;alta;cierre;1;1;3;0
+1147;14/01/2020;9:15;BARCELONA01;Barcelona;1;0;0;14;1;baja;manana;1;0;1;0
+1148;04/11/2020;14:30;MADRID01;Madrid;1;0;0;4;0;media;cierre;1;0;2;0
+1149;22/07/2020;12:30;DIAGONAL01;Diagonal;0;0;0;22;0;media;cierre;0;0;2;0
+1150;01/12/2022;9:00;M?STOLES01;M?stoles;0;0;0;1;0;baja;manana;0;0;3;0
+1151;17/01/2020;12:15;ZARAGOZA01;Zaragoza;1;0;0;17;0;media;cierre;1;0;4;0
+1152;15/11/2023;9:00;MALAGA01;Malaga;1;0;0;15;1;media;manana;1;0;2;0
+1153;10/04/2025;13:15;BARCELONA01;Barcelona;0;0;0;10;0;baja;cierre;0;0;3;0
+1154;16/01/2021;13:15;LASPALMAS01;Las Palmas;1;0;0;16;0;baja;cierre;1;0;5;0
+1155;15/05/2024;8:00;SANTANDER01;Santander;0;0;0;15;1;alta;manana;0;0;2;0
+1156;30/04/2025;11:30;VALENCIA01;Valencia;0;0;0;30;0;baja;manana;0;1;2;0
+1157;26/01/2021;13:45;MADRIDODONNELL01;Madrid O Donnell;0;0;0;26;0;media;cierre;0;1;1;0
+1158;20/07/2022;8:15;MADRID01;Madrid;0;0;0;20;0;media;manana;0;0;2;0
+1159;11/07/2022;8:15;MADRIDACACIAS01;Madrid Acacias;1;0;0;11;1;alta;manana;1;0;0;0
+1160;17/12/2022;11:45;BARCELONAMERIDIANA01;Barcelona Meridiana;0;0;0;17;1;alta;manana;0;0;5;0
+1161;15/02/2025;11:15;SANTANDER01;Santander;1;0;0;15;0;media;manana;1;0;5;0
+1162;09/09/2024;14:30;BARCELONADIAGONAL01;Barcelona Diagonal;1;1;1;9;0;baja;cierre;1;0;0;0
+1163;22/04/2025;10:30;ACACIAS01;Acacias;0;0;0;22;0;media;manana;0;0;1;1
+1164;19/08/2023;13:00;BARCELONA01;Barcelona;0;0;0;19;0;alta;cierre;0;0;5;0
+1165;24/03/2025;14:00;CORDOBA01;Cordoba;0;0;0;24;0;media;cierre;0;0;0;0
+1166;13/01/2021;13:15;MADRID01;Madrid;0;0;0;13;1;media;cierre;0;0;2;0
+1167;05/10/2020;12:00;GIJON01;Gijon;1;0;0;5;1;alta;cierre;1;0;0;0
+1168;01/02/2021;9:45;LASPALMAS01;Las Palmas;0;0;0;1;0;media;manana;0;0;0;0
+1169;22/03/2021;14:15;ODONNELL01;O Donnell;0;0;0;22;0;media;cierre;0;0;0;0
+1170;26/10/2024;8:45;COSTARICA01;Costa Rica;0;0;0;26;0;media;manana;0;1;5;0
+1171;07/10/2023;14:45;VALLADOLID01;Valladolid;1;0;0;7;1;alta;cierre;1;0;5;1
+1172;27/11/2021;9:30;BARCELONAMERIDIANA01;Barcelona Meridiana;1;0;0;27;0;media;manana;1;1;5;0
+1173;12/02/2025;8:00;MADRID01;Madrid;1;0;0;12;0;media;manana;1;0;2;0
+1174;30/08/2021;10:00;ODONNELL01;O Donnell;0;0;0;30;1;alta;manana;0;1;0;0
+1175;17/04/2024;10:30;BARCELONA01;Barcelona;0;0;0;17;0;media;manana;0;0;2;0
+1176;16/05/2024;11:45;SANTANDER01;Santander;0;0;0;16;1;alta;manana;0;0;3;0
+1177;26/12/2022;9:45;MADRID01;Madrid;1;0;0;26;0;media;manana;1;1;0;0
+1178;13/03/2025;10:15;SANTAENGRACIA01;Santa Engracia;0;0;0;13;0;baja;manana;0;0;3;0
+1179;19/06/2024;14:00;VALENCIA01;Valencia;0;0;0;19;0;baja;cierre;0;0;2;0
+1180;02/11/2022;10:15;BARCELONA01;Barcelona;1;0;0;2;1;alta;manana;1;0;2;0
+1181;30/01/2024;13:45;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;0;0;0;30;0;media;cierre;0;1;1;0
+1182;14/11/2020;13:30;MADRID01;Madrid;0;0;0;14;0;baja;cierre;0;0;5;0
+1183;04/08/2022;13:15;CORDOBA01;Cordoba;1;0;0;4;0;baja;cierre;1;0;3;0
+1184;11/04/2024;8:30;MADRID01;Madrid;0;0;0;11;0;media;manana;0;0;3;1
+1185;11/05/2022;14:30;MALAGA01;Malaga;0;0;0;11;0;baja;cierre;0;0;2;0
+1186;11/11/2023;12:15;LASROZAS01;Las Rozas;0;0;0;11;0;media;cierre;0;0;5;0
+1187;08/01/2020;9:45;MURCIA01;Murcia;0;0;0;8;0;baja;manana;0;0;2;0
+1188;05/10/2022;14:45;BARCELONA01;Barcelona;1;0;0;5;1;alta;cierre;1;0;2;1
+1189;24/07/2024;12:30;ODONNELL01;O Donnell;0;0;0;24;0;baja;cierre;0;0;2;0
+1190;02/04/2020;8:45;SANTAENGRACIA01;Santa Engracia;0;0;0;2;0;media;manana;0;0;3;0
+1191;29/08/2024;13:00;M?STOLES01;M?stoles;1;0;0;29;0;media;cierre;1;1;3;0
+1192;11/11/2021;9:15;BILBAO01;Bilbao;1;0;0;11;1;baja;manana;1;0;3;0
+1193;05/06/2020;11:30;VALLADOLID01;Valladolid;0;0;0;5;1;alta;manana;0;0;4;0
+1194;14/12/2021;9:00;BARCELONA01;Barcelona;0;0;0;14;0;alta;manana;0;0;1;0
+1195;19/06/2023;10:45;VALENCIA01;Valencia;1;0;0;19;1;baja;manana;1;0;0;0
+1196;15/04/2020;9:45;BARCELONA01;Barcelona;0;0;0;15;0;baja;manana;0;0;2;0
+1197;21/04/2021;14:30;VALENCIA01;Valencia;0;0;0;21;0;baja;cierre;0;0;2;0
+1198;15/12/2020;10:30;BARCELONA01;Barcelona;0;0;0;15;0;media;manana;0;0;1;0
+1199;16/04/2024;12:00;BILBAO01;Bilbao;0;0;0;16;1;alta;cierre;0;0;1;0
+1200;03/01/2022;10:30;ACORUNA01;A Coruna;1;0;0;3;0;media;manana;1;0;0;0
+20010;06/06/2025;9:00:23;BARCELONADIAGONAL01;Barcelona Diagonal;1;0;0;6;0;media;manana;1;0;4;0
+20011;06/06/2025;14:26:43;BARCELONA01;Barcelona;1;0;0;6;0;media;cierre;1;0;4;0
+20012;06/04/2025;13:59:29;DIAGONAL01;Diagonal;1;0;0;6;0;baja;cierre;1;0;6;0
+20013;06/04/2025;11:14:36;ZARAGOZA01;Zaragoza;1;0;1;6;0;baja;manana;1;0;6;0
+20014;06/02/2025;14:04:43;ACORUNA01;A Coruna;1;0;1;6;0;media;cierre;1;0;3;1
+20015;30/05/2025;8:39:04;VALENCIA01;Valencia;1;0;0;30;0;media;manana;1;1;4;0
+20016;28/05/2025;8:49:39;VALENCIA01;Valencia;1;0;1;28;0;baja;manana;1;1;2;0
+20017;28/05/2025;10:16:55;MADRID01;Madrid;1;0;0;28;0;baja;manana;1;1;2;0
+20018;22/05/2025;11:09:02;MURCIA01;Murcia;1;0;0;22;0;media;manana;1;0;3;1
+20019;16/05/2025;12:00:56;LASPALMAS01;Las Palmas;1;0;0;16;0;media;cierre;1;0;4;0
+20020;05/05/2025;12:07:55;MADRID01;Madrid;1;0;0;5;1;media;cierre;1;0;0;0
+20022;05/02/2025;12:52:49;BARCELONA01;Barcelona;1;0;0;5;1;baja;cierre;1;0;2;0
+20027;05/06/2025;14:00:48;ACACIAS01;Acacias;1;0;0;5;1;media;cierre;1;0;3;0
+20028;30/04/2025;16:08:05;M?STOLES01;M?stoles;1;0;0;30;0;media;cierre;1;1;2;0
+20029;29/04/2025;18:50:02;ALICANTE01;Alicante;1;0;0;29;0;baja;cierre;1;1;1;0
+20030;05/05/2025;11:25:13;SANTANDER01;Santander;1;0;0;5;1;alta;manana;1;0;0;0
+20031;05/05/2025;12:50:28;ODONNELL01;O Donnell;1;0;0;5;1;alta;cierre;1;0;0;0
+20032;30/04/2025;10:15:41;BARCELONA01;Barcelona;1;0;0;30;0;media;manana;1;1;2;0
+20033;29/04/2025;13:02:03;GIJON01;Gijon;1;0;0;29;0;baja;cierre;1;1;1;1
+20034;15/04/2025;16:00:28;VALLADOLID01;Valladolid;1;0;0;15;0;media;cierre;1;0;1;0
+20035;15/04/2025;10:41:16;BARCELONADIAGONAL01;Barcelona Diagonal;1;0;0;15;0;media;manana;1;0;1;0
+20036;14/04/2025;17:10:37;MADRID01;Madrid;1;0;0;14;0;media;cierre;1;0;0;0
+20041;04/04/2025;12:06:39;LASROZAS01;Las Rozas;1;0;0;4;1;baja;cierre;1;0;4;0
+20042;04/03/2025;8:47:04;COSTARICA01;Costa Rica;1;0;0;4;0;media;manana;1;0;1;0
+20043;04/01/2025;13:44:45;LASROZAS01;Las Rozas;1;0;0;4;0;baja;cierre;1;0;5;0
+20044;25/03/2025;15:33:21;MADRID01;Madrid;1;0;1;25;1;media;cierre;1;1;1;0
+20045;25/03/2025;9:07:25;MURCIA01;Murcia;1;0;0;25;1;media;manana;1;1;1;0
+20046;24/03/2025;10:32:38;ZARAGOZA01;Zaragoza;1;0;0;24;0;media;manana;1;0;0;0
+20047;20/03/2025;13:18:39;CADIZ01;Cadiz;1;0;0;20;0;baja;cierre;1;0;3;0
+20048;19/03/2025;15:45:59;CORDOBA01;Cordoba;1;0;0;19;0;baja;cierre;1;0;2;0
+20049;15/03/2025;13:41:27;VALENCIA01;Valencia;1;0;0;15;1;alta;cierre;1;0;5;0
+20050;13/03/2025;15:25:31;VALENCIA01;Valencia;1;0;0;13;0;media;cierre;1;0;3;0
+20055;03/06/2025;11:50:07;ODONNELL01;O Donnell;1;0;0;3;1;alta;manana;1;0;1;0
+20056;03/06/2025;11:10:02;GRANADA01;Granada;1;0;0;3;0;media;manana;1;0;1;0
+20057;03/06/2025;10:24:14;LASPALMASDEGC01;Las Palmas de GC;1;0;0;3;1;alta;manana;1;0;1;0
+20058;03/04/2025;14:19:51;CORDOBA01;Cordoba;1;0;0;3;0;baja;cierre;1;0;3;0
+20059;25/02/2025;13:10:37;GIJON01;Gijon;1;0;0;25;1;baja;cierre;1;1;1;0
+20060;27/02/2025;12:22:15;GRANADA01;Granada;1;0;0;27;1;alta;cierre;1;1;3;0
+20061;26/02/2025;10:55:42;SEVILLA01;Sevilla;1;0;0;26;0;media;manana;1;1;2;0
+20062;25/02/2025;10:39:10;CADIZ01;Cadiz;1;0;0;25;1;alta;manana;1;1;1;0
+20063;21/02/2025;12:00:49;VALENCIA01;Valencia;1;0;0;21;0;baja;cierre;1;0;4;0
+20064;21/02/2025;9:35:47;LASPALMAS01;Las Palmas;1;0;1;21;0;baja;manana;1;0;4;0
+20065;19/02/2025;18:37:10;BILBAO01;Bilbao;1;0;0;19;1;baja;cierre;1;0;2;0
+20066;13/02/2025;17:37:08;TENERIFE01;Tenerife;1;0;0;13;1;alta;cierre;1;0;3;0
+20067;13/02/2025;16:25:32;M?STOLES01;M?stoles;1;0;0;13;0;alta;cierre;1;0;3;0
+20072;02/06/2025;15:37:43;BARCELONA01;Barcelona;1;0;0;2;0;baja;cierre;1;0;0;0
+20073;02/03/2025;13:39:51;ACACIAS01;Acacias;1;0;0;2;0;baja;cierre;1;0;6;0
+20074;02/03/2025;13:38:13;TENERIFE01;Tenerife;1;0;0;2;1;media;cierre;1;0;6;0
+20075;02/05/2025;13:35:53;OVIEDO01;Oviedo;1;0;0;2;1;alta;cierre;1;0;4;0
+20076;02/05/2025;10:49:40;BARCELONA01;Barcelona;1;0;0;2;0;media;manana;1;0;4;0
+20077;29/01/2025;14:00:40;MADRID01;Madrid;1;0;0;29;0;baja;cierre;1;1;2;0
+20078;02/03/2025;18:00:35;CORDOBA01;Cordoba;1;0;0;2;1;alta;cierre;1;0;6;0
+20079;29/01/2025;13:21:36;OVIEDO01;Oviedo;1;0;0;29;0;media;cierre;1;1;2;1
+20080;29/01/2025;16:55:36;CADIZ01;Cadiz;1;0;0;29;1;alta;cierre;1;1;2;0
+20081;27/01/2025;17:50:39;BARCELONA01;Barcelona;1;0;0;27;0;baja;cierre;1;1;0;1
+20082;28/01/2025;15:45:40;BARCELONAMERIDIANA01;Barcelona Meridiana;1;0;0;28;0;media;cierre;1;1;1;1
+20083;28/01/2025;14:40:13;VALENCIA01;Valencia;1;0;0;28;1;alta;cierre;1;1;1;0
+20084;27/01/2025;14:25:25;BARCELONA01;Barcelona;1;0;0;27;0;media;cierre;1;1;0;0
+20085;25/01/2025;13:30:20;MALAGA01;Malaga;1;0;0;25;1;alta;cierre;1;1;5;0
+20086;23/01/2025;8:55:00;LASROZAS01;Las Rozas;1;0;0;23;0;baja;manana;1;0;3;1
+20087;16/01/2025;8:50:11;BARCELONA01;Barcelona;1;0;0;16;0;alta;manana;1;0;3;0
+20088;15/01/2025;18:50:44;VALENCIA01;Valencia;1;0;0;15;0;baja;cierre;1;0;2;1
+20089;16/01/2025;11:28:58;BARCELONA01;Barcelona;1;0;0;16;0;media;manana;1;0;3;0
+20090;15/01/2025;13:18:38;ACACIAS01;Acacias;1;0;0;15;1;baja;cierre;1;0;2;0
+20091;01/02/2025;9:51:20;M?STOLES01;M?stoles;1;0;0;1;1;alta;manana;1;0;5;0
+20092;26/12/2024;12:45:27;ALICANTE01;Alicante;1;0;1;26;0;media;cierre;1;1;3;0
+20093;31/12/2024;13:05:44;ACACIAS01;Acacias;1;0;0;31;0;alta;cierre;1;1;1;0
+20094;31/12/2024;11:35:55;LASPALMAS01;Las Palmas;1;0;0;31;0;baja;manana;1;1;1;0
+20095;31/12/2024;10:02:53;BARCELONA01;Barcelona;1;0;0;31;0;baja;manana;1;1;1;1
+20096;30/12/2024;8:34:41;LASPALMASDEGC01;Las Palmas de GC;1;0;0;30;0;baja;manana;1;1;0;0
+20097;30/12/2024;16:48:36;ZARAGOZA01;Zaragoza;1;0;0;30;1;alta;cierre;1;1;0;0
+20098;27/12/2024;11:49:50;BARCELONA01;Barcelona;1;0;0;27;0;media;manana;1;1;4;0
+20099;26/12/2024;18:13:43;BARCELONA01;Barcelona;1;0;0;26;1;media;cierre;1;1;3;0
+20100;26/12/2024;12:10:38;MADRID01;Madrid;1;0;0;26;0;media;cierre;1;1;3;0
+20101;26/12/2024;12:01:52;BARCELONA01;Barcelona;1;0;0;26;0;media;cierre;1;1;3;0
+20102;24/12/2024;12:32:34;MAJADAHONDA01;Majadahonda;1;0;0;24;0;baja;cierre;1;0;1;0
+20103;23/12/2024;18:17:38;ALICANTE01;Alicante;1;0;0;23;0;baja;cierre;1;0;0;0
+20104;20/12/2024;11:42:29;M?STOLES01;M?stoles;1;0;0;20;0;media;manana;1;0;4;0
+20105;18/12/2024;17:08:47;LASPALMAS01;Las Palmas;1;0;0;18;1;media;cierre;1;0;2;0
+20106;17/12/2024;18:42:03;SALAMANCA01;Salamanca;1;0;0;17;0;baja;cierre;1;0;1;0
+20107;17/12/2024;9:48:53;SANTANDER01;Santander;1;0;0;17;1;media;manana;1;0;1;0
+20108;12/11/2024;9:23:24;MADRID01;Madrid;1;0;0;12;0;media;manana;1;0;1;0
+20109;12/10/2024;14:38:29;MURCIA01;Murcia;1;0;0;12;1;alta;cierre;1;0;5;0
+20110;12/10/2024;8:35:10;VIGO01;Vigo;1;0;0;12;0;media;manana;1;0;5;0
+20111;12/07/2024;12:52:41;MADRID01;Madrid;1;0;1;12;1;alta;cierre;1;0;4;0
+20112;12/07/2024;12:29:12;MADRID01;Madrid;1;0;1;12;0;media;cierre;1;0;4;1
+20113;12/04/2024;10:51:38;GRANADA01;Granada;1;0;0;12;1;alta;manana;1;0;4;1
+20114;12/03/2024;12:00:06;SANTANDER01;Santander;1;0;0;12;1;alta;cierre;1;0;1;0
+20115;12/02/2024;17:06:49;VALENCIA01;Valencia;1;0;0;12;0;alta;cierre;1;0;0;0
+20116;12/02/2024;16:26:53;SANTANDER01;Santander;1;0;0;12;0;media;cierre;1;0;0;1
+20117;30/11/2024;12:47:27;TENERIFE01;Tenerife;1;0;0;30;0;baja;cierre;1;1;5;0
+20118;28/11/2024;12:45:00;MURCIA01;Murcia;1;0;0;28;1;media;cierre;1;1;3;0
+20119;28/11/2024;13:16:07;MADRID01;Madrid;1;1;1;28;0;media;cierre;1;1;3;0
+20120;25/11/2024;12:38:26;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;1;0;1;25;1;baja;cierre;1;1;0;0
+20121;27/11/2024;13:30:57;COSTARICA01;Costa Rica;1;0;0;27;0;baja;cierre;1;1;2;1
+20122;27/11/2024;11:59:40;MADRID01;Madrid;1;0;0;27;0;media;manana;1;1;2;0
+20123;26/11/2024;8:30:31;MALAGA01;Malaga;1;0;0;26;0;baja;manana;1;1;1;0
+20124;22/11/2024;14:00:16;M?STOLES01;M?stoles;1;0;0;22;1;alta;cierre;1;0;4;0
+20125;25/11/2024;17:57:18;BARCELONA01;Barcelona;1;0;0;25;1;media;cierre;1;1;0;0
+20126;25/11/2024;8:00:00;VALENCIA01;Valencia;1;0;0;25;1;alta;manana;1;1;0;1
+20127;19/11/2024;13:49:40;VALENCIA01;Valencia;1;0;0;19;0;baja;cierre;1;0;1;0
+20128;18/11/2024;12:03:42;MADRIDACACIAS01;Madrid Acacias;1;0;0;18;0;media;cierre;1;0;0;0
+20129;15/11/2024;13:20:42;BARCELONA01;Barcelona;1;0;0;15;1;media;cierre;1;0;4;0
+20130;15/11/2024;10:21:09;ACORUNA01;A Coruna;1;0;1;15;0;media;manana;1;0;4;1
+20131;14/11/2024;15:07:40;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;1;0;0;14;0;baja;cierre;1;0;3;0
+20132;14/11/2024;13:51:11;BARCELONA01;Barcelona;1;0;0;14;0;baja;cierre;1;0;3;0
+20133;13/11/2024;15:04:18;LASPALMASDEGC01;Las Palmas de GC;1;0;0;13;0;media;cierre;1;0;2;0
+20134;11/08/2024;13:46:55;BARCELONADIAGONAL01;Barcelona Diagonal;1;0;0;11;0;baja;cierre;1;0;6;0
+20135;11/08/2024;10:42:02;MADRIDMOSTOLES01;Madrid Mostoles;1;0;0;11;1;alta;manana;1;0;6;0
+20136;11/07/2024;14:00:00;BARCELONA01;Barcelona;1;0;1;11;0;baja;cierre;1;0;3;0
+20137;11/06/2024;17:35:00;VIGO01;Vigo;1;0;0;11;0;media;cierre;1;0;1;0
+20138;11/06/2024;17:27:48;MAJADAHONDA01;Majadahonda;1;0;0;11;0;baja;cierre;1;0;1;0
+20139;11/06/2024;14:06:24;MADRIDACACIAS01;Madrid Acacias;1;0;0;11;0;baja;cierre;1;0;1;0
+20140;17/09/2024;13:22:42;BARCELONA01;Barcelona;1;0;0;17;1;alta;cierre;1;0;1;0
+20141;11/05/2024;13:06:48;MAJADAHONDA01;Majadahonda;1;0;0;11;0;media;cierre;1;0;5;0
+20142;11/05/2024;14:01:21;COSTARICA01;Costa Rica;1;0;0;11;0;media;cierre;1;0;5;0
+20143;11/05/2024;13:00:00;BARCELONA01;Barcelona;1;0;0;11;0;baja;cierre;1;0;5;0
+20144;31/10/2024;18:01:19;SEVILLA01;Sevilla;1;0;0;31;0;media;cierre;1;1;3;0
+20145;31/10/2024;11:40:19;TENERIFE01;Tenerife;1;0;1;31;0;baja;manana;1;1;3;0
+20146;30/10/2024;8:20:34;ALICANTE01;Alicante;1;0;0;30;0;baja;manana;1;1;2;0
+20147;29/10/2024;16:47:24;CADIZ01;Cadiz;1;0;0;29;0;media;cierre;1;1;1;1
+20148;29/10/2024;12:29:02;MADRIDACACIAS01;Madrid Acacias;1;0;0;29;1;media;cierre;1;1;1;0
+20149;25/10/2024;9:10:10;GIJON01;Gijon;1;0;0;25;1;alta;manana;1;1;4;1
+20150;23/10/2024;10:40:59;SALAMANCA01;Salamanca;1;0;0;23;0;media;manana;1;0;2;0
+20151;21/10/2024;13:49:06;OVIEDO01;Oviedo;1;0;0;21;1;media;cierre;1;0;0;0
+20152;08/01/2024;14:49:46;GIJON01;Gijon;1;0;1;8;1;alta;cierre;1;0;0;0
+20153;17/10/2024;14:44:58;SANTANDER01;Santander;1;0;0;17;0;media;cierre;1;0;3;0
+20154;19/09/2024;14:42:10;BARCELONADIAGONAL01;Barcelona Diagonal;1;0;0;19;0;baja;cierre;1;0;3;0
+20155;10/11/2024;14:39:11;CADIZ01;Cadiz;1;0;1;10;0;media;cierre;1;0;6;0
+20156;17/10/2024;10:55:36;M?STOLES01;M?stoles;1;0;0;17;0;alta;manana;1;0;3;1
+20157;16/10/2024;16:47:07;MADRID01;Madrid;1;0;0;16;1;baja;cierre;1;0;2;0
+20158;14/10/2024;14:48:30;BARCELONA01;Barcelona;1;0;0;14;0;media;cierre;1;0;0;1
+20159;15/10/2024;9:27:27;LASROZAS01;Las Rozas;1;0;0;15;0;media;manana;1;0;1;1
+20160;14/10/2024;13:20:24;MADRID01;Madrid;1;0;0;14;0;baja;cierre;1;0;0;0
+20161;14/10/2024;12:21:00;VALENCIA01;Valencia;1;0;0;14;0;media;cierre;1;0;0;0
+20162;10/09/2024;13:06:56;BILBAO01;Bilbao;1;0;0;10;0;media;cierre;1;0;1;0
+20163;10/03/2024;13:37:59;MADRID01;Madrid;1;0;1;10;1;media;cierre;1;0;6;1
+20164;10/01/2024;11:56:11;VALENCIA01;Valencia;1;0;0;10;0;media;manana;1;0;2;0
+20165;10/01/2024;8:59:05;LASROZAS01;Las Rozas;1;0;0;10;1;media;manana;1;0;2;0
+20166;10/01/2024;9:00:10;ACORUNA01;A Coruna;1;0;0;10;0;media;manana;1;0;2;0
+20167;30/09/2024;15:15:12;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;1;0;1;30;0;media;cierre;1;1;0;1
+20168;27/09/2024;14:34:38;DIAGONAL01;Diagonal;1;1;1;27;0;media;cierre;1;1;4;0
+20169;27/09/2024;12:45:42;SEVILLA01;Sevilla;1;0;0;27;0;alta;cierre;1;1;4;0
+20170;25/09/2024;11:20:00;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;1;0;1;25;1;media;manana;1;1;2;0
+20171;23/09/2024;16:00:51;M?STOLES01;M?stoles;1;0;0;23;0;baja;cierre;1;0;0;1
+20172;20/09/2024;10:23:14;BARCELONA01;Barcelona;1;0;0;20;1;alta;manana;1;0;4;0
+20173;09/10/2024;13:39:29;BARCELONA01;Barcelona;1;0;0;9;1;alta;cierre;1;0;2;0
+20174;17/09/2024;17:43:13;SANTAENGRACIA01;Santa Engracia;1;0;0;17;0;media;cierre;1;0;1;0
+20175;16/09/2024;12:43:50;ACORUNA01;A Coruna;1;0;0;16;0;media;cierre;1;0;0;1
+20176;09/05/2024;18:54:02;TENERIFE01;Tenerife;1;0;0;9;0;baja;cierre;1;0;3;0
+20177;09/06/2024;8:25:05;LASPALMAS01;Las Palmas;1;0;0;9;1;media;manana;1;0;6;1
+20178;28/08/2024;17:50:00;VIGO01;Vigo;1;0;0;28;0;media;cierre;1;1;2;0
+20179;29/08/2024;14:25:09;MADRIDACACIAS01;Madrid Acacias;1;0;0;29;1;baja;cierre;1;1;3;0
+20180;26/08/2024;11:09:29;BILBAO01;Bilbao;1;0;0;26;0;media;manana;1;1;0;0
+20181;27/08/2024;15:00:00;MADRID01;Madrid;1;0;0;27;0;alta;cierre;1;1;1;1
+20182;22/08/2024;10:39:05;ZARAGOZA01;Zaragoza;1;0;0;22;1;alta;manana;1;0;3;0
+20183;21/08/2024;16:21:29;VALENCIA01;Valencia;1;0;0;21;0;media;cierre;1;0;2;1
+20184;21/08/2024;14:31:30;M?STOLES01;M?stoles;1;0;0;21;0;media;cierre;1;0;2;0
+20185;14/08/2024;10:21:00;BARCELONADIAGONAL01;Barcelona Diagonal;1;0;0;14;0;media;manana;1;0;2;0
+20186;08/07/2024;14:51:34;SANTANDER01;Santander;1;0;0;8;0;baja;cierre;1;0;0;0
+20187;29/07/2024;14:45:00;VALLADOLID01;Valladolid;1;0;0;29;0;media;cierre;1;1;0;0
+20188;26/07/2024;11:48:53;ALICANTE01;Alicante;1;0;0;26;0;media;manana;1;1;4;0
+20189;24/07/2024;17:35:09;OVIEDO01;Oviedo;1;0;0;24;1;media;cierre;1;0;2;0
+20190;23/07/2024;9:13:24;OVIEDO01;Oviedo;1;0;0;23;0;baja;manana;1;0;1;0
+20191;07/12/2024;13:32:28;VIGO01;Vigo;1;0;0;7;1;media;cierre;1;0;5;1
+20192;07/09/2024;16:17:06;MAJADAHONDA01;Majadahonda;1;0;0;7;0;media;cierre;1;0;5;0
+20193;07/05/2024;13:00:00;SANTAENGRACIA01;Santa Engracia;1;0;0;7;0;baja;cierre;1;0;1;0
+20194;07/04/2024;15:05:35;BARCELONA01;Barcelona;1;0;0;7;0;baja;cierre;1;0;6;0
+20195;07/01/2024;12:36:56;LASROZAS01;Las Rozas;1;0;0;7;0;media;cierre;1;0;6;0
+20196;27/06/2024;16:46:44;TENERIFE01;Tenerife;1;0;0;27;0;media;cierre;1;1;3;0
+20197;18/06/2024;16:39:55;MALAGA01;Malaga;1;0;0;18;1;alta;cierre;1;0;1;0
+20198;17/06/2024;16:27:29;CADIZ01;Cadiz;1;0;0;17;0;media;cierre;1;0;0;0
+20199;27/06/2024;17:30:07;M?STOLES01;M?stoles;1;0;0;27;0;media;cierre;1;1;3;0
+20200;27/06/2024;7:51:33;DIAGONAL01;Diagonal;1;0;0;27;0;media;manana;1;1;3;0
+20201;27/06/2024;18:50:27;SEVILLA01;Sevilla;1;0;0;27;1;media;cierre;1;1;3;0
+20202;25/06/2024;10:50:40;MADRIDODONNELL01;Madrid O Donnell;1;0;1;25;1;media;manana;1;1;1;0
+20203;26/06/2024;10:42:30;BARCELONA01;Barcelona;1;0;0;26;1;baja;manana;1;1;2;0
+20204;26/06/2024;9:23:42;MADRIDACACIAS01;Madrid Acacias;1;0;0;26;0;baja;manana;1;1;2;0
+20205;24/06/2024;10:22:25;MADRID01;Madrid;1;0;0;24;0;media;manana;1;0;0;0
+20206;17/06/2024;16:00:12;MADRID01;Madrid;1;0;0;17;0;baja;cierre;1;0;0;0
+20207;13/06/2024;13:30:41;MADRIDMOSTOLES01;Madrid Mostoles;1;0;0;13;0;baja;cierre;1;0;3;0
+20208;06/07/2024;10:05:08;VALENCIA01;Valencia;1;0;0;6;0;media;manana;1;0;5;0
+20209;29/05/2024;11:00:36;LASPALMAS01;Las Palmas;1;0;1;29;0;baja;manana;1;1;2;0
+20210;29/05/2024;11:33:37;ZARAGOZA01;Zaragoza;1;0;0;29;0;alta;manana;1;1;2;0
+20211;28/05/2024;12:48:07;BARCELONAMERIDIANA01;Barcelona Meridiana;1;0;0;28;0;baja;cierre;1;1;1;0
+20212;27/05/2024;17:39:16;MADRIDACACIAS01;Madrid Acacias;1;0;0;27;0;alta;cierre;1;1;0;0
+20213;24/05/2024;12:50:01;VALENCIA01;Valencia;1;0;0;24;1;alta;cierre;1;0;4;0
+20214;22/05/2024;14:15:15;ACACIAS01;Acacias;1;0;0;22;1;alta;cierre;1;0;2;1
+20215;17/05/2024;9:07:50;MADRID01;Madrid;1;0;0;17;0;media;manana;1;0;4;0
+20216;16/05/2024;17:22:41;GIJON01;Gijon;1;0;0;16;0;baja;cierre;1;0;3;0
+20217;13/05/2024;18:10:11;GRANADA01;Granada;1;0;0;13;0;baja;cierre;1;0;0;1
+20218;13/05/2024;16:40:24;ODONNELL01;O Donnell;1;0;0;13;0;alta;cierre;1;0;0;0
+20219;05/10/2024;14:02:48;VALLADOLID01;Valladolid;1;0;0;5;1;alta;cierre;1;0;5;0
+20220;05/08/2024;9:25:01;LASROZAS01;Las Rozas;1;0;0;5;1;alta;manana;1;0;0;0
+20221;05/08/2024;13:28:59;DIAGONAL01;Diagonal;1;0;0;5;1;media;cierre;1;0;0;0
+20222;05/06/2024;17:30:14;LASPALMASDEGC01;Las Palmas de GC;1;0;0;5;1;media;cierre;1;0;2;0
+20223;05/07/2024;11:34:01;MADRID01;Madrid;1;0;0;5;1;alta;manana;1;0;4;1
+20224;26/04/2024;11:36:39;ACORUNA01;A Coruna;1;0;1;26;1;alta;manana;1;1;4;0
+20225;26/04/2024;9:00:00;BARCELONAMERIDIANA01;Barcelona Meridiana;1;0;1;26;0;baja;manana;1;1;4;0
+20226;23/04/2024;11:12:15;MALAGA01;Malaga;1;0;0;23;1;media;manana;1;0;1;0
+20227;19/04/2024;12:30:45;MADRID01;Madrid;1;0;0;19;1;alta;cierre;1;0;4;0
+20228;18/04/2024;10:28:05;ACORUNA01;A Coruna;1;0;0;18;0;media;manana;1;0;3;0
+20229;16/04/2024;15:24:40;COSTARICA01;Costa Rica;1;0;0;16;0;alta;cierre;1;0;1;1
+20230;15/04/2024;9:16:52;BARCELONA01;Barcelona;1;0;0;15;0;baja;manana;1;0;0;1
+20231;03/08/2024;8:30:00;GRANADA01;Granada;1;0;0;3;0;media;manana;1;0;5;0
+20232;04/04/2024;18:45:00;BILBAO01;Bilbao;1;0;0;4;0;media;cierre;1;0;3;1
+20233;04/03/2024;8:43:21;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;1;0;0;4;0;baja;manana;1;0;0;0
+20234;04/03/2024;15:00:33;TENERIFE01;Tenerife;1;0;0;4;1;alta;cierre;1;0;0;0
+20235;25/03/2024;19:05:36;SANTANDER01;Santander;1;0;0;25;1;alta;cierre;1;1;0;0
+20236;14/03/2024;11:15:54;MADRID01;Madrid;1;0;0;14;0;baja;manana;1;0;3;0
+20237;21/03/2024;12:20:55;SEVILLA01;Sevilla;1;0;1;21;0;media;cierre;1;0;3;0
+20238;20/03/2024;10:59:02;BARCELONA01;Barcelona;1;1;1;20;0;baja;manana;1;0;2;0
+20239;20/03/2024;17:01:39;MADRIDODONNELL01;Madrid O Donnell;1;0;0;20;0;media;cierre;1;0;2;0
+20240;20/03/2024;14:04:54;BARCELONA01;Barcelona;1;0;0;20;0;baja;cierre;1;0;2;0
+20241;18/03/2024;8:53:54;VALENCIA01;Valencia;1;0;0;18;1;alta;manana;1;0;0;0
+20242;15/03/2024;8:49:32;BILBAO01;Bilbao;1;0;0;15;0;media;manana;1;0;4;1
+20243;15/03/2024;12:13:11;VALENCIA01;Valencia;1;0;0;15;0;media;cierre;1;0;4;0
+20244;13/03/2024;9:32:03;BARCELONA01;Barcelona;1;0;0;13;0;alta;manana;1;0;2;0
+20245;03/11/2024;9:10:31;VALLADOLID01;Valladolid;1;0;0;3;0;baja;manana;1;0;6;0
+20246;03/08/2024;10:23:46;MADRID01;Madrid;1;0;0;3;1;alta;manana;1;0;5;0
+20247;03/08/2024;13:00:00;MADRID01;Madrid;1;0;0;3;0;baja;cierre;1;0;5;0
+20248;03/07/2024;16:40:16;ODONNELL01;O Donnell;1;0;0;3;1;media;cierre;1;0;2;0
+20249;03/06/2024;10:38:06;ACACIAS01;Acacias;1;0;0;3;0;alta;manana;1;0;0;0
+20250;03/05/2024;15:08:18;CADIZ01;Cadiz;1;0;0;3;0;media;cierre;1;0;4;0
+20251;03/02/2024;13:35:05;SEVILLA01;Sevilla;1;0;0;3;0;baja;cierre;1;0;5;0
+20252;03/02/2024;13:24:08;ACORUNA01;A Coruna;1;0;0;3;0;media;cierre;1;0;5;0
+20253;03/01/2024;10:59:27;OVIEDO01;Oviedo;1;0;1;3;0;media;manana;1;0;2;0
+20254;27/02/2024;9:08:48;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;1;0;0;27;1;baja;manana;1;1;1;0
+20255;26/02/2024;15:56:56;MADRID01;Madrid;1;0;1;26;0;baja;cierre;1;1;0;0
+20256;23/02/2024;13:04:12;SANTAENGRACIA01;Santa Engracia;1;0;0;23;0;media;cierre;1;0;4;0
+20257;02/07/2024;8:13:38;MADRIDMOSTOLES01;Madrid Mostoles;1;0;0;2;0;media;manana;1;0;1;0
+20258;02/12/2024;14:24:01;TENERIFE01;Tenerife;1;1;1;2;0;baja;cierre;1;0;0;1
+20259;22/01/2024;14:09:37;BARCELONA01;Barcelona;1;0;1;22;0;baja;cierre;1;0;0;0
+20260;02/07/2024;11:50:45;VALENCIA01;Valencia;1;0;0;2;0;media;manana;1;0;1;0
+20261;02/06/2024;14:30:58;ACACIAS01;Acacias;1;0;0;2;0;alta;cierre;1;0;6;0
+20262;29/01/2024;19:10:37;MADRID01;Madrid;1;0;0;29;0;media;cierre;1;1;0;0
+20263;25/01/2024;11:30:32;ZARAGOZA01;Zaragoza;1;0;0;25;1;alta;manana;1;1;3;0
+20264;24/01/2024;11:11:40;ACACIAS01;Acacias;1;0;1;24;0;alta;manana;1;0;2;1
+20265;19/01/2024;13:50:59;LASPALMAS01;Las Palmas;1;0;0;19;0;media;cierre;1;0;4;1
+20266;17/01/2023;19:00:00;MADRID01;Madrid;1;0;0;17;0;media;cierre;1;0;1;0
+20267;01/11/2024;9:20:40;ACACIAS01;Acacias;1;0;0;1;0;baja;manana;1;0;4;0
+20268;01/09/2024;13:03:40;SANTAENGRACIA01;Santa Engracia;1;0;0;1;1;media;cierre;1;0;6;0
+20269;01/08/2024;12:57:28;ZARAGOZA01;Zaragoza;1;0;0;1;0;media;cierre;1;0;3;0
+20270;01/04/2024;9:12:00;MADRID01;Madrid;1;0;0;1;0;alta;manana;1;0;0;0
+20271;27/12/2023;10:12:32;MADRID01;Madrid;1;0;0;27;0;baja;manana;1;1;2;0
+20272;19/12/2023;11:28:42;ODONNELL01;O Donnell;1;0;0;19;0;media;manana;1;0;1;0
+20273;18/12/2023;19:26:18;BARCELONA01;Barcelona;1;0;1;18;1;media;cierre;1;0;0;0
+20274;13/12/2023;14:10:00;ACORUNA01;A Coruna;1;0;0;13;0;media;cierre;1;0;2;0
+20275;29/11/2023;8:17:49;MADRIDSANTAENGRACIA01;Madrid Santa Engracia;1;0;0;29;1;alta;manana;1;1;2;0
+20276;29/11/2023;11:31:36;GIJON01;Gijon;1;0;0;29;1;media;manana;1;1;2;0
+20277;27/11/2023;11:19:26;GRANADA01;Granada;1;0;0;27;0;alta;manana;1;1;0;0
+20278;29/11/2023;8:30:00;MADRID01;Madrid;1;0;0;29;0;media;manana;1;1;2;1
+20279;23/11/2023;8:40:04;BARCELONA01;Barcelona;1;0;1;23;0;media;manana;1;0;3;0
+20280;22/11/2023;10:05:09;MADRID01;Madrid;1;0;0;22;0;media;manana;1;0;2;0
+20281;15/09/2023;10:20:08;COSTARICA01;Costa Rica;1;0;1;15;0;media;manana;1;0;4;0
+20282;14/09/2023;12:19:13;MADRIDODONNELL01;Madrid O Donnell;1;0;0;14;0;media;cierre;1;0;3;0
+20283;09/12/2023;17:36:42;MADRID01;Madrid;1;0;0;9;0;media;cierre;1;0;5;0
+20284;09/11/2023;14:28:19;SALAMANCA01;Salamanca;1;0;0;9;0;baja;cierre;1;0;3;0
+20285;09/08/2023;14:22:26;ALICANTE01;Alicante;1;0;0;9;0;media;cierre;1;0;2;1
+20286;09/05/2023;10:22:43;BARCELONADIAGONAL01;Barcelona Diagonal;1;0;0;9;1;alta;manana;1;0;1;0
